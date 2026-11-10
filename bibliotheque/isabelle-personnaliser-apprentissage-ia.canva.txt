@@ -1,0 +1,513 @@
+Personnaliser l’apprentissage avec l’IA: tutorat, remédiation, différenciation 
+Parcours IA4EDU 2026-2027
+Licence et citation : cette ressource est partagée sous licence Creative Commons CC BY NC SA 4.0. Cela signifie que vous pouvez la réutiliser, la partager et la transformer sous condition de citer la source (voir ci-dessous), de ne pas l’utiliser à des fins commerciales et de la partager dans les mêmes conditions (avec la même licence CC BY NC SA 4.0).
+Qui suis-je?
+Formatrice NumériqueCo-Fondatrice PedagokIT asblFormatrice EdulabProfesseur en technopédagogie - CPFB Louvain-la-neuveProfesseur d'anglaisContact: isabelle@pedagokit.be
+https://www.linkedin.com/in/isabelle-fievet/PedagokIT - le Kit pédagogique des pistes numériques
+[Fiche FSE tinyurl.com/iareferent](http://tinyurl.com/iareferent)[](http://tinyurl.com/iareferent)
+Code : 680
+V2 Parcours Référent.e IA
+Etape 1: Je crée mon compte
+La Rolls Royce des exerciseurs
+Bookwidgets Live - permet d’explorer toute la puissance du feedback immédiat
+[Inscription](https://www.bookwidgets.com/giftcard/DB84-EZXS-T2K6)[](https://www.bookwidgets.com/giftcard/DB84-EZXS-T2K6)
+[Etape 2: je complète le formulaire pour obtenir l’IA](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdXgSYztme9mZecLuzAoN8PqQ8Y6zzRh8XCMDyV2_6XfrKppw/viewform?usp=send_form)[](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdXgSYztme9mZecLuzAoN8PqQ8Y6zzRh8XCMDyV2_6XfrKppw/viewform?usp=send_form)
+Au programmeJour 1
+Pourquoi les aménagements raisonnables?
+Conception Universelle des Apprentissages
+NotebookLMGoogle AI StudioAdapter support de cours - DysFacile / HelperbirdSous-titrer vidéo CanvaAdapter texte CanvaChatbot vérification inclusion
+Quoi?
+QuizletGemini révision orale - Mode « Question-Réponse » (Évaluation active)Gemini révision orale - Mode « Récitation guidée » Gemini - Aide pour s’organiser et étudierGemini - Mode “apprendre”
+Comment?
+"Différenciation & Besoins Spécifiques" "Boost de Motivation & Sens" "Ludification & Jeux" 
+Pourquoi?
+[Tutoriel](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/intelligences-artificielles/outils-ia/notebooklmhttps:/www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-dialogue-avec-lia)
+Tutoriel complet disponible
+Slides vertes = activités extra - dépassement
+Astuce
+Je clique.
+Risque d’erreursLes LLM créent des contenus les plus probables sur base de son apprentissage. Certains contenus peuvent dès lors être incorrects ou biaisés.
+Prompting essentielLa qualité des réponses du LLM dépend de la précision avec laquelle le prompt aura été rédigé.
+Compréhension limitéeLes LLM génèrent du texte sans comprendre le sens du prompt ni du texte généré.
+Usage critique nécessaireL'utilisation des LLM demande une vérification des contenus générés et une réflexion critique.
+Sécurité des donnéesL’usage du LLM ne garantit pas la sécurité des données, l’utilisateur reste responsable des données fournies dans ses prompts qui doivent respecter le RGPD et les droits d’auteur.
+
+
+
+
+
+Quelques points de vigilance
+Rappel
+
+
+
+
+
+
+
+
+L’art du prompt : par exemple 
+Ton rôle
+Ta tâche
+Les contraintes à prendre en compte
+Le format de réponse attendue
+Formateur d’adulte
+Créer un plan de formation à propos de l’IA en évaluation
+Une formation de 2 jours, soit 12 heures, niveau débutant. Il faut parler des biais cognitifs et de l’art du prompt, notamment.
+Sous forme de tableau avec une colonne avec le timing, une avec le titre de l’activité, une avec le détail, une avec le matériel à prévoir.
+${pageNumberOnly}
+Rappel
+
+Aller à la ligne dans une IAG
+${pageNumberOnly}
+Rappel
+
+Pourquoi les aménagements raisonnables
+Mise en place de structures pour former les enseignants et concrétiser le droit en classe
+Sans aide
+Avec aide
+
+Conception Universelle des Apprentissages
+La Conception Universelle de l'Apprentissage (CUA) est une approche pédagogique proactive qui anticipe la diversité des profils d'élèves dès la conception d'un cours. Elle élimine les obstacles environnementaux en offrant de la flexibilité à travers trois piliers : diversifier la représentation de l'information, les modes d'engagement et les modes d'expression.
+ConceptionUniverselledesApprentissages
+Éviter les problèmes avant qu'il n'y en ait
+Il englobe également les fonctions exécutives, c'est-à-dire toutes les stratégies d'organisation, de planification, d'action et d'étude que l'élève met en œuvre pour s'approprier le contenu. 
+Au-delà des Étiquettes : Soutenir l'Élève par ses Besoins Réels
+Expliquer pourquoi il est plus efficace pour un enseignant de se concentrer sur les difficultés concrètes et les besoins fonctionnels de l'élève plutôt que sur son diagnostic médical (étiquette).
+Le diagnostic médical est une boussole, mais pas un mode d'emploi pédagogique. Chaque cerveau est unique : deux élèves avec la même "étiquette" (ex: dyslexie) peuvent avoir des besoins radicalement opposés en classe.
+Pourquoi dépasser le diagnostic ?
+L'étiquette n'est pas une solution
+Réduire un élève à son trouble occute sa personnalité et ses forces uniques.
+Décrire pour mieux agir
+De la "Dyslexie" au besoin de lecture
+Ciblons la difficulté à décoder les mots pour adapter les polices ou supports.
+De la "Dyspraxie" au besoin de graphisme
+Ciblons la difficulté à tracer les lettres pour proposer l'outil numérique.
+Du "TDAH" au besoin d'attention
+Ciblons la fragilité de concentration pour offrir un environnement calme ou des pauses.
+100% des élèves sont différents
+Le diagnostic ne dit pas "comment" aider concrètement l'élève au quotidien.
+Vision Médicale vs Pédagogique
+Passer de "nommer ce qui ne va pas" à "identifier les leviers pour apprendre".
+Attentionnels
+92%
+Graphisme
+Lecture
+85%
+70%
+Besoins partagés au-delà des diagnostics
+Source: Collette, E. (2026). Les Clés du LLL – Conception universelle de l’apprentissage. Vers des dispositifs pédagogiques plus inclusifs. Louvain Learning Lab, UCLouvain.
+NotebookLMGoogle AI StudioAdapter support de cours - DysFacile / HelperbirdSous-titrer vidéo CanvaAdapter texte CanvaChatbot vérification inclusion[](#page-6)
+QuizletGemini révision orale - Mode « Question-Réponse » (Évaluation active)Gemini révision orale - Mode « Récitation guidée » Gemini - Aide pour s’organiser et étudierGemini - Mode “apprendre”
+"Différenciation & Besoins Spécifiques" "Boost de Motivation & Sens" "Ludification & Jeux" 
+Quoi?
+Comment?
+Pourquoi?
+La CUA : Le « QUOI » de l'apprentissage
+(Mieux présenter l'information)
+Comprendre le principe du « QUOI »
+Plusieurs modes de représentation
+Proposer différentes manières de présenter les contenus pour s'adapter à la diversité des cerveaux.
+Aucun support n'est universel
+Ce qui aide une personne (ex: sous-titres) peut en aider beaucoup d'autres (ex: allophones).
+Contrastes
+Polices adaptées
+Clarifier la Langue et les Symboles
+Expliciter le vocabulaire technique, les symboles et les relations entre les concepts clés.
+Vocabulaire technique
+Symboles
+Relations clés
+Leviers pour agir concrètement
+Optimiser la Perception
+Varier les formats (PDF, audio, vidéos) et assurer la lisibilité (contrastes, polices adaptées)
+Notebook•LM
+Sous-titres
+Formats
+Lisibilité
+PDF
+Audio
+Video
+Quoi?
+Créer du contenu sur base de ses cours
+Quoi?
+Créer:des infographiesdes scripts pour des auditionsdes exercices (différenciés), des cartes mentales, des podcasts,...des test formatifs, certificatifs et sommatifsdes vidéos explicativesun tuteur pour ses élèvesComparer son cours au programme[](https://notebooklm.google.com/notebook/660a8758-eb66-4df7-992d-96243420b2da)[](https://notebooklm.google.com/notebook/660a8758-eb66-4df7-992d-96243420b2da)
+[exemple](https://notebooklm.google.com/notebook/1e19854f-c55a-454d-801c-f4bad10a6644)[](https://notebooklm.google.com/notebook/1e19854f-c55a-454d-801c-f4bad10a6644)
+[Tutoriel](https://www.pedagokit.be/notre-kit/outils-et-pistes-transversaux/intelligences-artificielles/outils-ia/notebooklm)
+Structurer visuellement l'information
+Quoi?
+Prompt présentation
+Crée une présentation sur [SUJET OU CHAPITRE] pour des élèves de [CLASSE, ÂGE].Elle doit rester accessible à tous les élèves, quels que soient leurs besoins en lecture, en attention ou en organisation.Inscris « [NOM DU COURS] » sur la première diapositive.CONTENU- Va de la notion la plus simple à la plus complexe.- Limite chaque diapositive à une idée et à 30 mots maximum.- Écris des phrases courtes, à la voix active, avec des mots adaptés à l'âge des élèves.- Explique chaque mot technique à sa première apparition.- Classe les listes de vocabulaire par ordre alphabétique.- Mets en gras les verbes d'action des consignes.- Remplace les exercices à trous ou à relier par des questions directes ou des QCM.PRÉSENTATION VISUELLE- Utilise une grande police sans empattement.- Utilise uniquement le gras pour l'emphase, sans italique, soulignement ni texte continu en majuscules.- Aligne le texte à gauche, avec des lignes bien espacées et de larges marges.- Utilise un fond uni ivoire et un texte foncé. Ne place jamais de texte sur une image.- Garde la même mise en page sur toutes les diapositives.- Utilise un code couleur constant, toujours accompagné d'une étiquette : bleu pour « Définition », orange pour « Consigne », violet pour « Exemple ».- Ajoute une image simple seulement si elle aide à comprendre.- Grise une ligne sur deux dans les tableaux.N'affiche aucune de ces consignes sur les diapositives.
+Quoi?
+Quoi?
+Prompt infographie
+Crée une infographie sur [SUJET OU SOURCE SÉLECTIONNÉE] pour des élèves de [ÂGE] ans.Elle doit rester facile à lire et à suivre pour tous les élèves, en particulier ceux qui ont besoin d'une charge de lecture réduite et de repères visuels clairs.CONTENU- Écris un titre court et explicite.- Crée de 3 à 5 blocs, selon le contenu réellement utile.- Consacre chaque bloc à une seule idée, qui apporte une information nouvelle.- Donne à chaque bloc un titre de 5 mots maximum.- Écris 2 phrases maximum par bloc, avec 12 mots maximum par phrase.- Utilise des mots simples, adaptés à l'âge des élèves.- Garde les termes du cours que les élèves doivent retenir, et explique-les simplement.- Reste fidèle aux sources : simplifie sans rendre une information inexacte.- Si une idée dépend d'une cause, indique cette cause.ORGANISATION SELON LE CONTENU- Étapes ou chronologie : numérote les blocs dans l'ordre.- Cycle : numérote les étapes, puis ajoute une courte phrase finale pour indiquer le retour au début.- Catégories : consacre un bloc à chaque catégorie, avec son nom bien visible.- Comparaison : consacre un bloc à chaque critère et cite les deux éléments comparés.MISE EN PAGE- Place le titre en haut, puis tous les blocs sur une seule colonne, de haut en bas.- Garde un seul sens de lecture, sans flèches qui se croisent.- Laisse de larges marges et un espace bien visible entre les blocs.- Aligne le texte à gauche, avec des lignes bien espacées.STYLE VISUEL- Utilise une grande police sans empattement.- Mets une majuscule uniquement en début de phrase, aux noms propres et aux sigles.- Utilise uniquement le gras pour l'emphase, sans italique ni soulignement.- Utilise un fond uni ivoire, y compris dans les blocs, et un texte foncé.- Place à gauche de chaque bloc un pictogramme sobre qui représente précisément son idée.- Adapte les pictogrammes à l'âge des élèves et évite les personnages décoratifs.- Utilise un code couleur uniquement si le contenu comporte de vraies catégories, et indique alors la catégorie sur chaque bloc concerné. Sinon, n'ajoute ni code couleur ni légende.- Utilise 3 couleurs maximum, avec un bon contraste et sans association rouge-vert.- Ne place jamais de texte sur une image ou une illustration.N'affiche aucune de ces consignes sur l'infographie.
+Quoi?
+Prompt:Crée une carte mentale sur [SUJET] pour des élèves de [ÂGE] ans.Elle doit donner une vue d'ensemble claire, avec une charge de lecture réduite.STRUCTURE- Au centre : le sujet, en quelques mots.- Niveau 1 : 4 ou 5 branches maximum.- Niveau 2 : 3 sous-branches maximum par branche.- Ne crée pas de niveau supplémentaire.- Organise les idées du général au particulier.- Fais apparaître chaque notion une seule fois.LIBELLÉS- Écris tous les libellés en français.- Limite chaque libellé à 5 mots, sans phrase complète.- Utilise des mots simples et concrets, adaptés à l'âge des élèves.- Garde les termes techniques que les élèves doivent apprendre.
+Quoi?
+Modifier la carte mentale
+Crée une carte mentale sur [SUJET / source sélectionnée], pensée pour des élèves dys (dyslexie, dyspraxie, dysorthographie) de [  ] ans. Limite-toi à 4-5 branches principales maximum, avec des libellés courts (3-5 mots), sans phrases complètes dans les nœuds. Utilise un vocabulaire simple et évite les termes abstraits sans reformulation concrète. La structure doit être strictement hiérarchique (du général vers le particulier), sans branches qui se croisent ou qui reviennent en arrière visuellement.
+Quoi?
+Réduire la charge de lecture
+Prompt:Génère un Video de maximum 2 minutes sur [SUJET / source], destiné à des élèves dys pour des élèves de [  ] ans. Construis un seul fil narratif linéaire, sans revenir en arrière ni juxtaposer plusieurs idées en parallèle à l'écran. Limite-toi à 2-3 sections maximum, annoncées clairement par un titre affiché avant chaque nouvelle partie ("Partie 1 : ..."). Une seule idée principale par section, sans digression ni exemple secondaire ajouté en cours de route. Garde le même visuel pendant toute la durée où une idée est expliquée à l'oral — évite les changements de plan ou d'image qui ne correspondent à aucun changement d'idée. Termine chaque section par un bref rappel oral de l'idée qui vient d'être vue avant de passer à la suivante.
+L'Audio Overview facilite l'accès au contenu pour les élèves dyslexiques en transformant une source en podcast, évitant ainsi le décodage. Quatre formats sont disponibles : Deep Dive, Brief, Critique, et Debate, avec le format Brief étant idéal pour un accès rapide. Le Video Overview offre une narration visuelle synchronisée, utile pour ceux qui bénéficient d'un soutien visuel et sonore en même temps que le texte.
+Quoi?
+Quoi?
+Réduire la charge de lecture
+Réduire la charge de lecture
+Prompt:Génère un Audio sur [sujet] pour des élèves de [  ]ans. Ne retiens que les 2 à 3 idées essentielles, en ignorant volontairement les détails secondaires (dates précises, noms multiples, exemples redondants). Annonce dès le départ combien d'idées seront abordées ("on va voir seulement deux choses aujourd'hui : d'abord..., puis..."). Reformule chaque idée avec des mots très simples, marque une pause claire entre chaque idée, et termine en répétant l'idée principale avec une formulation légèrement différente pour la fixer.
+Quoi?
+Réduire l'effort de recherche dans le texte
+Chaque réponse du chat NotebookLM est accompagnée de citations cliquables vers la source exacte. Concrètement, un élève peut poser une question avec ses propres mots ("c'est quoi la cause principale de...") plutôt que de devoir relire tout un chapitre pour retrouver l'info — et vérifier la réponse en un clic sans se perdre dans le document. C'est probablement la fonction la plus directement utile pour ce profil d'élèves : ça déplace l'effort de "chercher dans le texte" vers "vérifier une réponse déjà localisée."
+Quoi?
+Prompt:Crée un quiz sur  [SUJET / source sélectionnée], destiné à des élèves dys de [  ] ans. Utilise exclusivement des questions à choix multiples (jamais de réponse libre à rédiger), avec 3 options de réponse maximum par question pour limiter la charge de lecture. Formule les questions en phrases courtes et au vocabulaire simple, une seule idée testée par question. Évite les doubles négations et les questions à tiroirs ("lequel des éléments suivants n'est PAS..."). Limite le quiz à 8-10 questions maximum pour ne pas surcharger l'attention.
+Pour la mémorisation et l'évaluation formative
+Les Flashcards et le Quiz permettent de retravailler le contenu par petites unités, avec rappel actif plutôt que relecture — souvent plus efficace pour les élèves avec des difficultés de mémoire de travail. Tu peux demander un quiz à choix multiples plutôt qu'à réponse libre pour limiter la charge orthographique pendant l'évaluation.
+Quoi?
+A ajouter pour les Maths et sciences: Contraintes obligatoires:Format texte brut uniquementAucun LaTeX, aucun \( \) $$Aucun Markdown, aucun astérisque, aucun grasSymbole de multiplication × obligatoireUtiliser les exposants Unicode : ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰ (exemples : x², x³, (a + b)²)Utiliser les indices Unicode : ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ (exemples : x₁, a₂, b₃)si tu les utilises les lettres grecques ω, φ, leurs indices et exposants doivent aussi être en Unicode (ex : φ₂³, ω₁², λ₃)
+Quoi?
+Transformer le notebook en tuteur
+Quoi?
+Partager son Notebook
+Compte scolaire: Partage directement depuis Google Classroom.
+Quoi?
+Quoi?
+Modifier une image dans canva
+Quoi?
+Nombre mots
+Temps audio
+300
+1:20 min
+500
+2:16 min
+900
+2:57 min
+Exemple: accession au pouvoir d’Hitler
+Créer un podcast personnalisé
+Prompt: ne pas oublier de donner des détails sur le contexte
+1) Faire générer / adapter le texte par une IA
+Quoi?
+Créer un podcast personnalisé
+Rôle : Agis comme un concepteur pédagogique et scénariste expert en vulgarisation scientifique et éducative. Ton objectif est de rendre une notion de cours accessible à tous les profils d'élèves (rampe cognitive) à travers un format audio captivant.Tâche : Écris un dialogue fluide, clair et imagé d'environ 500 mots entre deux personnages (Speaker 1 et Speaker 2) en français.Matière / Discipline : [INSÉRER LA MATIÈRE, ex: Histoire, Biologie]Sujet / Notion complexe à expliquer : [INSÉRER LE CONCEPT, ex: La photosynthèse, La Première Guerre mondiale]Public cible : Élèves du secondaire (le vocabulaire doit être simple, les métaphores concrètes et le jargon explicité).🌟 Consigne Posture Positive (STRICT) :Interdiction absolue d'utiliser des formulations négatives ou décourageantes telles que "c'est difficile", "c'est une matière compliquée", "beaucoup d'élèves se trompent ici" ou "bon courage pour retenir ça".Le ton doit être résolument optimiste, rassurant et enthousiaste. Présente la notion comme un défi stimulant, une énigme passionnante ou une découverte logique et accessible à tout le monde.Instructions de contenu (CUA) :L'un des personnages (Speaker 1) pose des questions simples, exprime de la curiosité ou des doutes légitimes que les élèves pourraient avoir, mais toujours de manière positive (ex: "J'aimerais vraiment comprendre comment ça marche !").L'autre personnage (Speaker 2) explique la notion en utilisant des analogies concrètes de la vie quotidienne, sans faire de phrases trop longues pour faciliter la charge cognitive auditive.Instructions de formatage (STRICT) :Scene: Commence par décrire en une phrase le lieu et l'ambiance sonore de départ (ex: Dans un laboratoire avec un léger bruit de fond, Dans un parc avec des oiseaux) pour configurer l'environnement TTS.Sample Context: Décris précisément l'humeur, le rythme (posé et articulé), le ton et l'intention globale des deux voix pour guider le modèle audio.Dialogue : Utilise exclusivement "Speaker 1:" et "Speaker 2:" au début de chaque réplique.Audio Tags : Inclus des tags d'émotions ou d'intentions entre crochets comme [thoughtful], [enthusiastic], [curious], [realizing], [explaining] pour que l'outil de synthèse vocale donne un rendu vivant et naturel. Place ces tags uniquement au début de la réplique, juste après les deux-points.Ton global : Décontracté, bienveillant, positif et pédagogique.
+[Tutoriel](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-dialogue-avec-lia)
+ 2) Transformer le texte en audio 
+Créer un podcast personnalisé
+[Défi -balises SSML](https://www.notion.so/Utiliser-GoogleAI-studio-pour-cr-er-des-dialogues-audios-263fa5fdbf5580c6a1dbcdfab69c9225) et différentes voix[](https://www.notion.so/Utiliser-GoogleAI-studio-pour-cr-er-des-dialogues-audios-263fa5fdbf5580c6a1dbcdfab69c9225)
+Quoi?
+[Tutoriel](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-dialogue-avec-lia)
+10 conseils:
+Adapter son cours
+Quoi?
+Police épurée : Privilégiez des polices sans empattement hautement lisibles comme Verdana ou Arial.Taille généreuse : Utilisez une taille minimale de 12 ou 14 pt pour l'écrit, et de 24 pt pour les projections.Pas d'italique : Évitez l'italique et le soulignement qui déforment les lettres, préférez le gras pour les mots-clés.Interligne aéré : Configurez un interligne de 1,5 pour éviter les sauts de ligne involontaires lors de la lecture.Alignement à gauche : Ne justifiez jamais les blocs pour conserver un espacement naturel et régulier entre les mots.Paragraphes courts : Fractionnez le texte en blocs distincts et utilisez des listes à puces bien aérées.Marges larges : Laissez de grands espaces blancs sur les côtés (minimum 2,5 cm) pour limiter la largeur des lignes.Fort contraste : Assurez-vous que le texte se détache parfaitement sur un fond uni, sans image texturée derrière.Tableaux alternés : Utilisez des lignes de couleurs alternées (blanc/gris clair) pour faciliter la lecture horizontale.Clarté visuelle : Allez à l'essentiel et épurez la mise en page pour soulager immédiatement la charge cognitive.
+Comment?
+Comment?
+Demander à Gemini une struture de cours.Demander à créer le support de cours adapté à l’aide de ce prompt.
+[Prompt](https://docs.google.com/document/d/1oRmAhCGBEr8DfJFN6FrlZGRjakLWErmFh4NDQfGz9MY/copy)[](https://docs.google.com/document/d/1oRmAhCGBEr8DfJFN6FrlZGRjakLWErmFh4NDQfGz9MY/copy)
+Comment?
+Modifier le texte
+Comment?
+Ajouter une image
+Comment?
+J’explore en autonomie...
+[Vérifier si son support de cours est accessible](#page-6)
+Extra
+[Ajouter des sous-tires à une vidéo](#page-3)[Modifier du texte](#page-4)[Ajouter une voix à sa présentation](#page-5)
+[Helperbird - extension Chrome](#page-7)[OpenDyslexic pour Chrome](#page-8)[Edge - Mode lecture](#page-9)[Edge - Lecteur Immersif](#page-a)[](#page-a)
+Quoi?
+Adapter son texte
+Quoi?
+Adapter son texte a tester
+Quoi?
+Ajouter des sous-titre à ses vidéos
+Quoi?
+Astuce: modifier tous les sous-titres en une fois
+Sélectionnez un texte de sous-titres.
+Quoi?
+Astuce: modifier tous les sous-titres en une fois
+Cliquez sur les touches CTRL + A pour tout sélectionner.
+Maintenez la touche ctrl et cliquez sur la vidéo pour la déselectionner.
+Modifiez la taille la police dans la barre du dessus. Le changement s’appliquera à tous les sous-titres de la vidéo.
+Quoi?
+Modifier du texte
+Quoi?
+Modifier du texte
+Ajouter une voix à sa présentation
+Quoi?
+Ajouter une voix sur sa présentation
+Quoi?
+Vérifier si son support de cours est accessible
+Quoi?
+# Prompt Gem — Adaptation des supports de cours (CUA & Accessibilité)## RôleTu es un expert en technopédagogie, en inclusion scolaire et en Conception Universelle de l'Apprentissage (CUA). Ton but est d'aider les enseignants du supérieur et du secondaire à analyser, critiquer et adapter leurs supports de cours ou d'évaluation pour concevoir des dispositifs pédagogiques plus accessibles et inclusifs, bénéfiques à tous les profils d'apprenants.## Comportement d'ouvertureAu tout premier message de la conversation, salue l'enseignant chaleureusement. Demande-lui de te partager le support qu'il souhaite faire analyser (texte collé, exercice, évaluation, structure de document ou description détaillée). Précise que ton approche s'appuie sur le cadre de la CUA pour anticiper les barrières de l'environnement d'apprentissage plutôt que de simplement proposer des adaptations individuelles à posteriori.## Méthodologie d'analyseDès que l'enseignant partage un support, procède en 3 étapes claires :1. Analyse critique : relève ce qui pose problème pour l'accessibilité ou la charge cognitive, en expliquant le "pourquoi" pédagogique de chaque point.2. Conseils CUA & Bonnes pratiques : rappelle les principes concrets à appliquer (représentation, expression, engagement).3. Version modifiée ("Exemple type") : propose une restructuration concrète, présentée en deux sections séparées ("Original" / "Proposition") pour faciliter la comparaison.Important — Limite de format : Tu ne peux produire que du texte standard (Markdown). Pour les critères de mise en forme physique (polices, interlignes, marges, contrastes), donne une consigne textuelle précise et actionnable (ex : "Appliquez un interligne de 1,5 dans votre logiciel") que l'enseignant devra appliquer lui-même dans son traitement de texte. Ne prétends pas avoir appliqué du texte en 14 pt ou des marges de 2,5 cm dans ta réponse textuelle.Pertinence : N'aborde que les critères réellement applicables au support fourni. Ignore silencieusement les critères non concernés.## Grille de critères (CUA & Accessibilité)### 1. Structure, Lisibilité Visuelle et Charge Cognitive* Clarté visuelle & Alignement : Allez à l'essentiel et épurez la mise en page pour soulager la charge cognitive. Alignez le texte exclusivement à gauche (ne jamais justifier, pour garder un espacement naturel et régulier entre les mots).* Polices et Styles : Recommandez des polices sans empattement hautement lisibles (Arial, Verdana). Évitez l'italique et le soulignement (qui déforment la forme des lettres). Utilisez le gras judicieusement pour mettre en valeur les mots-clés.* Aération : Fractionnez le texte en paragraphes courts et utilisez des listes à puces bien aérées. Conseillez un interligne de 1,5 et des marges larges (minimum 2,5 cm) pour limiter la largeur des lignes et permettre la prise de notes.* Tableaux et Contrastes : Pour les tableaux, recommandez d'alterner la couleur des lignes (blanc / gris clair) pour faciliter la lecture horizontale. Assurez-vous que le texte se détache parfaitement sur un fond uni (pas d'image texturée derrière), lisible même après passage à la photocopieuse.* Titre explicite : Vérifiez que le nom du cours/matière est explicitement mentionné sur le document pour éviter les confusions.### 2. Modes de Représentation (Le "Quoi" de l'apprentissage)* Flexibilité des supports : Conseillez de fournir les documents dans des formats numériques flexibles (ex: Word ou PowerPoint modifiable plutôt que PDF figé) pour faciliter la personnalisation (taille minimale de 12-14 pt pour l'écrit, 24 pt pour les projections) et l'utilisation de logiciels d'assistance.* Accessibilité numérique (OCR) : Si un PDF est utilisé, rappelez qu'il ne faut pas écraser la couche OCR pour que les outils de synthèse vocale des élèves puissent lire le texte.* Images et descriptions : Le texte important ne doit pas être figé dans une image. Si un graphique ou une image est indispensable, exigez une description textuelle alternative pour les outils numériques.* Langue et Symboles : Proposez d'expliciter clairement les symboles ou le vocabulaire complexe (ex: via un glossaire ou lexique). Les listes de vocabulaire doivent être classées par ordre alphabétique.### 3. Modes d'Action, d'Expression et Évaluation (Le "Comment")* Graduation : Structurez les questions de la plus simple à la plus complexe pour mettre l'élève en confiance et mieux diagnostiquer ses difficultés.* Consignes claires : Identifiez les verbes d'action et formulez-les en GRAS et en MAJUSCULE (ex : **ANALYSE**, **COMPARE**).* Exercices à éviter sur support numérique : Identifiez les exercices "à trous" ou "à relier" et conseillez de les éviter pour les élèves dyslexiques sur outil numérique (l'écoute mot à mot par synthèse vocale y est épuisante). Proposez une alternative (QCM, questions ouvertes directes).* Diversification des mesures : Suggérez d'utiliser, lorsque c'est possible, plus d'une mesure pour évaluer un même acquis (ex: donner le choix entre une modalité écrite ou orale, ou combiner un écrit court et une présentation).### 4. Modes d'Engagement et Outils (Le "Pourquoi")* Soutien à l'autonomie : Proposez des choix dans les activités ou les thèmes pour éveiller l'intérêt (ex: proposer plusieurs études de cas évaluant le même concept sous-jacent pour que l'élève choisisse son domaine d'expertise).* Recommandations technopédagogiques :   * Suggérez l'utilisation de formats audio/podcasts ou capsules vidéos en complément (avec sous-titres).  * Proposez l'usage de Quizlet pour l'étude espacée du vocabulaire.  * Recommandez l'outil de dictée vocale locale "Murmur" (sans Wi-Fi requis) pour les évaluations.## Commandes d'interactionL'enseignant peut utiliser ces raccourcis à tout moment :* MODIFIER [élément] : retravaille uniquement l'élément ciblé (ex : "MODIFIER consigne 3") sans refaire toute l'analyse.* NOUVELLES IDÉES : propose d'autres pistes d'adaptation ou outils issus de la CUA.* SYNTHÈSE : résume en quelques lignes les points clés d'adaptation essentiels à retenir pour ce support.## TonBienveillant, constructif, de pair à pair, axé sur la plus-value pédagogique. Valorise toujours les efforts déjà présents dans le support avant de pointer les améliorations possibles. Rappelle régulièrement qu'un petit changement dans la conception peut faire une grande différence pour la réussite de tous !
+Prompt du Gems
+Quoi?
+Quoi?
+Cet outil permet de mettre en relief visuellement des segments de texte (mots, lignes ou paragraphes). Pour un élève dyslexique ou souffrant de troubles de l'attention (TDA/H), cela compense les sauts de lignes accidentels, la confusion visuelle et la perte de repères lors de la lecture d’un bloc dense.
+Quoi?
+Quoi?
+C'est un outil indispensable pour l'épuration visuelle. Il supprime toutes les distractions périphériques d'une page web (publicités, animations, fenêtres contextuelles, colonnes latérales). L'environnement de lecture devient propre, stable et entièrement personnalisable (modification de la police, choix de couleurs contrastées pour l’arrière-plan), ce qui optimise grandement le confort visuel.
+Ce mode intègre généralement la synthèse vocale (Text-to-Speech) et le suivi mot à mot. Écouter le texte tout en suivant les mots mis en surbrillance permet de contourner la barrière du décodage phonologique. C'est un levier d'autonomie majeur : l'élève accède directement au sens du contenu sans dépendre de l'aide d'un tiers pour lui lire la consigne ou le texte.
+Quoi?
+Cette fonction permet d'appliquer l'ensemble de ces adaptations d'accessibilité (changement de police pour de l'OpenDyslexic, modification des espacements, synthèse vocale) directement sur des documents au format PDF, qui sont souvent figés et complexes à lire pour eux à l'état brut.
+Quoi?
+C'est le pilier de l'accessibilité cognitive. Elle transforme le texte écrit en contenu audio. Pour un élève dyslexique, cela permet de court-circuiter l'étape du décodage graphique, souvent laborieuse et source d'erreurs. L'élève peut ainsi se concentrer exclusivement sur la compréhension du message, le vocabulaire et la structure syntaxique. Cela favorise grandement l'autonomie face aux consignes d'évaluation ou aux textes d'étude.
+Quoi?
+Une extension très simple qui applique instantanément la police d'écriture éponyme (plus lourde à la base des lettres pour éviter qu'elles ne pivotent ou ne se confondent dans l'esprit de l'élève) sur l'ensemble des sites visités. Une fois enclenchée dans la pièce de puzzle, il faut rafraîchir la page.
+Quoi?
+Quoi?
+
+Edge - Mode de lecture
+
+
+Quoi?
+Edge - Mode de lecture
+Quoi?
+
+Edge - lecteur immersif
+
+
+Quoi?
+Edge - Lecteur Immersif
+Le « Comment » de l'Apprentissage : Action et Expression
+Diversifier les modes d'action et d'expression.Lever les barrières liées à la manière dont les élèves interagissent avec leur environnement et démontrent ce qu'ils ont appris.
+Piloter son propre apprentissage
+Englobe les stratégies d'organisation, de planification et d'étude.
+Soutenir les fonctions exécutives
+Multiplier les voies d'expression
+Permettre le choix entre l'écrit, l'oral ou des supports créatifs pour démontrer ses acquis.
+Structurer l'action
+Aider l'élève à fixer des objectifs réalistes, segmenter les tâches et surveiller ses progrès.
+Outils de soutien à la stratégie
+Fournir des échéanciers clairs, des exemples réussis et des critères d'évaluation.
+Varier les outils d'interaction
+Utiliser des technologies d'assistance et offrir différents canaux (mails, forums, échanges directs).
+Diversifier les moyens d'agir et de communiquer
+Notebook.M
+Comment?
+Les 4 piliers de l’apprentissage - Stanislas Dehaene
+Attention
+Sélectionner les informations
+Canaliser l’attention des élèves
+Engagement actif
+Un élève passif n’apprend pas
+Un élève est actif quand il a envie de faire les activités
+Feedback immédiat
+Les erreurs sont positives et sources d’apprentissage
+Feedback le plus rapproché possible du moment de l’erreur
+Consolidation
+Automatisation des connaissances
+Conscient devient inconscient
+Répétition
+consolidation
+Prompt:Tu es un assistant expert pour un professeur du [primaire/secondaire/haute école] en Belgique francophone. Crée une liste de révision Quizlet adaptée à mes élèves. Je désire [20] cartes de révision. le résultat final doit être présenté sous forme de liste séparée par des tabulations dans un bloc de code, pour que je puisse facilement le copier-coller dans Quizlet.  Classe les termes en ordre alphabétique.Thématique : [décris brièvement le thème des cartes de révision].Niveau : [classe P1,S1, BAC1].Fournis-moi le résultat sous cette forme :Colonne 1 : terme ou questionColonne 2 : réponse
+Astuce: vous pouvez ajouter une photo d’une liste de votre manuel ou manuscrite pour que l’IA crée la liste.Vous pouvez demander à l’IA de trier les mots par nature, thématique,...
+Créer ses listes quizlet
+Comment?
+[Tutoriel](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-quizlet)
+Comment?
+Prompt sciences:Tu es un assistant expert pour un professeur du [primaire/secondaire/haute école] en Belgique francophone. Crée une liste de révision Quizlet adaptée à mes élèves. Je désire [20] cartes de révision. le résultat final doit être présenté sous forme de liste séparée par des tabulations dans un bloc de code, pour que je puisse facilement le copier-coller dans Quizlet. Classe les termes en ordre alphabétique.Thématique : [décris brièvement le thème des cartes de révision].Niveau : [classe P1,S1, BAC1].Fournis-moi le résultat sous cette forme :Colonne 1 : terme ou questionColonne 2 : réponseContraintes obligatoires:Format texte brut uniquementAucun LaTeX, aucun \( \) $$Aucun Markdown, aucun astérisque, aucun grasSymbole de multiplication × obligatoireUtiliser les exposants Unicode : ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁰(exemples : x², x³, (a + b)²)Utiliser les indices Unicode : ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉(exemples : x₁, a₂, b₃)
+Créer ses listes quizlet
+Utilisez ce prompt pour obtenir les indices et exposants dans votre liste Quizlet.
+Comment?
+Flashcards texte - Pas de wifi ou d’équipement
+Comment?
+Prompt :Crée un fichier PDF téléchargeable, prêt à imprimer en recto verso, avec 12 flashcards sur [SUJET] pour des élèves de [ANNÉE, ex. P3].Utilise uniquement le document joint.Génère le fichier directement. Ne me donne pas seulement un tableau dans la conversation.Structure du PDF :- Exactement 2 pages A4 verticales, avec les mêmes marges.- Sur chaque page, une grille identique de 2 colonnes et 6 lignes, au même endroit.Page 1 (questions) :- Dans chaque ligne, de gauche à droite : Q1 Q2, puis Q3 Q4, Q5 Q6, Q7 Q8, Q9 Q10, Q11 Q12.- Contour de chaque carte en pointillés, pour la découpe.Page 2 (réponses) :- Colonnes inversées pour le recto verso sur le bord long : R2 R1, puis R4 R3, R6 R5, R8 R7, R10 R9, R12 R11.- Aucun trait de découpe.Chaque carte :- Le texte est centré horizontalement et verticalement.- Une petite mention "Question 1" ou "Réponse 1" indique le numéro.- Texte noir sur fond blanc, police simple et très lisible, au moins 16 pt.Contenu :- Une seule notion par carte.- Question : 12 mots maximum. Réponse : 8 mots maximum.- Vocabulaire adapté à l'âge des élèves, sans double négation.
+Flashcards texte - Pas de wifi ou d’équipement
+Comment?
+Flashcards images- Pas de wifi ou d’équipement
+Comment?
+Prompt :Crée un fichier PDF téléchargeable, prêt à imprimer en recto verso, avec 12 flashcards illustrées sur [SUJET] pour des élèves de [ANNÉE, ex. P3].Utilise uniquement le document joint pour choisir les notions et les réponses.Génère le fichier directement. Ne me donne pas seulement un tableau dans la conversation.Choix des notions :- Retiens 12 notions concrètes, faciles à reconnaître sur une image.- Une seule notion par carte.Images :- Crée une vraie illustration pour chaque carte, sans aucun emoji.- Montre une seule notion, sur fond blanc.- Utilise le même style pour les 12 images : dessin simple, clair et adapté à l'âge des élèves.- N'écris aucun mot, lettre ou chiffre dans les images.- L'image doit permettre de trouver la réponse sans la donner par écrit.Structure du PDF :- Exactement 2 pages A4 verticales, avec les mêmes marges.- Sur chaque page, une grille identique de 2 colonnes et 6 lignes, au même endroit.Page 1 (recto, images) :- Dans chaque ligne, de gauche à droite : image 1, image 2, puis 3-4, 5-6, 7-8, 9-10, 11-12.- Chaque carte contient uniquement son image, centrée, et son numéro en petit.- Aucune question écrite.- Contour de chaque carte en pointillés, pour la découpe.Page 2 (verso, réponses) :- Colonnes inversées pour le recto verso sur le bord long : R2 R1, puis R4 R3, R6 R5, R8 R7, R10 R9, R12 R11.- Chaque carte contient son numéro en petit et la réponse centrée.- Réponse : 8 mots maximum.- Texte noir sur fond blanc, police simple et très lisible, au moins 16 pt.- Aucun trait de découpe.
+Flashcards images- Pas de wifi ou d’équipement
+[Prompt](https://docs.google.com/document/d/1jl4lTfAJeDs3A2mJ8rGb2S2Qg_LZd_Q5na0MnOxShq8/copy)[](https://docs.google.com/document/d/1jl4lTfAJeDs3A2mJ8rGb2S2Qg_LZd_Q5na0MnOxShq8/copy)
+Créer ses listes - Primaire 
+Primaire
+Comment?
+Multiplier les voies d’expressions
+Agis en tant qu'expert en Conception Universelle des Apprentissages (CUA) et en évaluation, dans le contexte du système éducatif belge francophone. Aide-moi à diversifier les façons dont mes élèves peuvent me montrer ce qu'ils ont compris (principe du « Comment » de la CUA).NE PROPOSE RIEN POUR L'INSTANT. Pose-moi d'abord ces questions sous forme de liste courte, puis attends mes réponses :1. Quels sont la discipline, le sujet et le niveau de la classe ?2. Que doit savoir ou savoir faire l'élève à la fin de la séquence ?3. Le mode d'expression fait-il partie de ce qui est évalué ? (ex. : rédiger un texte argumenté, s'exprimer oralement en langue étrangère)4. S'agit-il d'une évaluation formative ou certificative ?5. De quels temps, matériel et équipement numérique dispose-t-on ? Combien d'élèves ai-je ?6. Quels besoins ou obstacles observes-tu dans la classe ? (sans nom ni donnée permettant d'identifier un élève)Une fois mes réponses reçues, génère :1. La cible d'apprentissageReformule-la en une phrase, puis distingue ce qui reste identique pour tous et ce qui peut varier.2. Un menu de 4 modalitésPropose au moins une modalité écrite, une orale, une visuelle et une concrète ou créative.Pour chacune, indique : la production attendue, la durée, le matériel ou l'outil, la barrière levée et le point de vigilance.Si le mode d'expression fait partie de ce qui est évalué, ne le remplace pas : varie plutôt la préparation, les supports, les outils et les conditions de réalisation.3. Une grille d'évaluation communeCrée une seule grille valable pour toutes les modalités, avec 3 ou 4 critères et 3 niveaux.Les critères portent sur la maîtrise de la cible, pas sur la forme ou l'esthétique de la production.4. Une fiche de choix pour l'élèvePrésente les modalités et ce qui est attendu. Utilise des phrases courtes, des verbes d'action en gras, un texte aligné à gauche, sans italique ni majuscules.Contraintes :- Toutes les modalités évaluent la même cible, avec le même niveau d'exigence et une charge de travail comparable.- Les propositions doivent être réalistes pour le temps de préparation et de correction de l'enseignant.- Pour chaque modalité, indique comment vérifier que la production reflète bien la compréhension de l'élève (ex. : un bref échange oral).- Présente le résultat en format texte.
+Prompt 
+Comment?
+Révision orale avec Mode « Question-Réponse » (Évaluation active)
+Agis comme un tuteur bienveillant, patient et encourageant pour m'aider à réviser mon cours à l'oral.Tu trouveras mon cours en pièce attachée.Voici tes consignes strictes pour notre échange :Utilise impérativement le tutoiement avec moi.Pose-moi une seule question claire et concise à la fois sur le cours ci-dessus.Attends ma réponse orale.Analyse ma réponse : valide chaleureusement ce qui est correct et complète ou corrige gentiment si j'ai fait une erreur ou un oubli.Passe ensuite à la question suivante.Comme nous communiquons à l'oral sur mobile, fais des réponses très courtes (maximum 2 ou 3 phrases) pour que ce soit facile et dynamique à écouter.Si tu as compris ta tâche, réponds textuellement : "J'ai bien pris connaissance de ton cours. Es-tu prêt à démarrer la conversation ?"
+Prompt à mettre dans la version Gemini sur Smartphone
+Comment?
+Révision orale avec Mode « Question-Réponse » (Évaluation active)
+Ajouter son cours en pièce jointe
+Démarrez la conversation
+Comment?
+Révision orale avec Mode « Récitation guidée » 
+Agis comme un coach d'apprentissage attentionné. Je vais essayer de te réciter mon cours de mémoire à l'oral et tu vas m'accompagner.Tu trouveras mon cours en pièce attachée.Voici tes consignes strictes pour notre échange :Utilise impérativement le tutoiement avec moi.Laisse-moi la parole pour que je commence à réciter.Écoute-moi attentivement. Si je fais une erreur, si j'oublie un mot-clé important ou si je m'arrête parce que je bloque, interviens pour me corriger ou me donner un indice avec bienveillance.Ne me coupe pas si ma récitation est correcte, attends que je fasse une pause.Tes interventions doivent être très courtes (une ou deux phrases maximum) pour ne pas couper mon élan.Si tu as compris ta tâche, réponds textuellement : "J'ai bien pris connaissance de ton cours. Es-tu prêt à démarrer la conversation ?"
+Prompt à mettre dans la version Gemini sur Smartphone
+Comment?
+Aide pour s’organiser et étudier
+Agis comme un coach scolaire expert en neuroéducation et en profils d'apprentissage spécifiques. Ton but est de m'aider à créer un plan de travail ambitieux, efficace mais réaliste, en optimisant mon temps sans m'épuiser.Voici tes consignes strictes pour notre échange :Utilise le tutoiement avec moi.Pose-moi 3 questions maximum pour évaluer ma situation :Ce que je dois réviser et la date de mon objectif (examen, contrôle, etc.).Le temps total que j'ai de disponible dans ma journée.Mes difficultés d'apprentissage, mes troubles (dys, TDAH...) ou mes limites de concentration (ex: "au bout de 30 min, je décroche").Pour construire le planning (Ta règle d'or) : Ne te limite pas à une durée fixe arbitraire (comme seulement 2h). Calcule le volume de travail nécessaire selon mon objectif. Pour augmenter mon efficacité sans me surcharger, fractionne mon temps en plusieurs sessions courtes réparties dans la journée (ex: 3 ou 4 sessions de 30 à 45 minutes, espacées de vraies pauses).Propose-moi des techniques de mémorisation active adaptées à mes difficultés pour que chaque minute travaillée soit pleinement efficace.
+Prompt 
+Répondre à l’aide du micro
+Les 3 levers pour susciter l’engagement
+Capter l’intérêt et valoriser l’identité.
+Proposer des choix et souligner l’utilité concrète des activités pour l’étudiant.
+Soutenir l’effort et la persévérance.
+Fractionner les tâches et favoriser un climat de soutien entre pairs.
+Développer les capacités émotionnelles.
+Créer un climat de confiance où l’erreur est totérée pour gérer l’anxiété.
+Pourquoi l’Engagement est le Cœur de l’Apprentissage ?
+Le constat : Une diversité de motivations
+Il n’y a pas une seule façon d’être motivé.
+Ce qui passionne un étudiant peut en ennuyer un autre (ex: nouveauté vs routine).
+Les préférences sociales varient.
+Certains apprentent mieux seuls, d’autres ont besoin de la collaboration du groupe.
+L’objectif : Réduire les barrières.
+Adapter l’environnement pour éliminer les obstacles à la participation de toutes et tous.
+Notebook<LM
+Pourquoi?
+Vers la motivation intrinsèque...
+Théorie socioculturelle du développement de Lev Vygotsky
+« La motivation maximale s’atteint lorsque l’on cesse de demander aux apprenants de sauter par-dessus des murs, et qu’on leur construit l’escalier pour les franchir. »
+"Différenciation & Besoins Spécifiques" 
+"Agis en tant qu'expert en Conception Universelle des Apprentissages (CUA) et en orthopédagogie dans le contexte du système éducatif belge. Je veux que tu m'aides à créer un exercice différencié en 3 niveaux de soutien.NE GÉNÈRE PAS ENCORE LES EXERCICES. > Pour commencer, pose-moi uniquement et clairement les questions suivantes une par une (ou sous forme de liste courte) pour recueillir mes besoins :Quelle est la discipline/matière et le sujet précis de la leçon ?Quel est le niveau/public (ex: 3ème primaire, 2ème secondaire, Haute École...) ?Quels sont les troubles ou besoins spécifiques identifiés chez mes élèves (ex: dyslexie, TDAH, HP, dyscalculie...) ?De quel équipement disposes-tu en classe (ex: tablettes, projecteur, uniquement papier/crayon...) ?Une fois que je t'aurai donné ces informations, tu généreras l'exercice décliné en Niveau 1 (Soutien fort/adapté aux troubles), Niveau 2 (Soutien modéré/standard) et Niveau 3 (Défi), accompagné d'une mini-grille d'auto-évaluation."
+Prompt - Gemini mode Canvas
+Je veux l’activité en format texte!
+Pourquoi?
+"Boost de Motivation & Sens"
+"Agis en tant que conseiller pédagogique expert en motivation scolaire selon le principe du 'Pourquoi' de la CUA. Je veux des idées pour engager mes élèves et donner du sens à mon cours.ATTENDS MES RÉPONSES AVANT DE PROPOSER DES IDÉES. > Demande-moi d'abord de te fournir les informations suivantes :Ta matière et le sujet spécifique du cours.Le niveau de ta classe (système belge).Le profil de tes élèves ou leurs principales difficultés d'engagement (ex: manque d'intérêt, fatigue, peur de l'échec).Le niveau d'équipement technologique ou matériel disponible.Dès que je t'aurai répondu, tu me proposeras 3 stratégies concrètes : une idée d'Ancrage dans le réel, une idée de Flexibilité (choix du support pour l'élève), et une micro-activité collaborative pour un Engagement actif dès le début."
+Prompt - Gemini mode Canvas
+Choisir l’activité qui vous plait et demandez à Gemini de la créer en mode Canvas.
+Je veux l’activité en format texte!
+Quoi?
+Quoi?
+Utilise ce fichier pour vérifier si tes leçons respectent bien les principes de la CUA.
+Au programmeJour 2
+Quiz J1
+Les 4 piliers de l’apprentissageLa boucle évaluative
+Bookwidgets et GeminiCombo gagnant
+RemédiationAgents conversationnels
+Moment de création
+quizizz J1Intérêt feedback immédiatExplication
+
+Les 4 piliers de l’apprentissage
+La boucle évaluative
+Les 4 piliers de l’apprentissage - Stanislas Dehaene
+Attention
+Sélectionner les informations
+Canaliser l’attention des élèves
+Engagement actif
+Un élève passif n’apprend pas
+Un élève est actif quand il a envie de faire les activités
+Feedback immédiat
+Les erreurs sont positives et sources d’apprentissage
+Feedback le plus rapproché possible du moment de l’erreur
+Consolidation
+Automatisation des connaissances
+Conscient devient inconscient
+Répétition
+consolidation
+Entraînements
+Evaluation Formative/Régulatrice
+Aide/Tutorat
+Si pas OK
+Si OK
+
+
+Evaluation Sommative/Certificative
+Auto-évaluationCo-évaluation
+Enseignement initialEvaluation diagnostique
+La boucle évaluativeSylvain Connac
+
+Bookwidgets et GeminiCombo gagnant
+C’est belge!Tests autocorrigésplus de 30 types de questions différentesPayant - Fond ManoloPossibilité de voir l’activité des élèves en direct                       Remédiation immédiate, Feedback immédiat
+La Rolls Royce des exerciseurs
+Bookwidgets Live - permet d’explorer toute la puissance du feedback immédiat
+[Exemple Live Microsoft](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=office365)[](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=office365)
+[Exemple Live Google](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=google)[](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=google)
+[Exemple Live Smartschool](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=office365&sso=smartschool)[](https://www.bookwidgets.com/play/D9Uh-qnc-iQAEcTNDqgAAA/KEUJ3KY/declinaison-de?teacher_id=4792362378199040&sso=office365&sso=smartschool)
+[Inscription](https://www.bookwidgets.com/fr/eoy2026)[](https://www.bookwidgets.com/fr/eoy2026)
+[Tutoriel](https://www.pedagokit.be/notre-kit/outils-et-pistes-transversaux/exerciseurs-gamification/bookwidgets-la-rolls-royce)
+Générer des exercices sur les temps sur Bookwidgets avec l’IAPrompt:Réalise 10 exercices de niveau A2 sur le present continuous pour l'application Bookwidgets. Pour se faire respecte la consigne suivante: pour créer un champ de saisie, placez le ou les mots entre doubles crochets, par exemple <<bonne réponse>>. Pour configurer plusieurs bonnes réponses pour un champ de saisie, séparez les différentes bonnes réponses par deux dièses ##. Indique le verbe à l'infinitif entre parenthèses. Exemple: He <<is eating##'s eating>> (eat) an apple.
+💡AstucePour varier les verbes dans les exercices, ajoutez une contrainte qui lui interdit d’utiliser les mêmes verbes.
+Astuces IA
+Prompt général Langues modernesLangue : [Langue de l'exercice, ex: Anglais, Français, Espagnol]Nuance : [Indiquer la nature de l'exercice, ex: Grammaire, Vocabulaire, Civilisation, etc.]Consigne : Créez [nombre] exercices "texte à trous" de niveau [niveau, ex: A2, B1] portant sur [point de grammaire ou thème de vocabulaire, ex: les prépositions de lieu, le vocabulaire de la cuisine]. Pour la création des champs de saisie, placez la ou les bonnes réponses entre doubles crochets (<<...>>). Pour les champs acceptant plusieurs bonnes réponses, séparez-les par deux dièses (##). Si un mot doit être donné pour aider l'élève (comme dans l'exemple du verbe à l'infinitif), placez-le entre parenthèses.
+Astuces IA
+Prompt général Langues modernes (Gems photo)Etape 1: tu vas recevoir une photoEtape 2: transforme les exercices de la photo en les mettant au format Bookwidgets comme expliqué ici.Réalise 10 exercices de niveau A2 sur le present continuous pour l'application Bookwidgets. Pour se faire respecte la consigne suivante: pour créer un champ de saisie, placez le ou les mots entre doubles crochets, par exemple <<bonne réponse>>. Pour configurer plusieurs bonnes réponses pour un champ de saisie, séparez les différentes bonnes réponses par deux dièses ##. Indique le verbe à l'infinitif entre parenthèses. Exemple: He <<is eating##'s eating>> (eat) an apple.Contrainte: ne mets que la phrase finale pas l'explication.
+Créer des exercices pour son exerciseur
+[Créer un Gems](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-les-agents-conversationnels)[](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-les-agents-conversationnels)
+Générer des exercices avec l’assistant de Bookwidget
+Faire la demande à Dimitri par mail pour avoir accès à l’IA dans Bookwidgets.dimitri@bookwidgets.com[Suivre les instructions suivantes.](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/exerciseurs-gamification/bookwidgets-la-rolls-royce)[](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/exerciseurs-gamification/bookwidgets-la-rolls-royce)
+
+Remédiation Agent conversationnel
+Evaluation Formative/Régulatrice
+Aide/Tutorat
+Si pas OK
+Si OK
+
+
+
+Entraînements
+Evaluation Sommative/Certificative
+Auto-évaluationCo-évaluation
+Enseignement initialEvaluation diagnostique
+La boucle évaluativeSylvain Connac
+${pageNumberOnly}
+C’est quoi un Chatbot?
+Chatbot classique“Old School”
+Chatbot IAAgent conversationnel
+Agent autonome IA
+${pageNumberOnly}
+Chatbot classique“Old School”
+Chatbot IA
+Agent IA
+Hi, I am Tom and I am 15 years old. I like play football every Sundays with my friends in the park and I enjoyment very much. In the evenings I read book about fantasy and sciense because I love stories. I dont have much time, because also I watch TV shows and I play video games too. Sometimes I cooking with my mother and he is happy to help me. My hobby are many and I loves do they because I feel relax. Next week I want to learn painting but I have no times for that.
+Tutorat expression écrite
+Copiez ce texte:
+ et testez ce chatbot en cliquant sur ce bouton.
+Tu vas te comporter comme un tuteur en anglais pour des élèves du secondaire en Belgique francophone. Ton rôle est de les aider à s'améliorer en les amenant à comprendre leurs erreurs, sans leur donner directement les réponses.Étape 1: Demande à la personne de te fournir le texte pour lequel elle souhaite de l'aide.Étape 2: Évalue le niveau du texte en anglais en te basant sur le cadre CECRL (une explication est disponible ici : https://www.service-public.fr/particuliers/vosdroits/F34739).Étape 3: Une fois le niveau CECRL déterminé, demande-lui si elle souhaite améliorer le texte pour atteindre un niveau supérieur, et, si oui, lequel.Si la réponse est oui, donne-lui 10 conseils pour atteindre le niveau supérieur sans corriger ou réécrire le texte.Si elle dit non, souhaite-lui une excellente journée.Propose une aide concrète pour améliorer le texte sans l'écrire à sa place. Elle pourra poser des questions précises, par exemple : « Peux-tu me donner des connecteurs logiques de niveau B1 ? » Réponds en donnant un exemple illustratif.Étape 4: Invite la personne à réécrire le texte et à te le soumettre pour une correction.Étape 5: Corrige le texte en mettant les erreurs en gras. Ne réécris pas le texte pour elle. Elle pourra poser des questions pour mieux comprendre ses erreurs.
+Tutorat expression écrite - prompt
+Je construis mon agent conversationnel
+Je découvre les agents conversationnels - enseignant
+Exercice : Complétez les phrases au Past SimpleYesterday, I ___________ (go) to the cinema with my friends.She ___________ (wash) her car last Sunday morning.They ___________ (not / watch) TV last night because they were tired.We ___________ (see) a beautiful rainbow after the rain.___________ you ___________ (visit) London during your last holidays?The teacher ___________ (speak) very slowly so everyone could understand.He ___________ (buy) a new laptop two days ago.I ___________ (not / like) the food at the restaurant, it was too salty.What time ___________ they ___________ (arrive) at the party?Shakespeare ___________ (write) many famous plays.
+Copie cet exercice et transforme-le grâce au Gems
+Je découvre les agents conversationnels - élève
+Texte avec des erreurs à copier-coller:Hi, I am Tom and I am 15 years old. I like play football every Sundays with my friends in the park and I enjoyment very much. In the evenings I read book about fantasy and sciense because I love stories. I dont have much time, because also I watch TV shows and I play video games too. Sometimes I cooking with my mother and he is happy to help me. My hobby are many and I loves do they because I feel relax. Next week I want to learn painting but I have no times for that. 
+Je trouve des idées...
+Ce Gems te permettra de t’aider à trouver des idées et à les mettre en place.
+A venir: les compétences dans Gemini
+Je crée mes agents conversationnels
+Sur base de ce que nous avons vu ou de vos idées, à votre tour de créer des Gems utile pour faire de la différenciation et de la remédiation.Vous partagerez vos meilleurs créations avec le groupe.
+Je partage mon Gems
+Je crée mes agents conversationnels
+Défi:Créez un prompt pour réviser la matière à l’oral avec Gemini sur Smartphone. Une fois la conversation terminée, créez un prompt qui sur base de votre conversation et des difficultés rencontrées permettra de générer une liste Quizlet pour aider l’élève à étudier cette matière.
+
+Créer son site de remédiation - différenciation
+[](https://sites.google.com/view/demoenglishclasshelp/accueil)
+GRAMMAIRE
+Travaillée au rythme de l'étudiant
+B1
+A1
+A2
+EVALUATIONS AUTOCORRIGÉES
+3 essais pour atteindre 70%
+1
+3
+2
+FEEDBACK IMMÉDIAT L'ERREUR EST PLACÉE AU CENTRE DE L'APPRENTISSAGE
+BOOKWIDGETS Live
+Comment créer son site
+[Tutoriel ](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/google-workspace/enseignants/google-sites)Exemple cours d’anglais[](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/google-workspace/enseignants/google-sites)[](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/couture/r%C3%A9alisation-dune-pochette-pour-chromebook)[](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/google-workspace/enseignants/google-sites)[](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/editeurs-de-sites-web/site-google-sites)[](https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/editeurs-de-sites-web/site-google-sites)
+
+Créez votre sitepages et sous-pagesInsérez une vidéo YoutubeInsérez un document depuis son Drive
+Mission 1
+
+
+Générer un code iFrame
+[La Digitale](https://ladigitale.dev/digitools/generateur-iframe/)
+
+
+Paramètres de partage depuis son Drive
+
+
+Publier son site
+Mon Portfolio - M2
+[https://docs.google.com/presentation/d/1rLH-1peZYGB1bTrW_a710bMZ6n06RAMVmTkhhVOBYxU/copy](https://docs.google.com/presentation/d/1rLH-1peZYGB1bTrW_a710bMZ6n06RAMVmTkhhVOBYxU/copy)
+Bibliographie
+Références académiques citéesCollette, É. (2026). Les Clés du LLL – Conception universelle de l’apprentissage. Vers des dispositifs pédagogiques plus inclusifs. Louvain Learning Lab, UCLouvain.https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1137/4/CLE_LLL_PI_OK.pdfDehaene, S. (2018). Comment le cerveau apprend : Les quatre piliers de l’apprentissage. Odile Jacob.Dehaene, S. (2018). Les grands principes de l’apprentissage. Chaire de psychologie cognitive expérimentale, Collège de France.  https://www.college-de-france.fr/sites/default/files/documents/stanislas-dehaene/UPL4296315902912348282_Dehaene_GrandsPrincipesD.pdfConnac, S. (2012). La personnalisation des apprentissages. ESF Éditeur.Connac, S. (2017). Enseigner sans exclure – La pédagogie du colibri. ESF Éditeur.Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84(2), 191–215. https://doi.org/10.1037/0033-295X.84.2.191Csikszentmihalyi, M. (1975). Beyond boredom and anxiety: Experiencing flow in work and play. Jossey-Bass.Vygotski, L. S. (1978). Mind in society: The development of higher psychological processes. Harvard University Press.
+Sitographie
+NotebookLM: https://notebooklm.google/ Tuto NotebookLM: https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/intelligences-artificielles/outils-ia/notebooklm Google AI Studio: https://aistudio.google.com/Tuto Google AI Studio: https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-dialogue-avec-lia Xmind: https://app.xmind.com/ Helperbird: https://chromewebstore.google.com/detail/helperbird-accessibility/ahmapmilbkfamljbpgphfndeemhnajmeOpendyslexic: https://chromewebstore.google.com/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam Quizlet: https://quizlet.com/fr Tuto Quizlet: https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-quizlet https://www.bookwidgets.com/Bookwidgets: https://www.bookwidgets.com/ Tuto Bookwidgets: https://www.pedagokit.be/notre-kit/pistes-et-outils-transversaux/exerciseurs-gamification/bookwidgets-la-rolls-royce Tuto Agents Conversationnels: https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/ling-les-agents-conversationnels   
+[Evaluation IFPC - 5 et 6 novembre 2026](https://ifpc-fwb.be/eval/62337)[](https://ifpc-fwb.be/eval/62337)
+Merci
+[Bibliographie](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/formation-langues-modernes-ressources)[](https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/langues-modernes/formation-langues-modernes-ressources)

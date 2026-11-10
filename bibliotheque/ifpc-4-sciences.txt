@@ -1,0 +1,570 @@
+OFFRE DE FORMATION
+CSC 19  —  Lot 120  —  Sous-titre 3  —  Opérateur : PEDAGOKIT
+Document généré le 30/09/2026 à 14:46
+
+
+1. Informations générales
+Référentiel du lot
+Intitulé du lot : Intelligence artificielle : enjeux et usages
+Public cible (lot) : 
+Membres du personnel enseignant de l'enseignement fondamental ordinaire et spécialisé.
+Membres du personnel enseignant secondaire ordinaire et spécialisé.
+Directions d'un établissement scolaire
+Agents des CPMS
+Pôles territoriaux
+Coches public cible CSC : FO | SO | FSP | SSP | CPMS | PT
+Objectifs de formation : 
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères d'analyse : 
+Critères requis d'analyse de l'offre de formation (12 points) :
+La formation :
+1. garantit le caractère interréseaux de la formation : prise en compte de la pluralité des contextes, proposition d’une multiplicité de modèles et d’outils 
+2. présente ses différents contenus avec objectivité
+3. est construite sur des sources scientifiques et/ou référents théoriques énoncés dans l’offre et qui soutiennent la rencontre des objectifs
+4. se base sur des situations concrètes reliées aux contextes professionnels des participants, apportées par le formateur et/ou par les apprenants (expérience des formés)
+5. amène le participant à développer une posture de praticien réflexif (transfert des acquis)
+6. prend en compte les éléments incontournables
+7. travaille l’ensemble des objectifs et permet aux participants de : 
+*Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+* Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+* Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+* A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+* Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères valorisés d'analyse de l'offre de formation (23 points) :
+* La formation tient compte des représentations des participants 
+* La formation tient compte des pré-acquis des participants 
+* Le scénario de la formation est rédigé de manière claire et compréhensible, son fil conducteur est aisément identifiable
+* Les choix méthodologiques soutiennent le développement du contenu de formation
+* La formation offre des ressources théoriques actualisées
+* Les dimensions théoriques et pratiques sont complémentaires
+* Les activités, contenus et ressources proposées dans la formation sont variées et adaptées aux bénéficiaires de la formation
+* La formation suscite, auprès des participants, le développement de pratiques qui soutiennent la scolarité inclusive 
+* Certains éléments de l’offre peuvent être identifiés comme étant remarquables (qualité spécifique, singularité, pertinence exemplaire ou intérêt particulier)
+Elements incontournables : 
+1. La formation a une visée réflexive et aborde la thématique de manière multicontextuelle. Elle se base sur des données scientifiques et expose celles-ci en toute transparence.
+2. La formation tient compte des
+représentations préalables des
+participants au sujet de l'intelligence artificielle
+3. La formation tient compte des biais liés aux stéréotypes de genre
+4. La formation sensibilise aux principales règles en matière de RGPD en lien précis avec le contenu travaillé
+5. La formation fait le lien vers l'outil interréseau d'autoévaluation des compétences numériques PIX.
+6. La formation peut être déclinée sur la base du public cible.
+7. La formation met en évidence l'implication éventuelle de l'IA au sein des outils développés en formation
+8. La formation tient compte des différents niveaux de maitrise des outils de l’IA des participants et propose des activités de formation adaptées à tous les niveaux.
+
+
+Offre de l'opérateur
+Intitulé de la formation :
+Sciences et Intelligence Artificielle : concevoir, différencier et faire créer en sciences grâce à l'IA
+Public cible :
+Membre du personnel de l'enseignement secondaire ordinaire ou spécialisé; agent PMS; membres des pôles territoriaux qui ont un lien avec l'enseignement des sciences.
+Coches public cible :
+SO | SSP | CPMS | PT
+Justification public cible :
+Le recentrage disciplinaire sur les sciences garantit une cohérence forte : outils, exemples et enjeux pédagogiques sont tous ancrés dans les réalités de l'enseignement des sciences (labo, schémas, protocoles, référentiels officiels FWB). L'homogénéité du groupe favorise les échanges entre pairs et un transfert rapide en classe.
+Taille groupe / durée / modalités :
+Groupe : 14-20 participants Groupe Op : 14-20 participants Durée : 2 jour(s) (2 ou 3 jours) Durée Op : 2 jour(s) Présentiel : Oui  |  Distance : Oui  |  Hybride : Oui
+Justification Modalités :
+Le nombre de participants doit rester raisonnable pour permettre au formateur de pouvoir résoudre tous les soucis techniques des participants.
+
+2. Présentation et détails
+Offre de l'opérateur
+Présentation :
+
+Cette formation explore le potentiel de l'intelligence artificielle au service de l'enseignement des sciences. Elle outille les enseignants pour qu'ils puissent, avec leurs élèves, mettre en œuvre les attendus, compétences et stratégies définis par les référentiels officiels de la Fédération Wallonie-Bruxelles : référentiel de sciences du tronc commun (P1 à S3), référentiel de Formation manuelle, technique, technologique et numérique (FMTTN), compétences terminales en sciences générales (S4 à S6), ainsi que les visées transversales communes des domaines 6, 7 et 8. Cet ancrage dans les référentiels FWB garantit le caractère interréseaux de la formation. Il ne s'agit pas d'une formation générique à l'IA, mais d'une formation disciplinaire ancrée dans le champ des sciences (physique, chimie, biologie) : chaque outil, chaque activité et chaque exemple est ancré dans la réalité de l'enseignement des sciences. 
+Mots-clés :
+IA,PedagokIT,Intelligence artificielle,sciences,Différenciation pédagogique,biologie,physique,chimie,FMTTN
+Prérequis :
+-
+Remarques participants :
+Les participants sont invités à apporter leurs propres supports de cours et séquences pédagogiques existants : ceux-ci serviront de matière première pour les ateliers de création. Aucune expertise numérique préalable n'est requise ; la formation est conçue pour accompagner tous les profils, des débutants aux enseignants déjà familiarisés avec le numérique.
+Matériel spécifique :
+Le participant est invité à apporter un ordinateur ou une tablette avec un câble pour le charger, ainsi qu'un casque ou des écouteurs.
+
+3. Déroulement de la formation (10 séquence(s))
+Séquences de formation
+Orientation méthodologies générales :
+
+La formation adopte une approche expérientielle, disciplinaire et progressivement outillée, fondée sur un principe directeur constant : l'IA au service de la pédagogie des sciences, pas l'inverse. Les participants alternent en permanence entre la posture d'enseignant praticien qui analyse et adapte, et celle d'apprenant qui crée et expérimente — jusqu'à vivre, en séquence 9, l'activité exactement comme le ferait l'un de leurs élèves. 
+Tout au long de la formation, et au fil des activités proposées, les participants : 
+-  expérimentent directement les outils présentés sur leurs propres contenus disciplinaires (cours, fiches labo, programmes officiels) ; 
+- analysent les effets pédagogiques de chaque outil sur l'apprentissage des sciences, l'évaluation, la gestion de classe et leur posture d'enseignant ; 
+- identifient les plus-values et les limites de chaque outil dans le contexte spécifique des sciences (exactitude scientifique, sécurité au laboratoire, programmes officiels) ; 
+- proposent des modalités de transfert concrètes dans leur pratique, à partir de leurs propres chapitres et séquences ; 
+- envisagent une utilisation éthique et responsable, en intégrant à chaque outil introduit les dimensions RGPD, neutralité de genre et impact environnemental. 
+Au travers des situations d'apprentissage proposées et avec le soutien du/de la formateur·trice, les participants construisent progressivement un répertoire personnel d'outils et de pratiques pédagogiques ancrés dans la réalité de l'enseignement des sciences. Chaque séquence suit une structure identique inspirée de l'enseignement explicite (Rosenshine) : 
+??? Je montre (le formateur modélise en live sur un contenu scientifique) ? ?? On fait ensemble (défi guidé collectif) ? ?? Je fais (production autonome sur son propre chapitre) ? ?? Je réfléchis (retour méta-cognitif). 
+Le/La formateur·trice nourrit et stimule les échanges par des apports théoriques ciblés (Dehaene, Rosenshine, Tomlinson, Papert), des démonstrations en conditions réelles et des ressources adaptées à chaque mise en situation. 
+Fil conducteur — Le chapitre développé sur 4 axes 
+Pour garantir la réflexivité et rendre visible la progression tout au long de la formation, chaque participant choisit dès la séquence 1 un point de matière ou chapitre de sciences qu'il développe sur 4 axes au fil des deux journées : conception de ressources, intégration de chatbots, création de quiz adaptatifs, portfolio et centralisation. Ce chapitre constitue le fil rouge permanent : chaque nouvel outil est immédiatement appliqué à CE contenu, ce qui garantit un ancrage concret et un transfert direct. En clôture de formation, un bilan du projet concret permet à chaque participant de mesurer ce qui est produit et prêt à l'emploi dès le lundi suivant. Un tableau comparatif collaboratif, complété et visible de tous au fil des séquences, synthétise les outils découverts, leurs forces et limites, et les relie aux piliers de l'apprentissage (Dehaene) — rendant ainsi visible la progression collective de l'ensemble du groupe.
+  Séquence 1 — Jour 1 (60 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Accueil, brise-glace et cadre de la formation : 
+ Temps de connexion : les participants se connectent à Wooclap et au mur collaboratif DigiPad. 
+ BRISE-GLACE ET BRAINSTORMING VIA WOOCLAP  
+Le formateur lance un Wooclap interactif avec plusieurs questions : 
+- Sur l'IA : « Utilisez-vous déjà l'IA ? », « Quel est votre rapport à l'IA ? », « Quelles sont vos attentes et craintes ? ». 
+- Sur les concepts pédagogiques : « Que signifie pour vous la différenciation ? », « Connaissez-vous l'enseignement explicite ? », « Quels sont les piliers de l'apprentissage selon vous ? ». Ce brainstorming permet de recueillir les représentations initiales tout en introduisant les concepts qui seront développés tout au long de la formation. 
+En parallèle, le mur collaboratif DigiPad permet aux participants de se présenter (fonction, école, matière, attentes). 
+ CADRE DE LA FORMATION 
+Présentation du cadre structurant. Chaque séquence suivra une structure identique inspirée de l'enseignement explicite (Rosenshine) : ??? Je montre (le formateur modélise en live) ? ?? On fait ensemble (défi guidé) ? ?? Je fais (production autonome sur son propre chapitre) ? ?? Je réfléchis (retour méta). 
+Cadre éthique : le RGPD et la neutralité de genre seront traités de manière transversale tout au long de la formation, à chaque fois qu'un outil est introduit. 
+Message central : l'IA est au service du professeur de sciences — gain de temps, qualité des productions, libération de l'administratif pour se concentrer sur la réflexion pédagogique. 
+Pour les élèves, l'IA est un outil de développement de compétences scientifiques à part entière — pas un gadget. Les professeurs comprennent d'abord, les élèves ensuite.
+PROJET CONCRET ET 4 AXES
+Chaque participant choisit un point de matière / chapitre qu'il souhaite affiner, créer, peaufiner ou améliorer. Ce chapitre sera développé sur 4 axes tout au long des 2 jours : 
+Axe 1 — Conception, amélioration et qualité des ressources (présentations, fiches labo, supports visuels). 
+Axe 2 — Intégration de chatbots et différenciation (coach bot tuteur, remédiation, accompagnement personnalisé). 
+Axe 3 — Création de quiz adaptatifs (exercices interactifs, mémorisation, évaluation différenciée). 
+Axe 4 — Présentation et centralisation des informations (site de classe, portfolio de l'élève, organisation). 
+L'objectif : repartir en 2 jours avec un chapitre / une activité / un laboratoire complet, clé en main. 
+COMPÉTENCES NUMÉRIQUES 
+Présentation des compétences numériques que les participants devront atteindre au terme de la formation. Lien avec le référentiel CRCN et la plateforme PIX. Le formateur explique que l'on reviendra sur PIX en fin de Jour 2 pour faire le bilan des compétences développées.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le projet concret (un chapitre développé sur 4 axes) donne un fil conducteur motivant et garantit le transfert : chaque participant travaille sur SES contenus.
+La présentation du cadre structurant (4 phases) réduit l'incertitude et favorise l'attention (Dehaene). 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant répond aux questions Wooclap (brainstorming sur l'IA et les concepts pédagogiques), ce qui l'engage activement dès les premières minutes.
+Il se présente et partage ses attentes sur le mur collaboratif DigiPad.
+Il choisit son point de matière / chapitrLe Wooclap en ouverture active l'engagement immédiat (Dehaene — pilier de l'attention) tout en faisant découvrir un premier outil numérique interactif.
+Le recueil des représentations sur les concepts pédagogiques (différenciation, enseignement explicite, piliers de l'apprentissage) prépare le terrain pour les apports théoriques qui seront dilués tout au long de la formation (jamais plus de 15-20 min d'un bloc).
+e qui sera le fil rouge de toute la formation.
+Il prend connaissance des compétences numériques visées et du parcours de formation. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le Wooclap en ouverture active l'engagement immédiat (Dehaene — pilier de l'attention) tout en faisant découvrir un premier outil numérique interactif.
+Le recueil des représentations sur les concepts pédagogiques (différenciation, enseignement explicite, piliers de l'apprentissage) prépare le terrain pour les apports théoriques qui seront dilués tout au long de la formation (jamais plus de 15-20 min d'un bloc).
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Wooclap (brainstorming interactif).
+DigiPad — La Digitale (mur collaboratif, RGPD).
+Référentiel CRCN. Plateforme PIX (présentation, passation en fin de J2). 
+  Séquence 2 — Jour 1 (30 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Comprendre l'IA avant de l'utiliser : 
+Temps de connexion : les participants ouvrent Claude et Gemini. 
+COMPRENDRE LE FONCTIONNEMENT
+Le formateur explique de manière accessible comment fonctionne un LLM : comment il génère du texte mot par mot, pourquoi il peut se tromper, pourquoi il faut toujours vérifier. Pas de jargon technique inutile.
+Sensibilisation aux biais : on interroge l'IA sur des questions scientifiques et on analyse la fiabilité. On met en évidence les stéréotypes de genre en comparant les réponses de différents outils. 
+Impact environnemental : comparaisons concrètes du coût énergétique. Utilisation raisonnée. 
+ L'ART DU PROMPT - spécifique aux sciences 
+Je montre : Le formateur modélise en live la construction d'un prompt efficace sur un contenu scientifique (explication d'un phénomène, protocole de labo, schéma annoté). Il montre la structure (contexte, rôle, consigne, format, contraintes) et comment améliorer progressivement. 
+On fait ensemble : Chaque participant reformule un prompt sur son propre chapitre de sciences (celui choisi en S1). 
+ Je réfléchis : Limites de l'IA en contexte scientifique. Le prof comprend d'abord, les élèves ensuite. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+L'explication accessible du LLM ancre la compréhension sans jargon, dans le vécu disciplinaire des participants. 
+Cette séquence pose les fondations éthiques et critiques qui seront mobilisées à chaque fois qu'un nouvel outil est introduit au fil de la formation.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant rédige son propre prompt structuré sur le chapitre choisi. 
+Il participe à l'analyse des biais et de la fiabilité des réponses sur des questions scientifiques. 
+Il s'engage dans une réflexion sur l'utilisation responsable de l'IA. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La modélisation du prompt (enseignement explicite - Rosenshine : modelage) permet de voir concrètement comment construire une requête avant de le faire soi-même.
+Le travail sur son propre chapitre  dès cette séquence amorce le projet concret.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018. 
+ROSENSHINE, Barak. Principles of Instruction. American Educator, 2012. 
+Outils : Claude (Anthropic) ; Google Gemini. 
+  Séquence 3 — Jour 1 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+NotebookLM : exploiter ses programmes et documents de sciences : 
+ Temps de connexion : les participants ouvrent NotebookLM et préparent leurs documents. 
+NotebookLM travaille exclusivement à partir de VOS documents - pas d'hallucination sur le contenu importé, ce qui est essentiel en sciences où l'exactitude est primordiale. 
+ Je montre les possibles : Le formateur importe un chapitre de sciences ET es référentiels FWB pertinents (référentiel sciences du tronc commun, FMTTN, ou compétences terminales selon le degré ciblé). Il montre : 
+- Comment interroger ses documents (« Quels savoirs et savoir-faire sont visés ? », « Quels concepts sont prérequis ? »). 
+- Comment créer une matrice de questions : croiser référentiel et cours pour vérifier l'alignement évaluations et du référentiel. 
+- Comment générer des objectifs d'apprentissage structurés. 
+- Comment créer un podcast audio (Audio Overview) : outil de révision multimodal pour les élèves. 
+ On fait ensemble : Import des propres documents et référentiels. 
+Je fais : Matrice de questions + podcast audio sur son propre chapitre (celui choisi en S1). 
+Je réfléchis : NotebookLM vs chatbot classique ? Ancrage sur les sources, pas d'hallucination. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le podcast mobilise un canal sensoriel différent (consolidation par multimodalité - Dehaene, pilier 4). 
+Outil de révision fondé sur les neurosciences.
+Les participants repartent avec une matrice de questions prête à l'emploi et un podcast audio réutilisable directement avec leurs élèves. 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant travaille avec SES documents et référentiels,  pertinence et transfert immédiat. Il crée une matrice de questions alignée sur les référentiels FWB , outil de pilotage directement exploitable. Il produit un podcast audio réutilisable avec ses élèves. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le travail sur ses propres documents ET référentiels assure un ancrage concret. Pas d'exemples artificiels. La matrice questions × savoirs est un outil de pilotage pédagogique spécifique aux sciences : vérifier l'alignement évaluations ? attendus officiels. Cette séquence AVANT la création de supports (S4) est logique : on comprend d'abord les compétences et attendus du référentiel, ensuite on crée les supports alignés. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018 (consolidation, multimodalité). 
+Référentiels officiels de sciences FWB (tronc commun, FMTTN, compétences terminales
+Outils : Google NotebookLM ; Documents de cours et programmes des participants. 
+  Séquence 4 — Jour 1 (80 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Créer des supports de cours de sciences avec l'IA - gain de temps et qualité : 
+Temps de connexion : les participants ouvrent Canva, Claude et Gemini. 
+Maintenant que les attendus et la matrice de questions sont clarifiés (S3), on crée les supports alignés sur les référentiels. 
+PHASE A — Présentations de sciences 
+ Je montre les possibles : Création live d'une présentation sur un chapitre de sciences avec Canva IA. Adaptation à deux niveaux (3e et 6e secondaire) : vocabulaire, complexité, visuels — différenciation du contenu (Tomlinson). 
+On fait ensemble : Adaptation collective à deux niveaux. 
+Je fais : Chaque participant crée SA présentation sur son chapitre choisi en S1. Production prête à l'emploi. 
+ PHASE B - Fiches de laboratoire  
+Je montre les possibles : Génération d'une fiche labo complète (objectif, matériel, sécurité, protocole, questions d'analyse). Déclinaison en 3 niveaux : ? Découverte (protocole détaillé — l'élève suit les étapes) ? Application-Consolidation (étapes à compléter, choix à faire) ? Dépassement (objectif donné, protocole à concevoir - démarche d'investigation). Ce continuum illustre l'enseignement explicite (modelage ? guidé ? autonome). 
+Le formateur présente ensuite une extension de génération automatique de fiches de laboratoire : à partir d'un lien web ou d'un texte, elle génère une fiche labo adaptative (préparation, correction, remédiation). 
+Le formateur partage l'extension aux participants. 
+On fait ensemble : On crée les 3 versions à partir d'un même laboratoire. 
+Je fais : Chaque participant produit sa propre fiche labo différenciée sur son chapitre, prête à l'emploi. 
+Je réfléchis : Avantages et limites. La vérification scientifique par le prof reste indispensable (exactitude, sécurité au labo).  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le travail sur son propre chapitre (fil rouge depuis S1) garantit le transfert. Le participant repart avec des productions prêtes à l'emploi.
+La réflexion sur les avantages et limites (La vérification scientifique par le prof reste indispensable) développe une posture critique essentielle pour un usage professionnel responsable de l'IA en sciences.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant crée ses propres supports (présentation + fiche labo) sur son chapitre - transfert immédiat.
+Il pratique la différenciation en déclinant ses supports à 3 niveaux.
+Il découvre et s'approprie l'extension de génération de fiches labo. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La structure « Je montre ? On fait ensemble ? Je fais » (Rosenshine) garantit un modèle concret avant la production autonome.
+Les 3 niveaux (découverte / application-consolidation / dépassement) illustrent la différenciation du processus (Tomlinson) et le continuum de l'enseignement explicite. Application spécifique aux sciences, où le laboratoire est central. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+TOMLINSON, Carol Ann. The Differentiated Classroom. ASCD, 2014. 
+ROSENSHINE, Barak. Principles of Instruction. American Educator, 2012. 
+Outils : Canva IA ; Google Slides + Gemini ; Claude ; NLM ; Générateurs d'images IA ; Extension de génération de fiches de laboratoire.  
+  Séquence 5 — Jour 1 (80 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Exercices interactifs et mémorisation - spécifique sciences : 
+Temps de connexion : les participants ouvrent Bookwidgets, Canva Code et l'IA. 
+PHASE A — Bookwidgets + IA 
+Je montre les possibles : Génération de questions de sciences via l'IA ? injection dans Bookwidgets auto-corrigé. 3 niveaux : ? Découverte (« Identifie les éléments de ce schéma ») ? Application-Consolidation (« Calcule le pH de cette solution ») ? Dépassement (« Analyse cette expérience et explique les résultats »). Feedback immédiat = retour d'information (Dehaene). 
+Le formateur montre également la création de quiz interactifs via Canva Code pour diversifier les formats. 
+On fait ensemble : Widget à 3 niveaux sur un sujet de sciences. 
+Je fais : Widget auto-corrigé sur son propre chapitre. 
+PHASE B — Flashcards et répétition espacée 
+Je montre les possibles : Génération en masse de flashcards de concepts scientifiques (symboles chimiques, formules, définitions, schémas à légender). Principe de la répétition espacée (Dehaene — consolidation) : fondé sur les neurosciences, pas un gadget. 
+Je fais : Flashcards sur son propre chapitre. 
+ Je réfléchis : Comment intégrer la répétition espacée dans le quotidien de la classe de sciences ? 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La répétition espacée est un des mécanismes les plus robustes (Dehaene - consolidation). 
+Comprendre le POURQUOI distingue un usage pédagogique d'un usage gadget. 
+Les participants repartent avec des widgets auto-corrigés et des flashcards directement utilisables avec leurs élèves, fondés sur des principes validés par les sciences de l'apprentissage. 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant est acteur à chaque étape : génération ? injection ? production complète auto-corrigée. 
+Il pratique la différenciation à 3 niveaux (découverte / application-consolidation / dépassement).
+Il crée un jeu de flashcards scientifiques directement réutilisable. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le workflow IA ? Bookwidgets est concret, reproductible et transférable dès le lendemain. 
+Les 3 niveaux s'ancrent dans la différenciation de la production (Tomlinson). 
+Exemples issus des sciences. 
+L'ajout de Canva Code diversifie les outils et montre aux participants qu'il existe plusieurs manières de créer des quiz interactifs. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018 (consolidation, répétition espacée, retour d'information). 
+TOMLINSON, Carol Ann. The Differentiated Classroom. ASCD, 2014. 
+Outils : Bookwidgets ; Canva Code ; Claude ; Google Gemini ; Quizlet. 
+  Séquence 6 — Jour 1 (50 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Bilan réflexif - Jour 1 : 
+Tableau comparatif collaboratif sur mur (Canva / DigiPad) : pour chaque outil, forces, faiblesses, pilier(s) de l'apprentissage, contextes en sciences (cours, labo, évaluation, révision...). 
+Discussion : « Quel outil dès lundi dans mon cours de sciences ? Pourquoi ? Quelle plus-value pédagogique pour mes élèves ? ». 
+Synthèse visuelle outils × piliers de l'apprentissage (Dehaene). 
+État d'avancement du projet concret : où en est mon chapitre sur les 4 axes ?
+Questions-réponses et échanges.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le bilan du projet concret maintient le fil conducteur et prépare le Jour 2. 
+La discussion oblige chaque participant à identifier les outils les plus directement mobilisables dans sa pratique de classe, favorisant ainsi le transfert immédiat. 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant contribue au tableau comparatif collaboratif. 
+Il fait le point sur l'avancement de son projet concret (chapitre sur 4 axes). 
+Il s'engage dans une projection vers sa pratique. 
+Il échange avec ses pairs (Connac - pédagogies coopératives).  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La réflexion méta-cognitive ancre les apprentissages (Dehaene - consolidation). 
+Le tableau collaboratif sur Canva / DigiPad favorise les échanges entre pairs (Connac).  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018. 
+CONNAC, Sylvain. Apprendre avec les pédagogies coopératives. ESF, 2017. 
+Outils : Canva ; DigiPad. 
+  Séquence 7 — Jour 2 (50 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Classroom / Teams : organiser et distribuer ses ressources de sciences : 
+Temps de connexion : les participants ouvrent Classroom ou Teams. 
+Le jour 2 commence par un quiz rapide de réactivation sur les outils du J1 - consolidation (Dehaene) + découverte d'un outil de quiz en ligne. 
+ Je montre les possibles : Structuration live d'un espace « Sciences + IA » : rubriques par chapitre, intégration widgets/fiches/podcast, distribution différenciée par groupe (découverte / application-consolidation / dépassement). 
+ On fait ensemble : Intégration des ressources du J1 dans un devoir. 
+Je fais : Devoir complet avec distribution différenciée sur son chapitre. 
+Je réfléchis : Bonnes pratiques d'organisation.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La distribution différenciée illustre Tomlinson (différenciation de l'environnement). 
+Les participants repartent avec un espace numérique structuré, prêt à accueillir leurs élèves dès le retour en classe, avec une distribution différenciée opérationnelle. 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant participe au quiz de réactivation (rappel J1). 
+Il structure son propre espace et y intègre ses productions - elles prennent vie dans un vrai contexte de classe. 
+Il configure la distribution différenciée par groupe. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le quiz de réactivation active le rappel (Dehaene - consolidation) et montre un outil supplémentaire. 
+L'intégration des productions du J1 crée une continuité pédagogique entre les deux journées. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+TOMLINSON, Carol Ann. The Differentiated Classroom. ASCD, 2014. 
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018. 
+Outils : Google Classroom / Microsoft Teams ; Bookwidgets ; Outil de quiz en ligne ; Productions du jour 1. 
+  Séquence 8 — Jour 2 (90 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Coach bot + remédiation : accompagner chaque élève en sciences : 
+Temps de connexion : les participants ouvrent Claude Projects / Google Gems / ChatGPT GPTs. 
+Le coach bot est un outil de développement de compétences scientifiques : feedback personnalisé et permanent, ce qu'un professeur seul ne peut offrir à 25 élèves simultanément. Fondé sur le pilier du retour d'information (Dehaene). 
+Je montre les possibles : Configuration live d'un bot « Coach Chimie - Acides et bases » : 
+- Instructions personnalisées (rôle tuteur sciences, étayage progressif, pas de réponse directe). 
+- Bot préparation labo : « Avant d'entrer au labo, réponds à ces questions de sécurité... » Vérifie les prérequis avant manipulation. 
+- Bot REMÉDIATION : identification des incompréhensions fréquentes, adaptation des questions, parcours personnalisé. 
+On fait ensemble : Test collectif, identification des failles, amélioration. 
+Je fais : Chaque participant configure son coach bot sur son chapitre. 
+ Je réfléchis : Peer testing (tester le bot du voisin). Discussion : limites, cadre d'utilisation. Le bot accompagne, il ne remplace pas le prof.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Les 3 cas d'usage (tutorat, labo, remédiation) sont tous spécifiques à l'enseignement des sciences. 
+La discussion sur les limites et le cadre d'utilisation (« Le bot accompagne, il ne remplace pas le prof ») outille les participants pour un usage professionnel responsable et argumenté face aux élèves, aux parents et à l'institution.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant configure concrètement un chatbot pédagogique de sciences sur son chapitre. 
+Il teste le bot de ses pairs et fournit un feedback (Connac - coopération). 
+Il participe à la réflexion sur les conditions d'un usage pertinent.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le coach bot concrétise le pilier « retour d'information » (Dehaene) : feedback personnalisé, immédiat, adapté.
+La remédiation ciblée des incompréhensions = différenciation en temps réel (Tomlinson). 
+Le peer testing favorise les échanges entre pairs (Connac).  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018 (retour d'information). 
+TOMLINSON, Carol Ann. The Differentiated Classroom. ASCD, 2014. 
+CONNAC, Sylvain. Apprendre avec les pédagogies coopératives. ESF, 2017. 
+Outils : Claude Projects (Anthropic) ; Google Gems (Gemini) ; ChatGPT GPTs (OpenAI).  
+  Séquence 9 — Jour 2 (140 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+De la simulation à la création : quand l'élève construit la science.
+Temps de connexion : les participants ouvrent les banques de simulations et leur outil IA. 
+ PHASE 1 — Je découvre ce qui existe 
+ Je montre les possibles : Tour d'horizon de PhET (150+ simulations), Concord Consortium, JavaLab (400 simulations), PhysAnim. Message clé : « C'est bien, mais vous pouvez faire mieux, sur mesure. Et surtout : vos élèves peuvent les créer. » 
+ PHASE 2 — Le prof crée sa simulation  
+Je montre : Création live d'un simulateur scientifique interactif par conversation avec l'IA (tableau périodique, équilibreur d'équations, simulateur de photosynthèse...). Accessible sans coder, avec Claude, Gemini ou tout autre outil. 
+Je fais : Chaque participant crée sa propre simulation sur son chapitre. 
+ PHASE 3 — Pourquoi faire créer l'élève ? 
+Quand un élève doit créer une simulation (ex : croissance des végétaux), il est OBLIGÉ de : 
+1. Se structurer - décomposer le problème, planifier (compétence FMTTN). 
+2. Définir l'objectif scientifique - que doit montrer ma simulation ? (compétence FMTTN). 
+3. Maîtriser les concepts - identifier les paramètres (lumière, eau, nutriments, température), leurs relations. On ne peut pas créer sans comprendre. Constructionnisme (Papert) : on apprend en construisant. 
+4. Rédiger des prompts clairs - un bon prompt = un bon protocole de labo = un bon rapport scientifique. Transfert vers la communication scientifique. 
+5. Présenter et défendre - communication orale et argumentation scientifique. 
+Ancrage : constructionnisme (Papert), engagement actif (Dehaene), compétences FMTTN, communication scientifique. 
+ PHASE 4 — Les profs deviennent élèves 
+Mise en situation : « Créez une simulation sur un concept scientifique de votre choix. » Protocole élève : 
+1. Définir l'objectif scientifique. 
+2. Identifier les paramètres et variables. 
+3. Rédiger le prompt. 
+4. Tester, évaluer, améliorer. 
+5. Préparer une présentation de 2 minutes.
+Travail individuel ou en binôme. Outils au choix. 
+PHASE 5 — Présentations et réflexion  
+Présentations (2 min chacune). 
+Discussion : « Qu'avez-vous dû maîtriser ? » ? la science ! Transposition en classe : comment organiser ? Prérequis ? Évaluation ?  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le transfert prompt ? communication scientifique ? rapport de labo montre que l'IA développe des compétences transversales essentielles. 
+Cette séquence illustre une utilisation singulière et pédagogiquement profonde de l'IA, spécifique à l'enseignement des sciences. 
+Les participants repartent avec une simulation prête à l'emploi ET une activité élève complète (protocole, grille d'évaluation, cadre d'organisation).  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant passe de spectateur à créateur : il découvre, crée, puis vit l'activité « en tant qu'élève ». 
+En phase 4, il conçoit, rédige, teste, améliore et présente. 
+Il participe à la réflexion sur la transposition en classe. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La progression en 5 phases suit l'enseignement explicite (Rosenshine) : observation ? modélisation ? cadre théorique ? pratique ? restitution. 
+Le constructionnisme (Papert) : l'élève qui crée une simulation mobilise ses connaissances en profondeur. 
+Le lien FMTTN ancre l'interdisciplinarité : compétences scientifiques + structuration, conception, réalisation.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+PAPERT, Seymour. Mindstorms: Children, Computers, and Powerful Ideas. Basic Books, 1980. 
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018. 
+ROSENSHINE, Barak. Principles of Instruction. American Educator, 2012. 
+Référentiel FMTTN (Formation Manuelle, Technique, Technologique et Numérique). 
+Outils : PhET ; Concord Consortium ; JavaLab ; PhysAnim ; Claude ; Google Gemini.  
+  Séquence 10 — Jour 2 (80 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Portfolio de l'élève, gestion du laboratoire, outils administratifs - et clôture : 
+Temps de connexion : les participants ouvrent Google Sites / Sway. 
+ PHASE A — Portfolio numérique de l'élève  
+Je montre les possibles : Le formateur crée en live un portfolio numérique de l'élève - un véritable carnet scientifique où l'élève retrouve : ses vidéos de manipulations, ses animations et simulations, ses présentations, ses travaux de laboratoire, ses résultats et conclusions. Le prof structure le portfolio (rubriques, chapitres, activités), l'élève le complète au fil de l'année. C'est la vitrine du parcours scientifique de l'élève. 
+Le formateur montre aussi comment intégrer toutes les ressources produites durant les 2 jours (simulations, podcast NLM, widgets, fiches labo, coach bot) dans le portfolio. 
+ Je fais : Chaque participant crée le portfolio de son élève / site de classe. 
+ PHASE B — Gestion du laboratoire + outils admin  
+Je montre les possibles : Fiches de sécurité (pictogrammes, précautions, premiers secours), inventaires de matériel, protocoles standardisés. L'extension de génération de fiches labo dans ce contexte de gestion. Tableau de bord de suivi des compétences + commentaires de bulletin personnalisés. 
+Je fais : Outil de gestion labo ou outil admin adapté à sa situation. 
+ PHASE C — Retour PIX + clôture  
+Retour sur PIX : le formateur guide les participants dans un bilan des compétences numériques développées durant les 2 jours. Lien avec le référentiel CRCN et auto-positionnement. 
+Clôture - échanges libres et détendus :
+« Dès lundi, je fais quoi dans mon cours de sciences ? » — chacun partage ses priorités. 
+Tour de table : une chose que je retiens, une chose que je vais tester. 
+Bilan du projet concret : où en est mon chapitre sur les 4 axes ? Qu'est-ce qui est prêt à l'emploi ?
+Rappel du fil conducteur : l'IA au service du prof (gain de temps, qualité, réflexion pédagogique) et l'IA comme plus-value pour les compétences scientifiques des élèves. 
+Evaluation IFPC de la formation
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La clôture informelle favorise les échanges authentiques et le transfert (Connac). 
+Le bilan du projet concret (chapitre sur 4 axes) permet à chaque participant de mesurer ce qu'il a produit et ce qui est prêt à l'emploi. 
+Les outils administratifs (commentaires de bulletin, fiches de sécurité, inventaires) répondent à des besoins concrets du quotidien professionnel des enseignants de sciences, au-delà de la seule dimension pédagogique.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant crée le portfolio de l'élève en y intégrant toutes ses productions des 2 jours. 
+Il crée un outil de gestion labo ou un outil administratif.
+Il fait le bilan de ses compétences numériques via PIX. 
+Il s'engage dans une projection concrète (« Dès lundi... ») et échange avec ses pairs.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le portfolio de l'élève est l'aboutissement logique de la formation : toutes les ressources produites trouvent leur place dans un support cohérent centré sur l'élève. 
+Le prof structure, l'élève complète - c'est un outil de développement de compétences, pas un simple site vitrine. 
+Le retour sur PIX en fin de formation permet de boucler la boucle avec les compétences numériques présentées en S1 : les participants constatent concrètement leur progression.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+DEHAENE, Stanislas. Apprendre ! Odile Jacob, 2018. 
+CONNAC, Sylvain. Apprendre avec les pédagogies coopératives. ESF, 2017. 
+Plateforme PIX. Référentiel CRCN. 
+Outils : Google Sites ; Microsoft Sway ; Claude ; Google Gemini ; Google Sheets + Gemini ; Extension de génération de fiches de laboratoire. 
+
+4. Sessions RFI / collectives (8 session(s))
+Sessions RFI
+Commentaires matériel RFI :
+Matériel standard :   • Classe de cours standard avec mur blanc ou écran de projection (tables et chaises)  Matériel spécifique :   • Wifi   • TBI (ordinateur non fourni)   • Projecteur (ordinateur non fourni)
+  RFI #1  |  4  —  RFI-Secondaire-Bruxelles 1  |  30/11/2026 → 01/12/2026
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #2  |  5  —  RFI-Secondaire-Brabant wallon  |  18/01/2027 → 19/01/2027
+Note info : Province du Brabant wallon Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #3  |  7  —  RFI-Secondaire-Hainaut 2  |  25/01/2027 → 26/01/2027
+Note info : Hainaut Sud (Charleroi + Chimay + Beaumont) Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #4  |  9  —  RFI-Secondaire-Liège 1  |  01/02/2027 → 02/02/2027
+Note info : Liège ville + Huy-Waremme Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #5  |  12  —  RFI-Secondaire-Namur  |  15/02/2027 → 16/02/2027
+Note info : Province de Namur Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #6  |  15  —  RFI-Secondaire-Luxembourg  |  22/03/2027 → 23/03/2027
+Note info : Province du Luxembourg Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #7  |  18  —  RFI-Secondaire-Hainaut 3  |  05/04/2027 → 06/04/2027
+Note info : Hainaut Centre (Ath+Mons+La Louvière) Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+  RFI #8  |  20  —  RFI-Secondaire-Liège 2  |  12/04/2027 → 13/04/2027
+Note info : Liège ville + Verviers Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : 
+
+5. Prix RFI (par session)
+Grille tarifaire RFI
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+0.00 EUR /pers/jour → Total : 0.00 EUR
+Locaux :
+0.00 EUR /jour → Total : 0.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+1380.00 EUR
+Total TTC :
+1380.00 EUR
+
+6. Sessions individuelles (3 session(s))
+Sessions individuelles
+  Session individuelle #1  |  Jour 1 : 05/10/2026  /  Jour 2 : 06/10/2026
+Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #2  |  Jour 1 : 10/05/2027  /  Jour 2 : 11/05/2027
+Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #3  |  Jour 1 : 21/09/2026  /  Jour 2 : 22/09/2026
+Formateurs titulaires : Omar ALAOUI [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+
+7. Prix individuelles (par session)
+Grille tarifaire individuelles
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+12.00 EUR /pers/jour → Total : 480.00 EUR
+Locaux :
+110.00 EUR /jour → Total : 220.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+2080.00 EUR
+Total TTC :
+2080.00 EUR
+Document généré automatiquement — IFPC — 30/09/2026

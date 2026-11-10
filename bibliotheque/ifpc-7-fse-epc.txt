@@ -1,0 +1,432 @@
+OFFRE DE FORMATION
+CSC 19  —  Lot 120  —  Sous-titre 4  —  Opérateur : PEDAGOKIT
+Document généré le 30/09/2026 à 14:46
+
+
+1. Informations générales
+Référentiel du lot
+Intitulé du lot : Intelligence artificielle : enjeux et usages
+Public cible (lot) : 
+Membres du personnel enseignant de l'enseignement fondamental ordinaire et spécialisé.
+Membres du personnel enseignant secondaire ordinaire et spécialisé.
+Directions d'un établissement scolaire
+Agents des CPMS
+Pôles territoriaux
+Coches public cible CSC : FO | SO | FSP | SSP | CPMS | PT
+Objectifs de formation : 
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères d'analyse : 
+Critères requis d'analyse de l'offre de formation (12 points) :
+La formation :
+1. garantit le caractère interréseaux de la formation : prise en compte de la pluralité des contextes, proposition d’une multiplicité de modèles et d’outils 
+2. présente ses différents contenus avec objectivité
+3. est construite sur des sources scientifiques et/ou référents théoriques énoncés dans l’offre et qui soutiennent la rencontre des objectifs
+4. se base sur des situations concrètes reliées aux contextes professionnels des participants, apportées par le formateur et/ou par les apprenants (expérience des formés)
+5. amène le participant à développer une posture de praticien réflexif (transfert des acquis)
+6. prend en compte les éléments incontournables
+7. travaille l’ensemble des objectifs et permet aux participants de : 
+*Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+* Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+* Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+* A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+* Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères valorisés d'analyse de l'offre de formation (23 points) :
+* La formation tient compte des représentations des participants 
+* La formation tient compte des pré-acquis des participants 
+* Le scénario de la formation est rédigé de manière claire et compréhensible, son fil conducteur est aisément identifiable
+* Les choix méthodologiques soutiennent le développement du contenu de formation
+* La formation offre des ressources théoriques actualisées
+* Les dimensions théoriques et pratiques sont complémentaires
+* Les activités, contenus et ressources proposées dans la formation sont variées et adaptées aux bénéficiaires de la formation
+* La formation suscite, auprès des participants, le développement de pratiques qui soutiennent la scolarité inclusive 
+* Certains éléments de l’offre peuvent être identifiés comme étant remarquables (qualité spécifique, singularité, pertinence exemplaire ou intérêt particulier)
+Elements incontournables : 
+1. La formation a une visée réflexive et aborde la thématique de manière multicontextuelle. Elle se base sur des données scientifiques et expose celles-ci en toute transparence.
+2. La formation tient compte des
+représentations préalables des
+participants au sujet de l'intelligence artificielle
+3. La formation tient compte des biais liés aux stéréotypes de genre
+4. La formation sensibilise aux principales règles en matière de RGPD en lien précis avec le contenu travaillé
+5. La formation fait le lien vers l'outil interréseau d'autoévaluation des compétences numériques PIX.
+6. La formation peut être déclinée sur la base du public cible.
+7. La formation met en évidence l'implication éventuelle de l'IA au sein des outils développés en formation
+8. La formation tient compte des différents niveaux de maitrise des outils de l’IA des participants et propose des activités de formation adaptées à tous les niveaux.
+
+
+Offre de l'opérateur
+Intitulé de la formation :
+IA et référentiel des cours de FSE et EPC — De la compréhension critique à la création pédagogique
+Public cible :
+Membre du personnel de l'enseignement secondaire ordinaire ou spécialisé du degré supérieur; agent PMS; membres des pôles territoriaux. Enseignants et enseignantes des cours d’ Éducation à la Philosophie et à la Citoyenneté (EPC) et de Formation Sociale et Économique (FSE) intervenant dans les deuxième et troisième degré (EPC) ou le troisième degré (FSE) de l'enseignement secondaire ordinaire en Fédération Wallonie-Bruxelles, tous réseaux confondus.
+Coches public cible :
+SO | SSP | CPMS | PT
+Justification public cible :
+Enseignants et enseignantes des cours d’ Éducation à la Philosophie et à la Citoyenneté (EPC) et de Formation Sociale et Économique (FSE) intervenant dans les deuxième et troisième degré (EPC) ou le troisième degré (FSE) de l'enseignement secondaire ordinaire en Fédération Wallonie-Bruxelles, tous réseaux confondus.
+Taille groupe / durée / modalités :
+Groupe : 14-20 participants Groupe Op : 14-20 participants Durée : 2 jour(s) (2 ou 3 jours) Durée Op : 2 jour(s) Présentiel : Oui  |  Distance : Oui  |  Hybride : Oui
+Justification Modalités :
+ouhoh
+
+2. Présentation et détails
+Offre de l'opérateur
+Présentation :
+
+Cette formation de deux jours propose aux enseignants d'EPC et de FSE du Degré Supérieur une approche critique, pratique et ancrée dans leurs programmes. Elle alterne analyse du fonctionnement de l'IA, expérimentation des biais et enjeux éthiques, maîtrise du prompt engineering et création de séquences pédagogiques transférables en classe. Elle repose sur trois principes : ancrage disciplinaire fort (activités liées aux UAA des référentiels de compétences des cours de FSE et EPC), équilibre entre réflexion et pratique (comprendre, développer un regard critique ET produire du matériel exploitable), et approche spiralaire (biais, RGPD, fonctionnement sont initiés, réactivés et approfondis sur les deux jours). À l'issue de la formation, les participants maîtrisent le fonctionnement de l'IA, analysent ses biais et limites, connaissent leurs obligations RGPD, maîtrisent le prompt engineering avec le modèle RoTaConFor, créent des assistants IA personnalisés et ont produit une séquence p...
+Mots-clés :
+PedagokIT,IA,CPC,FSE,Esprit critique,deepfakes,impact environnemental,charte IA,RGPD,Intelligence artificielle,biais,Fact-checking,Impact environnemental du numérique
+Prérequis :
+-
+Remarques participants :
+Les participants sont invités à venir avec des exemples de séquences de cours ou d'activités existantes liées aux UAA de leurs référentiels de compétences des cours d’ EPC et/ou FSE. Ces exemples serviront de base pour les ateliers de création. Aucune compétence numérique particulière n'est requise.
+Matériel spécifique :
+Le participant est invité à apporter un ordinateur ou une tablette avec un câble pour le charger, ainsi qu'un casque ou des écouteurs. Une adresse e-mail personnelle (pour créer des comptes sur les plateformes utilisées). Les référentiels de compétences EPC ou FSE en format numérique.
+
+3. Déroulement de la formation (10 séquence(s))
+Séquences de formation
+Orientation méthodologies générales :
+
+La formation alterne analyse critique en lien avec les référentiels de compétences et production pédagogique concrète. Elle vise à outiller les enseignants pour intégrer l'IA dans leurs cours de FSE et EPC du Degré Supérieur de manière critique, éthique et ancrée dans les référentiels de compétences officiels. La formation est aussi l'occasion d'actualiser les compétences techno-pédagogiques des participants en matière d'IA. 
+ À chaque séquence, une phase de conclusion systématique invite les participants à identifier, en groupes par discipline, les points de leur programme (EPC ou FSE) en lien avec la thématique traitée. Ces liens sont consignés sur un digipad commun qui devient une banque de ressources partagée tout au long des deux jours. 
+  Séquence 1 — Jour 1 (30 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Cadre de la formation 
+Le formateur établit le cadre déontologique : confort, tutoiement, confidentialité des échanges, respect du rythme de chacun, écoute pendant les démonstrations, liberté de poser des questions. Un code icônes est présenté ( Écoute / Action /  Réflexion) pour structurer les activités des deux jours. 
+Phase 2 : Prise de contact 
+Les participants remplissent une matrice sur Wooclap (mur collaboratif) articulée autour de cinq dimensions : leurs besoins pour la formation, ce qu'ils connaissent ou utilisent déjà en matière d'IA, ce qu'ils ont envie d'apprendre, ce qui les enthousiasme et ce qui les inquiète. 
+Phase 3 : Présentation « Si j'étais une IA » 
+Les participants se présentent en s'identifiant à un chatbot d'IA à partir d'une liste de caractéristiques, ce qui introduit en douceur la diversité des outils IA existants.
+Cette séquence d'ouverture pose le cadre humain et professionnel de toute la formation. Les représentations collectées servent de référence de départ pour mesurer l'évolution en fin de parcours.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Cette séquence est directement utile aux participants car elle leur montre comment créer un espace de formation bienveillant et différencié dès l'entrée. La matrice Wooclap est un outil transférable en classe pour réaliser un diagnostic des représentations initiales des élèves avant l'introduction d'un nouveau thème. Le code icônes peut être réutilisé tel quel pour structurer les consignes en classe.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Individuellement, chaque participant contribue au mur collaboratif Wooclap en répondant à chacun des cinq thèmes de la matrice. Les réponses s'affichent en temps réel et donnent lieu à une discussion collective animée par le formateur. La phase de présentation « Si j'étais une IA » mobilise chaque participant dans une prise de parole courte et ludique qui active la réflexion sur les différents modèles d'IA.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif de compréhension des concepts fondamentaux de l'IA en amorçant dès l'ouverture une réflexion sur la diversité des outils et des représentations. La matrice Wooclap met en lumière les acquis et les besoins de chaque participant, permettant au formateur d'adapter ses interventions. Elle rencontre également l'objectif d'identification des outils numériques adaptés en introduisant Wooclap comme exemple d'outil participatif mobilisable en classe.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Outils : Matrice Wooclap, digipad, diaporama de présentation (Canva/Genially), outil interactif de présentation de chatbots d'IA.
+  Séquence 2 — Jour 1 (100 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Expérience pratique
+Les participants utilisent le site Vittasciences pour entraîner une IA à reconnaître des visages d'hommes et de femmes (ou toute autre reconnaissance susceptible d'engendrer des biais). Ils découvrent par l'expérience que l'IA peut se tromper lorsque ses données d'entraînement sont biaisées. 
+Phase 2 : Comprendre les biais 
+Les participants expérimentent un outil présentant le fonctionnement des biais de l'IA et testent des assistants IA (ChatGPT, Gemini) pour comprendre ce que sont les biais cognitifs. 
+Phase 3 : Réflexion collective 
+Discussion collective : quelles solutions peut-on identifier pour prendre en compte et gérer ces biais ? 
+Phase 4 : Tests avec des générations d'images 
+Les participants testent différentes IA de génération d'image sur des propositions ciblées : un médecin, un mécanicien, une personne faisant le ménage ; un groupe de personnes qui ont réussi professionnellement ; un individu soignant un enfant pauvre.
+Conclusion : Liens avec les référentiels de compétences 
+En groupes par discipline, les participants identifient les points de référentiel (EPC/FSE) en lien avec cette thématique et alimentent le digipad commun.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La maîtrise des biais de l'IA est une compétence professionnelle essentielle pour tout enseignant qui intègre ces outils dans sa pratique. Cette séquence outille les participants pour analyser critiquement les contenus générés par l'IA avant de les diffuser à leurs élèves. La phase de génération d'images est directement transférable en classe de EPC (UAA 2.1.3 et 2.2.2) ou FSE (approche transversale Numérique et UAA 4) comme activité de sensibilisation aux stéréotypes véhiculés par les algorithmes  et, donc, les médias.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Pour chaque outil découvert, le participant réalise une tâche concrète qui nécessite sa manipulation directe. Il est ensuite intégré dans une démarche de réflexion collective. Les défis et exercices facilitent la prise en main individuelle. Les présentations et échanges encouragent la réflexion et la prise de conscience par rapport aux biais de l'IA. Les participants sont enfin amenés à identifier des moyens d'action concrets face aux biais identifiés.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif de compréhension des mécanismes fondamentaux de l'IA en faisant vivre aux participants le processus d'entraînement d'un modèle. Elle rencontre l'objectif de réflexion critique en montrant concrètement comment des données biaisées produisent des résultats discriminatoires — illustration directe des UAA 2.1.2 (Éthique et technique) et 2.1.3 (Stéréotypes et discriminations) du référentiel d'EPC. Elle rencontre l'objectif éthique en questionnant la responsabilité des concepteurs et des utilisateurs face aux biais.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Vittasciences (plateforme pédagogique IA) 
+Petreska, Biljana, Les biais de l'intelligence artificielle (2022) 
+Outils IA de génération d'image (Dall-E, Midjourney, etc.) 
+Digipad servant de trace et de brainstorming.  
+O'NEIL, Cathy. Weapons of Math Destruction. Crown, 2016. 
+  Séquence 3 — Jour 1 (60 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Qu'est-ce que l'intelligence artificielle ? 
+Visionnage d'une vidéo (3:14 min) présentant ce qu'est un algorithme et une IA. Exercice de discrimination : « IA ou pas IA ? » pour consolider la définition et élargir la notion au-delà de l'IA générative. 
+Phase 2 : RGPD et IA Act  
+Les participants utilisent NotebookLM chargé avec les textes officiels du RGPD et de l'IA Act. Ils explorent les fonctionnalités de l'outil (chatbot, flash cards, infographies, mind maps, podcasts) et utilisent la fonction recherche avancée pour déterminer les obligations légales des enseignants et des directions en matière de RGPD et d'IA. Les obligations découvertes sont partagées collectivement. 
+Conclusion :Liens avec le programme (10 min)
+En groupes par discipline, les participants identifient les points de programme en lien avec cette thématique (notamment UAA 6 du FSE sur le citoyen et l'État) et alimentent le digipad commun.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Connaître ses obligations RGPD est une nécessité professionnelle immédiate pour tout enseignant qui utilise des outils IA avec ses élèves. Cette séquence donne aux participants les réflexes juridiques nécessaires pour sécuriser leurs pratiques. La maîtrise de NotebookLM leur permet en outre de créer des supports pédagogiques fiables ancrés dans des documents officiels, transférables directement dans leurs cours d'EPC (UAA 3.2.5) ou de FSE (UAA 4). L’intérêt est ici de voir l’Etat comme source de régulation juridique face aux grandes entreprises de la tech et du numérique.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants sont confrontés à des expérimentations individuelles avec NotebookLM et la fonction recherche approfondie, ce qui leur permet à la fois de découvrir les textes juridiques et de commencer à produire des supports pédagogiques. La découverte de NotebookLM se fait en situation réelle d'usage professionnel, ce qui en favorise l'appropriation. La vidéo d'introduction approfondissit la compréhension du fonctionnement de l'IA.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif de compréhension des concepts fondamentaux en montrant que l'IA est plus large que l'IA générative et que les données personnelles en sont le moteur — ce qui mène naturellement aux grands textes juridiques (IA Act, RGPD). Elle rencontre directement l'objectif éthique et juridique en équipant les participants avec une connaissance pratique de leurs obligations légales. L'utilisation de NotebookLM rencontre également l'objectif d'identification d'outils numériques adaptés à des intentions pédagogiques précises.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+IA Act (Règlement UE 2024/1689) 
+Règlement Général sur la Protection des Données (RGPD, UE 2016/679) 
+NotebookLM (Google, 2024) 
+Fonction recherche approfondie des outils IA.  
+HAAS, Gérard. Guide juridique du RGPD. ENI, 2018.
+  Séquence 4 — Jour 1 (120 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Anatomie de l'algorithme de recommandation YouTube 
+Les participants lancent une recherche approfondie dans un outil d'IA sur l'algorithme de recommandation de YouTube. Ils utilisent ensuite NotebookLM pour générer une infographie sur cet algorithme. 
+Phase 2 : Création d'une bulle de filtre 
+Les participants créent un compte YouTube sans historique et le « nourrissent » selon deux profils opposés. Groupe A : contenus clima-sceptiques, économie libérale, critique des énergies renouvelables. Groupe B : contenus activisme climatique, décroissance, critique du capitalisme. Consignes strictes : 20 min de navigation par profil, liker/commenter dans le sens du profil, noter l'évolution des recommandations toutes les 5 vidéos. Débriefing collectif sur la vitesse de radicalisation et l'apparition de contenus complotistes. 
+Phase 3 : Les deepfakes 
+Visionnage de 3 deepfakes de qualité croissante : vrai ou faux ? Création collective d'une grille d'analyse critique. Présentation d'outils de vérification avancés (Forensically, InVID WeVerify, Google Images inversé). Discussion sur les implications pour la démocratie. 
+Conclusion : Liens avec le programme (10 min) Les participants identifient les points du référentiel de compétences concernés (UAA 2.1.1, UAA 2.2.2 EPC) et alimentent le digipad.
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Cette séquence outille les participants avec des outils de détection des deepfakes et une compréhension des algorithmes de recommandation, deux compétences directement mobilisables dans leurs cours de EPC (UAA 2.1.1 et 2.2.2) et de FSE (UAA 4, interactions médiatiques). La grille d'analyse critique co-construite est utilisable immédiatement avec les élèves. L'expérience de la bulle de filtre est une activité de classe saisissante pour aborder la polarisation politique .
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+En binômes pour l'expérimentation sur les algorithmes de recommandation ; individuellement pour l'analyse des deepfakes ; collectivement pour la création d'une grille d'analyse. La comparaison des profils-types permet une prise de conscience immédiate et incarnée des bulles de filtres. L'analyse de deepfakes développe des réflexes de vérification transférables directement en classe. La grille d'analyse co-construite devient une ressource pédagogique partagée.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+ Cette séquence rencontre l'objectif de réflexion critique en démontrant expérimentalement comment les algorithmes orientent, polarisent et potentiellement radicalisent les utilisateurs — illustration directe des UAA 2.1.1 (Discours et pièges du discours), 2.1.2 (Ethique et technique) et 2.2.2 (Médias et information) du programme d’EPC. Elle rencontre l'objectif de compréhension des mécanismes fondamentaux de l'IA en expliquant le fonctionnement des algorithmes de recommandation. La réflexion sur les deepfakes rencontre l'objectif éthique en questionnant les impacts sur la vérité et la démocratie (UAA 3.1.1 EPC).
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Pariser, Eli. The Filter Bubble. Penguin, 2011 
+Cardon, Dominique. À quoi rêvent les algorithmes. Seuil, 2015 
+Fonction deep research des outils IA ; NotebookLM (Google, 2024) 
+Canva 
+Forensically, InVID WeVerify, Google Images inversé.
+PARISER, Eli. The Filter Bubble. Penguin, 2011
+CARDON, Dominique. 
+À quoi rêvent les algorithmes. Seuil, 2015.
+CARDON, Dominique. 
+Culture numérique. Presses de Sciences Po, 2019
+  Séquence 5 — Jour 1 (50 min)
+Objectif(s) :
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Le data center de la discorde 
+Exploration des impacts environnementaux, économiques et sociaux de l'IA sous forme de jeu de rôle. Pitch sous forme d'avatar vidéo généré par IA : la commune de Beaumont-sur-Tech (35 000 habitants, taux de chômage 12 %) a été sélectionnée par Google Cloud Europe pour accueillir un nouveau data center de 50 MW (investissement de 600 M€, 150 emplois directs, 450 emplois indirects, 2,5 M€/an de retombées fiscales). Le collectif « Tech Responsable » interpelle le conseil communal. 
+Ce soir, réunion publique extraordinaire du conseil communal. Vous devez voter.
+ - Distribution des rôles 
+- Distribution de cartes / fiches « arguments » permettant d’identifier des impacts envirronementaux, économiques et sociaux
+- Distributions de cartes « révélation » permettant de réfuter certains arguments
+- Prise de connaissance individuelle ou par groupe d’intérêt des différents éléments distribués
+- Débats
+Conclusion : 
+Les participants identifient les points des référentiels concernés (UAA 2.1.6 et 2.1.4 en EPC, UAA 3 FSE) et alimentent le digipad commun. 
+Attirer l’ attention des participants sur le fait que l’ après-midi de la prochaine journée sera consacrée à la création d’un début de séquence pour leur cours.
+Proposer des ressources à lire, écouter et voir pour prolonger la réflexion jusqu’à la prochaine séance. Demander que chacun en choisisse une à présenter succinctement lors du départ de la prochaine séance. La présentation portera uniquement sur ce qui lui a plus dans cette ressource et une façon dont l’enseignant pourrait s’en servir dans son cours:
+La série de podcast « Ok Mila, » 
+Pixel mag du CSEM 
+Vidéo Trump, tech et manipulation 
+Le kit esprit critique des Rochdur 
+Le site educonetimpact de Sarah Descamps
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le jeu de rôle est un format pédagogique directement transférable en classe d'EPC ou de FSE pour aborder les enjeux environnementaux et économiques du numérique. Les supports pédagogiques (cartes, fiches arguments) créés par IA constituent un modèle que les participants peuvent reproduire pour leurs propres thématiques de cours. Cette séquence montre aussi qu'il est possible de travailler des sujets complexes de manière vivante, en favorisant les échanges humains plutôt que la technologie.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+En groupes ou individuellement pour la prise de connaissance des différents éléments d'information. Collectivement pour le débat. Le jeu de rôle assure l'engagement actif de chaque participant en le plaçant dans une posture d'acteur confronté à un dilemme réel. La confrontation entre arguments économiques et arguments environnementaux produit une réflexion nuancée que les participants peuvent restituer directement à leurs élèves.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre directement l'objectif de prise en compte des questions environnementales de l'IA. Elle rencontre également l'objectif de réflexion critique en montrant que la question de l'impact environnemental du numérique ne se réduit pas à un discours univoque : les tensions entre création d'emplois, retombées fiscales et consommation d'eau/d'énergie illustrent la complexité des enjeux. Elle s'ancre dans les UAA 2.1.6 (Relation sociale et politique à l'environnement) du EPC et UAA 3 (La consommation) du FSE.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+ADEME, Guide pratique sur l'impact environnemental du numérique (2023) 
+Matériel didactique du jeu de rôle (cartes, fiches arguments générés par IA)
+SANCHEZ, Eric et ROMERO, Margarida. Apprendre en jouant. Retz, 2020
+  Séquence 6 — Jour 2 (55 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Présentation du référentiel DigComp et des ressources du J1
+Présentation du cadre européen DigComp : 5 domaines, 21 compétences, 8 niveaux de maîtrise. 
+Introduction de DigCompEdu, la version pour les enseignants (6 domaines).
+Mini présentations des ressources présentées en fin de séance 1: La série de podcast « Ok Mila, » 
+Pixel mag du CSEM 
+Vidéo Trump, tech et manipulation 
+Le kit esprit critique des Rochdur 
+Le site educonetimpact de Sarah Descamps
+ Phase 2 : Découverte de PIX et Présentation de l'outil 
+plateforme publique, tests adaptatifs, lien avec la formation, Pix Orga. Liens vers les procédures d'inscription individuelles. Test avec le mini-parcours sans inscription. 
+Phase 3 : Débriefing collectif 
+Wooclap : ce que je perçois de positif et de négatif dans le dispositif PIX pour travailler les compétences du DigComp. 
+Conclusion : Liens avec le programme (10 min)
+Les participants identifient les points de programme auxquels ils pourraient raccrocher un parcours Pix Orga et alimentent le digipad commun.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+PIX est progressivement intégré dans les curricula en FWB. Cette séquence équipe les participants pour accompagner leurs élèves dans leur certification numérique et pour créer des parcours Pix Orga en lien avec leurs cours d’ EPC ou de FSE (Notamment les parcours sur l’ esprit critique et l’éducation aux médias mais aussi peut être ceux sur le numérique comme espace de droit ou la création d’exposés). La maîtrise du référentiel DigComp leur donne également un cadre professionnel pour analyser et valoriser les compétences numériques développées dans leurs séquences.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant est amené à découvrir progressivement et individuellement les défis PIX. Il participe avant et après à une réflexion méta sur les compétences digitales à l'école. Une fois la présentation terminée, chaque participant découvre l'outil de manière simple et intuitive grâce au lien vers la séquence sans création de compte. La phase de débriefing sur Wooclap mobilise la capacité d'analyse critique des participants.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif d'identification des outils numériques adaptés en présentant PIX comme instrument d'évaluation et de développement des compétences numériques, directement utilisable avec les élèves. Elle rencontre l'objectif d'analyse des effets des outils numériques sur l'enseignement en invitant les participants à évaluer eux-mêmes les apports et limites du dispositif PIX pour leurs pratiques professionnelles.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Commission Européenne. DigComp 2.2 : The Digital Competence Framework for Citizens. 2022 
+DigCompEdu (Redecker, 2017) 
+Plateforme PIX (pix.be) 
+Schéma DigComp (infographie) 
+Guides et tutos PIX pour enseignants 
+Wooclap.  
+  Séquence 7 — Jour 2 (70 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Les participants sont amenés à tester l'usage de l'IA pour générer des propositions de séquences de cours. Ils apprennent progressivement des méthodes de prompting de plus en plus avancées et copient-collent les différents résultats sur un document afin de les comparer. Chaque technique est d'abord présentée par le formateur. 
+Phase 1 : La demande simple et basique
+Les participants formulent une demande simple du type « Crée une séquence de cours sur… » et observent le résultat. 
+Phase 2 : Le modèle RoTaConFo
+Présentation du modèle : Rôle / Tâche / Contexte / Format. Création en commun d'un prompt pour créer des séquences de cours. 
+Phase 3 : Variantes et astuces 
+Exploration de techniques avancées : prompting inversé, divergence, arbre de pensées, context engineering. 
+Phase 4: Partage collectif 
+Les participants partagent leurs impressions et leurs prompts de création de séquence pédagogique.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Maîtriser le prompt engineering est la compétence fondamentale qui conditionne la qualité de tous les usages pédagogiques de l'IA. En repartant avec le modèle RoTaConFor et un répertoire de techniques avancées, les participants peuvent créer efficacement des séquences, des exercices, des évaluations et des supports différenciés adaptés aux UAA de leurs cours d'EPC et de FSE. La mutualisation des prompts sur le document partagé constitue une ressource collective réutilisable.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+En binômes pour la création des prompts. Chaque binôme teste au moins un de ses prompts et ajuste selon les résultats. Partage collectif et mutualisation sur un document partagé. La démonstration comparative (prompt simple vs RoTaConFor vs techniques avancées) permet une prise de conscience immédiate de l'importance de la formulation. L'atelier pratique en binômes assure une appropriation active.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif d'identification des outils numériques adaptés en outillant les participants avec un modèle structuré de prompting (RoTaConFor) applicable à toute intention pédagogique. Elle rencontre l'objectif d'analyse des effets de l'IA sur l'enseignement en faisant vivre concrètement la différence que produit la qualité du prompt sur la pertinence des résultats — ce qui modifie directement la posture de l'enseignant face à l'outil.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Anthropic. Prompt Engineering Guide. Documentation officielle Claude, 2024 
+OpenAI. Prompt Engineering Best Practices. 2023 
+White, Jules et al. A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT. arXiv, 2023 
+Formation au prompt réalisée par le formateur 
+Google Doc partagé pour mutualisation.  
+  Séquence 8 — Jour 2 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Pourquoi des assistants personnalisés ? 
+Présentation des limites de l'IA générique (oubli du contexte, réponses trop générales, répétition du contexte) et des avantages d'un assistant personnalisé (instructions permanentes, ressources intégrées, partage). Utilités : différenciation, assistance, jeu de rôle, etc. 
+Phase 2 : Démonstration guidée 
+Création en direct d'un assistant jouant le rôle d'une personne célèbre selon le modèle RoTaConFor. 
+Phase 3 : Atelier création 
+Les participants construisent un ou plusieurs assistants utiles pour leur cours (EPC ou FSE). 
+Phase 4 : Présentation des assistants 
+Présentations croisées et création de QR codes (via ladigitale.dev) à mettre sur le digipad pour accès partagé. Chaque participant présente son ou ses assistants, leur rôle, et la séquence pédagogique dans laquelle ils s'inscrivent.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La création d'assistants IA personnalisés est une compétence à fort impact pour les cours d'EPC et FSE : un assistant configuré pour jouer le rôle d'un philosophe, d'un économiste ou d'un militant écologiste permet des activités de débat ou d'interview directement ancrées dans les UAA. Les QR codes partagés sur le digipad permettent une diffusion immédiate aux collègues et une réutilisation dès la semaine suivante.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants créent individuellement leurs assistants puis les présentent aux autres. La démonstration en direct permet de modéliser le processus de création. L'atelier en groupes assure une appropriation active. Le partage final enrichit le répertoire de chacun avec des assistants opérationnels et des QR codes permettant un accès immédiat depuis la classe.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif d'identification des outils numériques adaptés en montrant comment un assistant personnalisé répond à des intentions pédagogiques précises (différenciation, jeu de rôle historique pour EPC, assistant juridique pour FSE). Elle rencontre l'objectif d'analyse des effets de l'IA sur l'enseignement en faisant expérimenter directement la différence entre IA générique et IA configurée pour un usage disciplinaire spécifique, ce qui transforme la posture de l'enseignant en concepteur d'environnements d'apprentissage.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+OpenAI. Custom GPTs Documentation. 2024 
+Anthropic. Claude Projects Guide. 2024 
+Ladigitale.dev pour créer des codes QR.  
+  Séquence 9 — Jour 2 (110 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Travail individuel ou en groupe 
+Les participants créent une séquence de cours seuls ou en groupe en réinvestissant tout ce qui a été vu lors de la formation et, si nécessaire, en s'inspirant des éléments rassemblés collectivement sur le digipad. Le formateur répond aux questions et peut développer certains points à la demande. 
+Phase 2 : Présentation 
+Les participants présentent leurs séquences en précisant : le point du programme abordé, comment il a été abordé, et quels outils IA ont été utilisés (ou non). 
+Cette séquence est le grand atelier de synthèse de la formation : elle mobilise l'ensemble des acquis des deux jours dans une production concrète et transférable.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Chaque participant repart avec au moins une séquence de cours complète et transférable, ancrée dans les UAA de son référentiel de compétences (EPC ou FSE). C'est le livrable concret le plus directement utile de toute la formation. Le travail collectif et la présentation croisée permettent en outre de mutualiser des ressources couvrant l'ensemble des thématiques abordées pendant les deux jours.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Individuellement ou en groupe pour la production de séquences. L'atelier de création assure une appropriation active de l'ensemble des apports de la formation. La mutualisation lors de la présentation enrichit le répertoire de chacun avec des séquences opérationnelles couvrant différents points des référentiels de compétences d’ EPC et de FSE.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif d'analyse des effets de l'IA sur l'enseignement en plaçant les participants en situation réelle de conception pédagogique avec l'IA, ce qui leur permet d'évaluer concrètement ce que l'outil apporte et ce qu'il ne peut pas faire. Elle rencontre l'objectif d'identification des outils numériques adaptés en obligeant chaque participant à choisir les outils les plus pertinents pour son intention pédagogique spécifique. Elle rencontre l'objectif de réflexion critique en permettant de tester les limites des outils dans un contexte disciplinaire précis.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Référentiels de compétences FSE et EPC; Ensemble des outils IA présentés lors de la formation 
+Digipad collectif servant de base de ressources
+  Séquence 10 — Jour 2 (65 min)
+Objectif(s) :
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Phase 1 : Jeu sérieux « La Charte IA de l'école »  
+Pitch : les participants sont réunis au sein du conseil de participation de l'école. Ils doivent rédiger la Charte de l'IA de leur établissement : claire, compréhensible, et contenant maximum 10 articles. Distribution des rôles (direction, enseignants, élèves, parents). Les participants choisissent leurs positions parmi une liste pré-établie, puis débattent. 
+Phase 2 : Débriefing 
+Discussion collective : qu'est-ce qui est facile ? Qu'est-ce qui est contradictoire dans les différentes postures ? 
+Clôture et évaluation de la formation: 
+Mot de conclusion  : la chose apprise que le participant va mettre le plus rapidement en pratique ; une question avec laquelle le participant repart. Questionnaire évaluation IFPC .  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La Charte de l'IA est un document dont les établissements scolaires ont de plus en plus besoin. Cette séquence outille les participants pour piloter ce processus dans leur propre école, en mobilisant les parties prenantes (direction, enseignants, élèves, parents). Le format jeu de rôle est directement transférable en classe d'EPC pour travailler les processus de décision collective et la citoyenneté active (UAA 3.1.5). Le débriefing sur les tensions entre postures est riche d'enseignements sur la complexité des enjeux de l'IA.  
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Collectivement pour l'élaboration de la Charte. La ludification facilite le réinvestissement de tout ce qui a été appris tout en terminant la formation sur une note légère. Le débat entre pairs renforce la prise en mains des concepts éthiques, juridiques et sociaux abordés pendant les deux jours. Les fiches avec les différentes positions permettent à chacun de défendre un point de vue qu'il n'est pas nécessairement le sien, ce qui développe la pensée critique.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence rencontre l'objectif de réflexion critique en confrontant les participants à des dilemmes éthiques réels liés à l'usage de l'IA en milieu scolaire — illustration directe de l'UAA 3.1.5 (Participer au processus démocratique) du du référentiel de compétences EPC. Elle rencontre l'objectif éthique et juridique en obligeant chaque groupe à articuler des principes concrets sur le RGPD, la propriété intellectuelle et l'usage responsable de l'IA dans un document officiel simulé.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Sanchez, Eric et Romero, Margarida. Apprendre en jouant. Retz, 2020 
+référentiel EPC (FWB) — UAA 3.1.5 Participer au processus démocratique 
+Fiches avec les différentes positions dans lesquelles piocher
+
+6. Sessions individuelles (4 session(s))
+Sessions individuelles
+  Session individuelle #1  |  Jour 1 : 22/09/2026  /  Jour 2 : 29/09/2026
+Formateurs titulaires : Antonin BAREAU [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #2  |  Jour 1 : 19/01/2027  /  Jour 2 : 26/01/2027
+Formateurs titulaires : Antonin BAREAU [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #3  |  Jour 1 : 10/11/2026  /  Jour 2 : 17/11/2026
+Formateurs titulaires : Antonin BAREAU [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #4  |  Jour 1 : 09/03/2027  /  Jour 2 : 16/03/2027
+Formateurs titulaires : Antonin BAREAU [validé] Formateurs remplaçants : Jean-philippe BOLLE [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+
+7. Prix individuelles (par session)
+Grille tarifaire individuelles
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+12.00 EUR /pers/jour → Total : 480.00 EUR
+Locaux :
+110.00 EUR /jour → Total : 220.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+2080.00 EUR
+Total TTC :
+2080.00 EUR
+Document généré automatiquement — IFPC — 30/09/2026

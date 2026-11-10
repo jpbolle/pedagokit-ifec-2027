@@ -1,0 +1,477 @@
+OFFRE DE FORMATION
+CSC 19  —  Lot 120  —  Sous-titre 5  —  Opérateur : PEDAGOKIT
+Document généré le 30/09/2026 à 14:46
+
+
+1. Informations générales
+Référentiel du lot
+Intitulé du lot : Intelligence artificielle : enjeux et usages
+Public cible (lot) : 
+Membres du personnel enseignant de l'enseignement fondamental ordinaire et spécialisé.
+Membres du personnel enseignant secondaire ordinaire et spécialisé.
+Directions d'un établissement scolaire
+Agents des CPMS
+Pôles territoriaux
+Coches public cible CSC : FO | SO | FSP | SSP | CPMS | PT
+Objectifs de formation : 
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères d'analyse : 
+Critères requis d'analyse de l'offre de formation (12 points) :
+La formation :
+1. garantit le caractère interréseaux de la formation : prise en compte de la pluralité des contextes, proposition d’une multiplicité de modèles et d’outils 
+2. présente ses différents contenus avec objectivité
+3. est construite sur des sources scientifiques et/ou référents théoriques énoncés dans l’offre et qui soutiennent la rencontre des objectifs
+4. se base sur des situations concrètes reliées aux contextes professionnels des participants, apportées par le formateur et/ou par les apprenants (expérience des formés)
+5. amène le participant à développer une posture de praticien réflexif (transfert des acquis)
+6. prend en compte les éléments incontournables
+7. travaille l’ensemble des objectifs et permet aux participants de : 
+*Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+* Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+* Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+* A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+* Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères valorisés d'analyse de l'offre de formation (23 points) :
+* La formation tient compte des représentations des participants 
+* La formation tient compte des pré-acquis des participants 
+* Le scénario de la formation est rédigé de manière claire et compréhensible, son fil conducteur est aisément identifiable
+* Les choix méthodologiques soutiennent le développement du contenu de formation
+* La formation offre des ressources théoriques actualisées
+* Les dimensions théoriques et pratiques sont complémentaires
+* Les activités, contenus et ressources proposées dans la formation sont variées et adaptées aux bénéficiaires de la formation
+* La formation suscite, auprès des participants, le développement de pratiques qui soutiennent la scolarité inclusive 
+* Certains éléments de l’offre peuvent être identifiés comme étant remarquables (qualité spécifique, singularité, pertinence exemplaire ou intérêt particulier)
+Elements incontournables : 
+1. La formation a une visée réflexive et aborde la thématique de manière multicontextuelle. Elle se base sur des données scientifiques et expose celles-ci en toute transparence.
+2. La formation tient compte des
+représentations préalables des
+participants au sujet de l'intelligence artificielle
+3. La formation tient compte des biais liés aux stéréotypes de genre
+4. La formation sensibilise aux principales règles en matière de RGPD en lien précis avec le contenu travaillé
+5. La formation fait le lien vers l'outil interréseau d'autoévaluation des compétences numériques PIX.
+6. La formation peut être déclinée sur la base du public cible.
+7. La formation met en évidence l'implication éventuelle de l'IA au sein des outils développés en formation
+8. La formation tient compte des différents niveaux de maitrise des outils de l’IA des participants et propose des activités de formation adaptées à tous les niveaux.
+
+
+Offre de l'opérateur
+Intitulé de la formation :
+Quand les outils d'intelligence artificielle engagent les élèves dans leur apprentissage du français...
+Public cible :
+Membre du personnel de l'enseignement secondaire ordinaire ou spécialisé; membres des pôles territoriaux, qui interviennent dans le cours de français.
+Coches public cible :
+SO | SSP | PT
+Justification public cible :
+L'atelier répond aux 4 grandes visées du Tronc commun pour le français dans le secondaire inférieur et aux UAA du programme classique pour le supérieur; les activités, outils et séquences proposés reposent ainsi sur les savoir-faire, savoirs et compétences du tronc commun et les uaa (en 4e, 54e et 6e) du secondaire ordinaire. Les Pôles Territoriaux sont inclus comme relais pédagogiques auprès des élèves.
+Taille groupe / durée / modalités :
+Groupe : 14-20 participants Groupe Op : 14-20 participants Durée : 2 jour(s) (2 ou 3 jours) Durée Op : 2 jour(s) Présentiel : Oui  |  Distance : Oui  |  Hybride : Oui
+Justification Modalités :
+
+2. Présentation et détails
+Offre de l'opérateur
+Présentation :
+
+Cette formation, en lien direct avec les visées du Tronc commun pour le cours de français, vous plonge concrètement dans les risques et les possibilités qu'ouvre aujourd'hui l'intelligence artificielle : source de biais et carrefour d'enjeux éthiques et critiques, l'IA redéfinit les gestes de lecture et d'écriture ; assistante personnalisée pour les élèves ou génératrice de contenus différenciés pour les professeurs, elle favorise la personnalisation des apprentissages et facilite les activités autant réflexives que créatives. 
+De cet atelier pratique riche en petits défis, vous ressortirez non seulement avec une meilleure compréhension des enjeux que pose l’IA mais aussi avec des pistes et des outils pour intégrer les outils d’intelligence artificielle dans vos pratiques et vos activités liées au Référentiel de français. 
+Mots-clés :
+français,différenciation,personnalisation,intelligence artificielle,IA,numérique,pedagokit,média,écriture numérique,communication,tronc commun,Référentiel de français
+Prérequis :
+-
+Remarques participants :
+-
+Matériel spécifique :
+Le participant est invité à apporter un ordinateur ou une tablette avec un câble pour le charger, ainsi qu'un casque ou des écouteurs.
+
+3. Déroulement de la formation (10 séquence(s))
+Séquences de formation
+Orientation méthodologies générales :
+
+La formation adopte une approche concrète, collaborative et constructive à partir de différents défis et mises en situation au sein desquels les participant(e)s, professeurs de français, prennent en main les outils pour les intégrer directement dans leur pratique pédagogique.
+Trois temps structurent chacun de mes modules : introduction théorique courte suivie d'un long temps de manipulation qui se conclut par un temps de retour sur expérience.
+Tout au long de la formation, les participant(e)s découvrent les SAI (systèmes d'IA) et comment les intégrer dans des activités qui relèvent des grandes compétences de littératie (lire – écrire – parler – écouter) mises en avant par le Référentiel de français  (Tronc commun), des UAA (pour le secondaire supérieur en particulier) :
+usages dans la création de contenus et dans l'acte d'enseigner
+pistes de contournement ou d'intégration de l'IA dans l'apprentissage des élèves.
+Au travers de ces modules concrets et liés aux référentiels actuels (en premier lieu le Référentiel de français et de langues anciennes lié au Tronc commun, mais aussi ceux de l'Unesco, le DigCompEdu), le tout dans le respect des cadres légaux et éthiques (Unesco, European AI Act), les apprenants gagnent en aisance numérique et distinguent progressivement des repères méthodologiques, didactiques et pédagogiques sur l'usage responsable et efficace de l'IA en français.
+  Séquence 1 — Jour 1 (40 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Introduction via une activité de lancement (Cadrage et représentations initiales)
+Après avoir accueilli les participants, le formateur lance la formation par un jeu d'introduction créé avec l'IA, qui suscite immédiatement interactions et réflexion: les professeurs de français découvrent un outil d'aide à la recherche pour les élèves, pour les professeurs de suivi de ceux-ci dans leurs recherches sur internet. C'est l'occasion de faire émerger les représentations sur lire et écrire au XXIe s et de poser le cadre de la formation (objectifs, déroulement des 2 journées, règles de vie du groupe).
+1. Accueil
+2. Lancement du jeu de recherche sur internet
+3. Dialogue et mise en place du cadre de travail à venir
+Concepts: SAI (systèmes d'intelligence artificielle), écrilecture, différenciation et personnalisation
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Cette séquence est directement liée à des savoir-faire (utilisation du moteur de recherche) et compétences transversales (Développer une psnée critiaue) qui doit être enseignée et évaluée à travers le cours de français. Elle permet aussi aux enseignants de prendre conscience de leurs propres représentations sur l'IA, sur la lecture, l'écriture et la notion de recherche. La séquence peut leur donner enfin des idées pour la fin de l'atelier (journée 2) où ils devront réaliser leur propre application 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants sont actifs dès l'entrée en matière : le dispositif ludique (créé avec l'IA) génère des interactions tant avec l'outil qu'avec le formateur: de manière concrète, les professeurs effectuent une recherche via l'outil proposé, découvrent comment l'intelligence artificielle peut changer la donne, et dans la recherche sur internet et dans le suivi pédagogique des apprenants sur Internet. Ils adoptent successivement la posture de l'élève et du professeur.
+Le jeu débouche ensuite sur une première réflexion collective: qu'est-ce que lire et écrire à l'ère des intelligences artificielles?!
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+1. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant. 
+Ce jeu mobilise savoir-faire et compétences liés à la recherche internet et donc à la lecture digitale et critique: non seulement, les professeurs découvrent comment créer un dispositif de recherche via le jeu mais ils découvrent aussi comment un élève peut recevoir un feedback immédiat à propos de sa recherche (généré par l'IA) et comment ils pourront bientôt suivre finement le trajet de recherche d'un élève.
+2. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+Les professeurs voient la plus-value de l'aide IA quand elle est intégrée finement: plus-value tant pour l'élève que pour le prof
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Jeu personnel : navigKid!, extension personnelle qui est disponible sur le chrome web store (mode privé) et qui est lié à une application en cours de développement, RectoVersIA
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Brunel, Magali (2018). L’enseignement de la littérature avec le numérique. PIE-Peter Lang, ThéoCrit’ 12.
+• Chapelain, Brigitte (2015). Expressions et pratiques créatives numériques en réseaux. Hermann. 
+  Séquence 2 — Jour 1 (70 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Du prompt au fonctionnement des SAI - enjeux critiques (LLM, stéréotypes, biais, RGPD, écologie)
+A partir d'une séquence qu'ils pourraient directement reprendre et adapter pour leurs élèves, les professeurs découvrent de prompts en prompts le fonctionnement des modèles de langage (LLM). 
+Le module couvre les concepts suivants : 
+- le prompt et le prompt system (biais de confirmation, censure éventuelle) en lien avec la notion de texte injonctif 
+- les modèles de langage (LLM) et les risques d'hallucinations et de biais (stéréotypes et biais de genre) liés aux données d'entraînement qui influencent les résultats.
+- l'empreinte écologique des requêtes IA avec visualisation en temps réel de la consommation énergétique
+- les règles RGPD essentielles.
+Concepts: SAI (systèmes d'intelligence artificielle), LLM (modèles de langage), biais et stéréotypes.
+Cette découverte de premiers prompts sera progressivement réinvestie tout au long de la journée, depuis la création d'un prompt simple jusqu'à la structuration d'un prompt complexe...
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Comprendre les intelligences artifcielles et les modèles de langage qu'elles supposent, c'est maîtriser de nouvelles formes d'écriture médiatique et donc de lecture. Tous les professeurs, en particulier les professeurs de français, doivent participer à cette nouvelle alphabétisation (Compétences transversales du Référentiel:développer une pensée critique)
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Peu de théorie : la réflexion jaillit de l'analyse de prompts à travers divers assistants conversationnels. 
+- Les apprenants découvrent progressivement la construction d'un prompt: au départ, les prompts sont donnés par le formateur; puis progressivement, ils doivent les construire... 
+- Par ailleurs, des exercices en autonomie permettent à l'apprenant de comparer les assistants conversationnels et de réfléchir tant à la puissance de ces outils qu'à leur fonctionnement et leurs limites. 
+- Les participants à partir d'outils comme ComparIA, ViitaScience, observent les résultats et visualisent en temps réel la consommation énergétique d'une requête IA. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement 
+Comprendre le fonctionnement des IA, en particulier des assistants conversationnels, permet d'en voir les forces et les limites, d'analyser la singularité de ce nouvel interlocuteur virtuel, ce qui est indispensable pour des professeurs dont le cours est centré sur la langue et la communication. 
+A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+Cette séquence donne aux enseignants de français les clés pour aborder l'IA avec leurs élèves dans le cadre d'activités de recherche documentaire (transférable du primaire au secondaire), tout en développant leur posture critique face aux outils numériques — en lien avec les référentiels UNESCO DigCompEdu et l'European AI Act. 
+Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle. 
+La comparaison de modèles de langage (puissance, empreinte écologique, accès aux données) aiguise l'esprit critique des professeurs, les conscientise à tout le moins. 
+Par ailleurs, les professeurs découvrent progressivement la force d'un prompt explicite, ce qui sera développé dans le module suivant
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• UNESCO (2023). Référentiel de compétences en IA pour les enseignants. — Council of Europe / European AI Act — Réglementer l'IA dans l'éducation. — 
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Cappé, Olivier, et Claire Marc (2025). Tout comprendre, ou presque, sur l’intelligence artificielle. CNRS éditions. Tout comprendre ou presque sur. 
+• Kaplan, F. (2025). Proxies. Agents statistiques invocables à partir de modèles de langage. Terrain, 82, dossier « Espèces d’IA ».
+• Pedagokit.be — Synthèse sur l'IA et le traitement des données
+• RGPD (Règlement UE 2016/679).
+• ComparIA (outil). 
+• VittaScience (outil de prédiction).
+  Séquence 3 — Jour 1 (70 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Aides à la lecture et à l'écriture — Différenciation avec l'IA
+Ce module s'inscrit dans le prolongement du module précédent puisque l'apprenant doit désormais construire ces prompts lui-même. Il découvre alors comment les outils d'IA peuvent aider les élèves dans la découverte des textes et de la langue. La séquence est basé sur la différenciation puisque les professeurs sont soumis à plusieurs défis qu'ils peuvent choisir.
+• génération de versions simplifiées de textes informatifs | argumentatifs;
+• travail de la fluence (les fameux 170 mots à atteindre en fin de 3e secondaire)
+• guides de lecture (résumé, concepts-clés, QR), tableaux de vocabulaire ; 
+• exercices différenciés avec niveaux de difficulté variables ; 
+Si le temps le permet:
+• outils d'aide à l'écriture : MerciApp (correction orthographique et grammaticale), HelperBird (accessibilité, module complémentaire pour documents Cloud) ; immersive reader
+• un outil personnel créé pour les élèves de FLE: Daspalecte
+Cette séquence aboutira durant l'après-midi à la construction d'un bot personnalisé et ... personnalisant
+Concepts: assistant conversationnel, agentification, mode canevas | canvas, MCP (en fonction des participants)
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La découverte du mode canvas et de prompts structurés rendent possible et concrète la notion d'aide personnalisée à chaque élève, de l'accessibilité à la différenciation avancée, ce que met en avant le Référentiel de français. Les assistants conversationnels bien cadrés réduisent la charge de préparation tout en augmentant la qualité des supports. Même si ici l'accent se porte sur les textes informatifs et argumentatifs, l'activité est directement transférable à d'autres types de textes.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Activité pratique et différenciée : expérimentation en temps réel et différenciation des défis selon les niveaux, besoins et demandes des participants. Aide apportée par un générateur de prompts, Prompt Generator, outil personnel accessible en ligne.
+Chaque participant choisit un défi parmi un panel de six à sept défis de niveau différent (générer des exercices, générer des séries différenciées; générer une app; etc.) et structure à son rythme des prompts pour y parvenir. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques
+Les professeurs découvrent la puissance d'un prompt bien structuré comme celle de certains assistants: Gemini pour son mode Canvas qui permet d'interagir avec le texte généré, Claude pour sa dimension d'agent.
+Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant. 
+Beaucoup de professeurs découvrent ici de manière concrète comment différencier avec leurs élèves, personnaliser un apprentissage, ce que je développerai durant l'après-midi
+A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+L'accent porte ici davantage sur les plus-values pédagogiques de l'IA: les professeurs découvrent que générer des ressources rapidement et de manière différenciée, voire personnalisée n'est plus une utopie de demain mais une possibilité dès maintenant. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Bertrand, Mickaël (2025). J’enseigne avec l’IA: guide pratique de l’IA au service de l’enseignant et de l’élève collège, lycée. Vuibert. 
+• Connac, S. (2022). La personnalisation des apprentissages. ESF. 
+• MerciApp
+• HelperBird.com
+• Pedagokit.be/IA : l'outil Daspalecte : https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/fran%C3%A7ais/fran-daspalecte
+• Pedagokit.be/IA : l'outil Prompt Generator : https://edukids.pedagokit.be/promptGenerator/
+  Séquence 4 — Jour 1 (60 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Evaluer à l'ère de l'IA - Forces et faiblesses, postures
+Dans ce module où l'échange prime, l'apprenant découvre 
+1. le danger que représente l'IA mal utilisée par l'élève (pharmakon)
+2. les différentes postures possibles par rapport aux SAI. Une fois comprises les limites de l'interdiction, il découvre différentes possibilités de contournement de l'IA
+D'un module à l'autre de l'après-midi, les professeurs découvrent comment passer d'un usage négatif de l'IA à un usage positif. 
+Concepts: surcharge cognitive, automatisation, posture, triangulation des données, portfolio d'apprentissage
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Cette réflexion s'inscrit directement dans les préoccupations de plusieurs professeurs, ceux qui invitent leurs élèves à réaliser des travaux de fin d'année et ceux qui les font écrire, soit les professeurs de français. Ils découvrent quels outils sont quasi inutiles, quels outils ou quelles méthodes pourraient les aider. En fonction du public, le formateur est capable de différencier le contenu (le portfolio d'apprentissage vise davantage les élèves du supérieur)
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+1. IA | PAS IA: activité de lancement où les professeurs découvrent qu'il est de plus en plus difficile d'identifier un texte écrit à l'aide de l'IA. 
+2. Interdire l'IA - une fausse solution: exercice avec des "détecteurs d'IA" 
+3. Contourner l'IA : création d'un portfolio d'apprentissage
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant. 
+A travers la première activité comme les autres, les professeurs se rendent compte des difficultés liées à l'évaluation aujourd'hui. Ils comprennent que l'IA ne peut que prédire (révision) et non affirmer à 100% et que par conséquent, ils se doivent d'aborder différemment l'évaluation et ses modalités.
+A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+Là encore, ils découvrent les faiblesses de l'IA ou liées à l'IA et réfléchissent aux solutions de contournement: oui à l'IA mais pas n'importe comment, à n'importe quel moment... Enfin, ils découvrent si le temps le permet la notion de portfolio d'apprentissage et de triangulation des données (forces et faiblesses là aussi)
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Campus RÉCIT, la Triangulation des preuves d'apprentissage, Québec.
+• Dehaene, Stanislas (2021). Face à face avec son cerveau. Odile Jacob.
+• Duguay, S. (2024). Guide pour une approche réflexive de l'IA en éducation, avec la collaboration de Audrey Miller, ill. par Laurie Couture.
+• Fleckenstein, Johanna, et al. « Do Teachers Spot AI? Evaluating the Detectability of AI-Generated Texts among Student Essays ». Computers and Education: Artificial Intelligence, vol. 6, juin 2024, p. 100209. DOI.org (Crossref), https://doi.org/10.1016/j.caeai.2024.100209. 
+• Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X. H., Beresnitzky, A. V., ... & Maes, P. (2025). Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. arXiv preprint arXiv:2506.08872, 4.
+• Stiegler Bernard (2012). L'École, le numérique et la société qui vient, avec Denis Kambouchner, Philippe Meirieu, Julien Gautier, Guillaume Vergne, Paris, Fayard/Mille et une nuits.
+  Séquence 5 — Jour 1 (90 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Autour de la posture d'intégration de l'IA, les professeurs découvrent comment les assitants personnalisés peuvent aider l'élève dan son travail... sans le remplacer et comment passer d'une consommation de l'IA à une utilisation réflexive...
+1. Exemples de tuteurs IA, ludiques ou sérieux en fonction de différents points de matière du Référentiel de français (maîtrise des p2 relatives ou circonstancielles - 3e secondaire du TC; Conversation avec une figure littéraire, etc.)
+2. Construction d'un tuteur en fonction du projet personnel du professeur
+C'est l'acmé de la journée puisqu'ils réinvestissent tout ce qui a été vu durant la journée à travers la structuration d'un prompt conséquent et la création d'un bot de conversation centré sur une tâche de français et une ou plusieurs visées articulées du Référentiel de français. La structuration d'un prompt conséquent permettra durant la journée suivante d'aboutir à la création d'une application.
+Concepts: tutorat, personnalisation, prompt system, mode Canvas
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Les bots personnalisés peuvent être de différentes natures, leurs missions varier directement selon les visées ciblées dans le référentiel de français. Plusieurs compétences, savoir-faire peuvent-être exercés: ici un supérieur hiérarchique avec qui l'élève négocie, là un personnage ou un auteur avec lequel l'élève dialogue. Enfin, un tuteur qui vérifie la connaissance d'un poème ou l'écriture d'une dissertation... sans donner les réponses !
+Il va de soi que la dimension métacognitive mise en avant par le Référentiel (Visées transversales - Apprendre à apprendre) peut être très facilement mobilisée dans ce cadre.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Learning by doing - le professeur découvre comment maîtriser l'écriture d'un large prompt et plus encore du prompt system. Pour ce faire, il crée son propre assistant IA comme persona-débatteur ou contradicteur ou tuteur.  
+• Découverte d'activités pratiques et d'exemples tirés de la classe de français pour découvrir la diversité des possibilités pédagogiques ainsi que les éléments d'un bon prompt system et d'un bon assistant personnalisé.
+• Construction d'un bot personnalisé. Manipulation et prise en mains autonome, progressive et réflexive. Les participants testent l'IA comme persona-débatteur, puis progressent vers le cadrage et la personnalisation d'un assistant conversationnel qui travaille une visée du Référentiel ou en articule plusieurs!
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques
+L'une des plus-values de l'IA est sans conteste la personnalisation des assistants conversationnels: transformés en figures historiques, en personnages littéraires ou plus simplement en assistants de l'élève, les chatbots challengent l'élève de manière ludique ou sérieuse, s'adaptent à son niveau et réagissent à ses forces ou ses faiblesses. Bref, un outil de suivi des élèves dans une classe où le professeur est occupé avec une partie du groupe ou plus simplement à la maison quand personne n'est là pour aider l'élève, vérifier, commenter ses productions. C'est un outil de différenciation et de personnalisation.
+Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant. 
+Désormais, l'enseignant peut différencier plus facilement dans la classe, s'occuper de tel ou tel élève sans se sentir pressé par les demandes. Il a son propre assistant. Co-enseignement :D
+Pas besoin de dire que le professeur peut aussi varier les activités et ludifier avec un tel outil
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Bertrand, M. (2024). J'enseigne avec l'IA ! Guide pratique de l'IA au service de l'enseignant et de l'élève. 
+• Mollick, Ethan (2024). Co-intelligence: vivre et travailler avec l'IA. Portfolio Penguin.
+• Pedagokit.be/français : https://www.pedagokit.be/notre-kit/outils-pistes-disciplinaires/français
+• Référentiel du programme de français du secondaire (FWB).
+  Séquence 6 — Jour 1 (30 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Temps de partage: découverte des assistants personnalisés créés par chacun
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Voir module précédent puisque celui-ci en est la conclusion
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+L'observation et le test des bots permettent à chacun d'élargir le spectre des possibles.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques
+A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+Concrètement, les exemples favorisent l'intégration de ce nouvel outil : possibilités, limites. Ce partage est un temps de dialogue qui permet de conclure la journée
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Idem que module précédent
+  Séquence 7 — Jour 2 (60 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Etape de rappel et consolidation
+Différentes petites activités permettent aux participants de revoir les points essentiels de la journée précédente pour mieux entamer la 2e journée
+Le tout en lien avec la plateforme PIX et sa dimension IA
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le professeur actuel ne peut plus se contenter de maîtriser les formes et médias des siècles passés; pour répondre aux besoins de l'élève pour sa vie future, le professeur doit maîtriser et enseigner les nouveaux modes et médias de communication. Le référentile de français insiste sur ce point puisque chaque section insiste sur les conceopts de littératie et de lecture digitale
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants découvrent le PIX et réalisent quelques activités pour en découvrir l'intérêt
+Explication du test d'auto-positionnement pour évaluer son niveau sur les compétences numériques.
+Les participants découvrent l'outil, les modalités de connexion, et réalisent un test ou prennent connaissance de leurs résultats s'ils l'ont déjà passé. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques
+L'approche individualisée par auto-évaluation permet une implication directe du participant dans la prise de conscience de ses acquis et de ses besoins numériques, en particulier par rapport à cette nouvelle forme médiatique que constituent les SAI.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• PIX: https://orga.pix.org/
+• Références du module 1
+  Séquence 8 — Jour 2 (120 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Découverte des IAg - Création d'une bande dessinée multimedia
+0. Deepfake vidéo proposé
+1. Pistes pédagogiques autour de l'adaption d'un texte littéraire
+2. Les outils de l'IAg
+3. Les outils de l'image
+4. Les outils d'édition de l'image (Canva)
+Concepts: IAg pour IA générative, multimodalité, littératie, mode Canvas
+Dans ce long module, les professeurs réinvestissent ce qu'ils ont appris le jour précédent mais autour du concept de créativité. L'esprit critique est aussi interrogé car qu'est-ce que la créativité au temps des SAI... Qu'est-ce que la créativité, où et comment commence-t-elle? 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Les compétences de français ne se limitent plus à l'écriture et à la lecture textuelle; les signes iconiques et les compositions hybrides font désormais partie du corpus de travail. Pour travailler l'argumentation ou la trasnmédiation, l'IA peut être une aide pour l'élève afin de créer une affiche, une bande dessinée, etc. Pour le prof, c'est un outil générateur de ressources. La question qui est soulevée ici au fil des échanges, c'est celle de la créativité mise en avant par le Référentiel de français (Domaine du TC: Créativité, engagement et esprit d’entreprendre/visée:Visée transcersale: Développer la créativité, l'autonomie et l’esprit d’entreprendre)
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Outre la découverte du prompt pour l'image, les professeurs testent différentes méthodes pour générer une bande dessinée ou un récit illustré qui adapte au mieux un extrait littéraire. Pour ce faire, ils ont à leur disposition une roue des IA composée des meilleurs outils actuels de génération IA. 
+- Méthodes: prompt simple, génération d'un scénario, prompt structuré
+- Outils : Nano Banana pour la génération d'images, Canva pour le travail de l'image
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement 
+- Redécouverte du prompt et consolidation du geste d'écriture
+- Distinction des SAI conversationnels et des IA non conversationnels
+Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques
+- Les professeurs découvrent comment adapter un extrait littéraire à l'aide de l'IA (transmédiation)
+Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+C'est de nouveau l'occasion de sensibiliser les professeurs aux questions éthiques à travers la question des images (deepfakes, illustrations plagiées, etc.)
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Référentiel de français et de langues anciennes: https://ifpc-fwb.be/v5/tc_referentiels.asp
+• Lacelle, Nathalie. La LITTERATIE MEDIATIQUE MULTIMODALE APPLIQUEE en CONTEXTE NUMERIQUE - LMM@: Outils Conceptuels et Didactiques. Avec Jean-François Boutin et Monique Lebrun, 1st ed, Presses de l’Université du Québec, 2017. 
+• Canva, Notebook LM, NanoBanana
+• Pedagokit roue des IAg
+  Séquence 9 — Jour 2 (140 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Création d'une application
+• Après avoir vu différents exemples d'apps (application d'écriture personnelle | ecrivor) créés à l'aide l'IA, les apprenants peuvent réinvestir tout ce qu'ils ont découvert durant les deux jours et construire une petite application de français. Réinvestissement personnalisé de toute la formation.
+• Ils découvrent ensuite où placer cette app pour qu'elle soit fonctionnelle
+Concepts: code, vibe coding
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Créer une application pédagogique, c'est adopter sans arrêt la posture de designer pédagogique: pourquoi, pourquoi, pourquoi? On réfléchit à l'interface pour qu'elle soit lisible, aux fonctionnalités qui apporteront un plus pédagogique. On découvre un terrain qui ouvre mille possibilités et qui par conséquent interroge. L'IA s'occupe du comment...
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+ll s'agit de mettre en place, sans être développeur, une application qui aide les élèves dans l'acquisition des compétences, savoirs et savoir-faire du cours de français: les profs doivent imaginer un prompt conséquent qui imagine un contenu, une forme et des fonctionnalités pour une future application que l'IA va coder pour eux et qu'ils pourront placer sur un site. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+En développant cette application, les professeurs se découvrent de nouveaux pouvoirs magiques puisqu'au fur et à mesure de leurs itérations, ils réfléchissent au design pédagogique de l'app et mettent en place des fonctionnalités censés répondre aux besoins des élèves (feedback immédiat, rétroactions).
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Pedagokit: créer sa propre app
+• Extension personnelle, Daspalecte
+• Ateliers d'écriture en ligne: ecrivor | RectoVersIA (app personnelle en cours de développement)
+  Séquence 10 — Jour 2 (40 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Partage des créations et conclusion de l'atelier
+Le moment est venu de partager les créations: temps d'approbations, de distanciation, temps aussi de critiques car ils découvrent les limites de l'IA ou leurs limites par rapport à l'IA (comment conserver les données ? comment les anonymiser?)
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Les assistants conversationnels évoluent tellement vite dans l'agentification que désormais certains d'entre eux intègrent directement en leur sein des bouts d'applications pédagogiques: les professeurs n'auront plus à l'avenir forcément besoin d'outils comme BookWidgets ou je ne sais quel exerciseur; ils pourront construire des outils personnalisés qui répondent à leurs besoins. Idem pour les élèves, c'est déjà le cas avec certains chatbots personnalisés comme les gems qui intègrent désormais des exercices codés en direct. En créant une application, les apprenants découvrent des outils et des possibilités pédagogiques qui n'auront de cesse de s'améliorer. Une écriture devenue accessible en lien direct avec une forme de texte que tout prof de français connait, le texte injonctif.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Tout prof qui le souhaite peut afficher sur le tableau interactif sa production. On regarde et on en discute, ce qui ouvre le champ des possibilités.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant. 
+Qui dit échanges et distanciation par rapport à la production dit analyse et retour méta sur ce qui vient de se dérouler: chacun découvre les productions des autres et peut se faire son idée quant à l'apport de tels outils en classe. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Mêmes références que ci-dessus.
+
+4. Sessions RFI / collectives (2 session(s))
+Sessions RFI
+Commentaires matériel RFI :
+Matériel standard :   • Classe de cours standard avec mur blanc ou écran de projection (tables et chaises)  Matériel spécifique :   • Wifi
+  RFI #1  |  12  —  RFI-Secondaire-Namur  |  15/02/2027 → 16/02/2027
+Note info : Province de Namur Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #2  |  15  —  RFI-Secondaire-Luxembourg  |  22/03/2027 → 23/03/2027
+Note info : Province du Luxembourg Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+
+5. Prix RFI (par session)
+Grille tarifaire RFI
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+0.00 EUR /pers/jour → Total : 0.00 EUR
+Locaux :
+0.00 EUR /jour → Total : 0.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+1380.00 EUR
+Total TTC :
+1380.00 EUR
+
+6. Sessions individuelles (5 session(s))
+Sessions individuelles
+  Session individuelle #1  |  Jour 1 : 17/09/2026  /  Jour 2 : 18/09/2026
+Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Isabelle FIEVET [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #2  |  Jour 1 : 08/10/2026  /  Jour 2 : 09/10/2026
+Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Isabelle FIEVET [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #3  |  Jour 1 : 10/12/2026  /  Jour 2 : 11/12/2026
+Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Isabelle FIEVET [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #4  |  Jour 1 : 11/03/2027  /  Jour 2 : 12/03/2027
+Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Isabelle FIEVET [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #5  |  Jour 1 : 13/05/2027  /  Jour 2 : 14/05/2027
+Formateurs titulaires : Jean-philippe BOLLE [validé] Formateurs remplaçants : Isabelle FIEVET [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+
+7. Prix individuelles (par session)
+Grille tarifaire individuelles
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+12.00 EUR /pers/jour → Total : 480.00 EUR
+Locaux :
+110.00 EUR /jour → Total : 220.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+2080.00 EUR
+Total TTC :
+2080.00 EUR
+Document généré automatiquement — IFPC — 30/09/2026

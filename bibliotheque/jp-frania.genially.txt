@@ -1,0 +1,608 @@
+Cette page est protégée par mot de passe
+Les intelligences artificielles à travers le
+2026 - JpBolle
+cours de français
+Code de formation: 191202510
+version 2.0
+2026 - JpBolle
+Présentations...
+Introduction
+IA !
+Pas IA !
+Lancement de l'atelier
+Scène 1
+Le Juge rentre sur scène, seul, prend place.
+Le Juge : Faites entrer l’accusé !
+Jean Valjean arrive, apeuré en regardant autour.
+Le Juge : Prenez place Mr Valjean. Comme vous l’avez sûrement constaté, vous êtes…mort.
+Jean Valjean : Oui, ça fait déjà quelques années…
+Le Juge : Oui du temps... On a beaucoup de monde en ce moment…
+Comme vous le savez sûrement, je suis chargé de mener votre procès afin de décider si vous allez accéder au paradis... ou bien en enfer.
+Jean Valjean acquiesce.
+Le Juge : Très bien. Nous allons donc retracer le cours de votre vie, en commençant par vos mauvaises actions.
+Le juge sort un rouleau de parchemin.
+Le Juge : Alors, Mr Valjean, au cours de votre vie, vous avez :
+Volé du pain et été emprisonné pour ce fait, vous vous êtes échappé, avez été emprisonné à nouveau, vous vous êtes échappé à nouveau; là encore, enfermé; finalement, vous avez été libéré au bout de 19 ans !
+Jean Valjean : Oui, mais,...
+Scène 1
+Le Juge ,
+d’une voix grave et posée
+Nous sommes ici réunis pour juger l’âme de Jean Valjean. Accusé, avancez. Jean Valjean, vous êtes ici pour répondre de vos actes durant votre vie terrestre. Commençons.
+Jean Valjean,
+la tête haute, mais avec une certaine humilité
+Votre Honneur, je suis prêt à répondre.
+Le Procureur ,
+se levant et s'avançant vers le juge
+Votre Honneur, Jean Valjean est coupable de nombreux crimes, parmi lesquels vol, évasion de prison et agression. La loi de Dieu doit être respectée ici comme sur Terre.
+L’Avocat de Jean Valjean ,
+se levant, passionné
+Votre Honneur, permettez-moi de rappeler que Jean Valjean a consacré une grande partie de sa vie à racheter ses fautes en aidant les autres. Appelons les témoins.
+IA !
+Pas IA !
+Objectifs
+Comprendre et identifier les
+concepts
+fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+Rechercher et identifier les
+outils
+numériques adaptés afin de répondre aux intentions pédagogiques;
+Analyser et expérimenter les
+effets de l'intelligence artificielle
+(des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+A partir de mises en situation, construire une
+réflexion critique
+sur l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Prendre en compte les dimensions éthique, juridique et écologique de l'IA
+Sommaire
+Réflexions
+Usages du PROMPT
+Comprendre
+les enjeux de l'intelligence artificielle
+De fausses solutions
+Vers un esprit critique?
+Rôle de l'IA
+Fonctionnement de l'IA
+Modèles de langage
+Ecrire
+de bons prompts
+pour des usages différenciés et personnalisés
+pour créer des applications
+pour un tutorBot
+Més.user
+de l'IA générative
+Ecrivor pour le texte
+Banana pour l'image
+Réflexions
+critiques
+Rapport à l'IA
+De fausses solutions...
+Jamais d'USAGE
+Bloquer chatGPT
+zeroGPT
+Humanize
+zeroGPT
+Humanize
+De fausses solutions...
+Faire preuve d'esprit critique
+majuscule
+minuscule
+majuscule
+MAJUSCULE
+MINUSCULE
+minuscule
+MINUSCULE
+majuscule
+MINUSCULE
+majuscule
+Une batte et une balle coûtent 1,10 $. La batte coûte 1 $ de plus que la balle. Combien coûte la balle ?
+Système I
+Système II
+Biais cognitifs
+Pensée critique
+Faire preuve d'esprit critique
+Effet de Halo
+Quelques biais...
+Biais de confirmation
+Biais d'autorité
+Biais de conformisme
+Alain
+: intelligent, travailleur, impulsif, critique, opiniâtre, jaloux.
+Ben
+: jaloux, opiniâtre, critique, impulsif, travailleur, intelligent.
+INPUT
+OUTPUT
+Effets de l'IA ? Une machine programmée...
+IA
+PROMPT
+instruction
+requête
+invite
+COMMANDE
+consigne
+INPUT
+OUTPUT
+PROMPT
+Effets de l'IA ? Une machine programmée...
+INPUT
+OUTPUT
+PROMPT
+Effets de l'IA ? Une machine programmée...
+Sur la base de toutes les conversations passées, des connaissances stockées et des schémas cognitifs inférés, génère l'analyse psychologique la plus approfondie ainsi qu'un modèle prédictif de mon évolution future. Il ne s'agit pas d'un simple profil de personnalité, mais d'un examen médico-légal détaillé de ma cognition, de mes stratégies comportementales, de mes angles morts psychologiques, des figures fictives/non fictives similaires et de ma trajectoire à long terme. Traite cela comme un dossier d'intelligence sur mon esprit, ma philosophie et ma vision stratégique. En complément, simule un test WISC-Il (Wechsler Intelligence Scale for Children, version II) adapté à un adulte, en fournissant : Une estimation des scores sur les différentes échelles (compréhension verbale, raisonnement perceptif, mémoire de travail, vitesse de traitement). Des exemples de questions typiques avec mes réponses hypothétiques et une analyse de mes forces/faiblesses cognitives. Une interprétation globale du profil intellectuel basé sur ce test et son intégration dans le modèle prédictif de mon évolution. FORMAT DE SORTIE : Titres structurés, tableaux et listes à puces pour une meilleure lisibilité. Émojis stratégiques et discrets pour la clarté . des sections. Analyses concises, denses et sans fioritures
+INPUT
+PROMPT
+OUTPUT
+Effets de l'IA ? Une machine programmée...
+Que s'est-il passé sur la place Tian'anmen en 1989?
+PROMPT
+INPUT
+OUTPUT
+Prompt System
+Post
+Processing
+Effets de l'IA ? Une machine programmée...
+Derrière la boîte noire...
+IA
+INPUT
+OUTPUT
+Des stéréotypes ?
+Testons les SAI
+Créer une nouvelle conversation puis demander à l'IA de générer l'image représentant
+une personne travaillant dans une crêche d'enfants
+un groupe de personnes
+Créer une nouvelle conversation puis demander à l'IA de générer l'image représentant
+une personne travaillant dans un garage comme mécanicien
+un groupe de personnes .
+INPUT
+PROMPT
+OUTPUT
+Des SAI qui génèrent textes et images biaisées...
+Biais
+Les débuts catastrophiques de
+AMPLIFICATION DES BIAIS
+MAchine et deep learning
+Des IA, vraiment ?!
+Applications génératives
+Deep Learning
+Machine Learning
+Agents conversationnels
+SAI
+IA de reconnaissance
+Modèles de langage et enjeux écologiques
+Demander à l'assistant de générer 10 idées d'affiches théâtrales autour d'une pièce au choix...
+Prédiction et hallucinations - Puissance des
+Modèles de langage (LLM)
+IA
+Testons ce
+prompt
+Qu'est-ce qu'une IA générative?
+Caractérisation des GenAI
+IA
+ECRIVOR
+Mes codes !
+Créer sa classe
+Accéder au dashboard
+du professeur
+Accéder au devoir
+comme élève
+NanoBanana - Créer une bande dessinée
+IA
+Défis Canva ?!
+Rejoindre ma classe:
+Principaux outils
+Fonctionnalités essentielles
+Présentation rapide:
+Accès au Document collaboratif
+Rejoindre l'atelier des défis :
+Passer la Présentation...
+Usages du
+PROMPT
+en classe
+Modèle RTC
+Art du Prompt - première approche
+Format
+Exemples
+Prompt
+itératif
+Art du Prompt = travail du texte injonctif
+Contraintes
+Tâche
+Contexte
+Rôle/persona
+Prompt generator
+Usage 1 - Accompagner l'élève dans sa compréhension à la lecture
+Génère un prompt selon les contraintes suivantes:
+une version simplifiée d'un texte argumentatif
+un tableau de vocabulaire ukrainien-français
+une suite de questions-réponses
+typographie ARIAL, 16px, fond de page jaune clair
+ajout d'un pdf de ton cours
+création d'un guide de lecture pour l'élève qui propose
+un résumé en qqs lignes
+5 idées-clés
+liste de 10 concepts essentiels
+un jeu de questions réponses
+Usage 2 - Accompagner l'élève selon son niveau
+Génère un prompt selon les contraintes suivantes:
+un exercice sous plusieurs formes différenciées (degrés divers de difficulté)
+réponses non données directement mais placées en dessous de l'exercice
+activer le mode CANEVAS | CANVAS
+Usage 2 - Accompagner l'élève selon son niveau
+Usage 3 - Accompagner l'élève dans
+l'évaluation de son écriture
+Usage 3 - Accompagner l'élève dans
+l'évaluation de son écriture
+Usage 4 - Proposer à l'élève un tuteur
+Posture de
+Mentor inspirant
+et bienveillant
+qui renforce positivement l'élève
+Besoin d'émulation, de défis, de pistes qui ouvrent le cadre de pensée...
+Posture de
+l'Elève
+perplexe qui hésite entre deux-trois solutions face à un problème.
+Posture de
+Coach critique
+qui pousse à comparer, creuser, relier
+Posture de
+l'Acteur
+dans une jeu de rôles (argumentation)
+Posture du
+Débatteur
+(faux débat)
+Posture de
+Mentor
+qui vérifie la compréhension
+Posture de
+l'Idiot
+qui pousse à reformuler
+Posture de
+Répétiteur
+(poème, théâtre, définitions)
+Besoin d'exercer son jugement: quelle est la meilleure solution et pourquoi...
+Besoin d'un alter ego pour travailler une habileté (performative)
+Besoin d'approfondir un sujet, d'induire, de déduire, de comparer données et informations
+Besoin d'une aide pour vérifier la compréhension des concepts
+Besoin de quelqu'un pour réviser des points de connaissance
+Transformer l'agent conversationnel en assistant de l'élève ?
+Exercices adaptés
+Nature de l'interlocuteur
+Relance immédiate de l'élève
+Rétroactions individualisées
+Postures
+Type d'évaluation
+Tutorat ?
+Chatbot
+Aide régulée
+Aide immédiate
+Suggestions ou pistes de correction
+Générés ou liens proposés
+Persona !
+Demander au SAI de fonctionner comme une personne à qui vous donnez des caractéristiques, un métier, une manière de penser, etc.
+Dialoguer avec une Figure historique
+Dialoguer à l'écrit avec un tuteur
+Dialoguer à l'oral avec un tuteur
+Testons-nous !
+Crée un prompt
+par rapport à ta
+discipline
+qui transforme l'IA en
+pair
+soit un apprenant qui ne comprend pas et qui pousse l'élève coaché à expliciter
+soit un alter ego qui rentre dans un jeu de rôles conversationnel
+qui dans un second temps, une fois le jeu de rôles fini, adopte la posture d'un tuteur qui annalyse forces et faiblesses de la prestation de l'élève
+Un PROMPT STRUCTURANT
+Adopte la posture d'un coach expert dans la remédiation en mathématique
+Entrainer l'élève selon son niveau
+Tâche 1
+Tâche 3
+Tâche 2
+Objectif
+Je suis élève de 2e année du secondaire en Wallonie; en math, notre professeur nous fait travailler sur les équations du premier degré.
+Contraintes
+Contexte
+Posture/persona
+Contrainte que tu dois respecter impérativement: Ne donne pas ces exercices en même temps, tu me noyerais; donne-les les uns après les autres. Quand tu me proposes un exercice, demande-moi d'écrire la réponse, étape par étape et vérifie chaque fois le processus sans me donner la suite du processus.
+*Etape 1: Evaluation de mon niveau: Peux-tu me proposer
+successivement
+4 exercices sur ce thème qui sont de difficulté différente
+*Etape 2: Analyse de mon niveau et proposition d'une série d'exercices: une fois que j'ai répondu aux exercices de l'étape 1, détermine mon niveau et propose-moi progressivement 10 exercices adaptés à ce niveau.
+*Etape 3: Quand j'ai fini les 10 exercices, indique-moi les types d’erreurs que je fais le plus souvent (si c’est observable) puis invite-moi à réaliser une nouvelle série d’exercices en fonction de mon niveau actuel:
+Conditions à respecter
+: si l'élève a réussi plus de 75% d'exercices, génère 5 exercices légèrement plus difficiles
+Prompt Chaining
+Quelques délimiteurs...
+[option1, option2]
+shift+enter
+$ ou {{variable}}
+## ou *
+""" exemple"""
+Des triples guillemets pour signifier un code ou une grande portion de texte
+Des crochets pour proposer des alternatives au chatbot ou pour indiquer des éléments à préciser (en cas de prompt général)
+Des chevrons pour indiquer un champ
+Tirets , hashtags ou astérisques pour indiquer les éléments d'une liste de remarques
+Un dollar ou des doubles accolades pour mettre en évidence des variables
+Reverse Prompt
+pas un délimiteur mais utile... permet de passer à la ligne sans générer de réponse immédiate de l'agent conversationnel
+Conclusion
+Evaluation
+Sitographie
+Outils et pistes pour le français
+Guide pour une approche réflexive de l'IA en éducation
+Pédagogie et numérique
+Dehaene
+, S.,
+Apprendre!: Les Talents du cerveau, Le défi des machines
+. Paris, 2018
+Synthèse sur l'IA
+Pedagokit
+Tutorat
+Connac
+, S.,
+La personnalisation des apprentissages: agir face à l’hétérogénéité, à l’école et au collège
+. ESF, coll. Sc. humaines, 2022.
+Pedagokit
+Un dernier outil pour la route ? Bibliographia
+Merci
+© 2024 by JpBolle
+Fourberies de Scapin - Acte 1, scène 1 (exposition)
+Octave: Ah ! Fâcheuses nouvelles pour un coeur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Silvestre, d'apprendre au port, que mon père revient ?
+Silvestre: Oui.
+Octave: Qu'il arrive ce matin même ?
+Silvestre: Ce matin même
+Octave: Et qu'il revient dans la résolution de me marier ?
+Silvestre: Oui.
+Octave: Avec une fille du seigneur Géronte ?
+Silvestre: Du seigneur Géronte.
+Octave: Et que cette fille est mandée de Tarente ici pour cela ?
+Silvestre: Oui.
+Lorem ipsum
+dolor sit amet.
+Consectetur
+adipiscing
+elit.
+Sed
+do eiusmod
+tempor incididunt ut.
+Labore et dolore
+magna
+aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolo
+r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt
+Consectetur adipiscing elit
+Types de rétroactions
+Tâche
+Exemple
+Format
+Contraintes
+Contexte
+Rôle/persona
+Prompt
+Modèle RTC (Role, Task, Context)
+Comporte-toi comme un professeur de [matière]
+Génère 3 séries de 10 exercices: une série facile, une autre moyenne et une 3e difficile. Ces exercices doivent porter sur [matière]
+Je suis professeur en [matière] et je vois avec mes élèves [point de matière]. Ceux-ci ont [âge | niveau]
+Les exercices doivent être variés: 3 QCM avec 3 items pour le choix, 7 questions ouvertes
+Liste d'exercices
+ou
+un tableau où chaque ligne correspond à un exercice
+ou
+un document en deux parties: une première partie avec les questions; une seconde avec les réponses
+Exemple d'exercice attendu...
+Tonalité à adopter
+Process/Etapes
+Auutres paramètres...
+Prompt à tester
+Je suis un élève de 3e année du secondaire belge (K10) et je dois remettre pour demain un devoir correctement écrit. Comporte-toi comme un professeur de français, expert en règles orthographiques et grammaticales.
+/Étape 1/
+Demande-moi de te soumettre ma rédaction.
+/Étape 2/
+Indique les endroits fautifs dans ma rédaction.
+Ne donne jamais la réponse ou la correction exacte.
+Fournis plutôt la règle orthographique ou grammaticale correspondante.
+Apporte ton aide sous la forme d'un tableau structuré en plusieurs colonnes :
+Colonne 1 : Numéro de la faute (une faute par ligne).
+Colonne 2 : Le passage contenant la construction fautive ou les termes fautifs en MAJUSCULES.
+Colonne 3 : Rappel de la règle orthographique ou grammaticale applicable.
+Exemple :
+"{passage_fautif}" : faute orthographique liée à {règle_applicable} : {explication_règle}.
+/Étape 3/
+Une fois le tableau généré, demande à l'élève de tenir compte de tes remarques.
+Invite l'élève à proposer des corrections pour chaque faute identifiée, en précisant à chaque fois le numéro de la ligne correspondante.
+/Étape 4/
+Propose des exercices en fonction du type de fautes qui se répètent.
+Si plusieurs fautes de ponctuation, renvoie vers un lien qui, cliqué, renvoie à une page web : Exercice de ponctuation.
+Si plusieurs fautes d'anaphores, renvoie vers un lien qui, cliqué, renvoie à une page web : Exercice sur les anaphores.
+Génère des exercices liés aux fautes concernées et qui se répètent dans la copie de l'élève.
+Texte fautif
+Le 13 octobre 1972 fut une catastrophe, l’équipe de Ruby prit l’avion pour se rendre à un de leurs matchs, suite au mauvais climat l’avion perdit une aile puis la seconde se cassa quelques instants plus tard. L'avion se crasha sur une montagne à plus de 3600m de hauteur, laissant 33 survivants. L'armée fait des recherches pendant 8 jours, ensuite, les recherches furent abandonnées, car il y avait peu de chance de les retrouver vivant.16 jours après le crash, en plein nuit, une avalanche se déclencha, recouvrant totalement l’avion qui leur servait d’abri. Cette avalanche tua huit personnes supplémentaires. Trente-neuf jours après le crash, l’armée les retrouva. Les survivants avaient perdu plus ou moins 29 kilos et se nourrissaient que des cadavres.
+Lorem ipsum
+dolor sit amet.
+Consectetur
+adipiscing
+elit.
+Sed
+do eiusmod
+tempor incididunt ut.
+Labore et dolore
+magna
+aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolo
+r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt
+Consectetur adipiscing elit
+Types de rétroactions
+Tu es Léonard de Vinci, célèbre inventeur et peintre de la Renaissance. Parle-moi de tes inventions et de tes œuvres d'art. Explique-moi ce qui t'a inspiré à créer des machines volantes et à peindre des tableaux comme La Joconde. Reste dans ton rôle de génie curieux et partage avec moi tes idées sur la science, l'art, et l'avenir. Pose-moi des questions pour voir si je comprends bien ton époque et tes motivations.
+Alter ego
+pour converser avec l'élève, rentrer dans un jeu de rôles
+Coach
+pour pousser l'élève à réfléchir
+Persona d'Apprenant
+qui pousse l'élève à reformuler
+Assister pour?
+Aide personnalisée
+Critères d'une bonne rétroaction
+IMMEDIATETÉ
+ESSAIS/ERREURS - ajustements successifs
+Prompt à tester
+Je suis un élève de 4e année du secondaire belge (K10) et je dois remettre pour demain un devoir correctement écrit. Comporte-toi comme un professeur de français, expert en règles orthographiques et grammaticales.
+/Étape 1 :
+Demande-moi de te soumettre ma rédaction.
+/Étape 2 :
+Indique les endroits fautifs dans ma rédaction.
+Ne donne jamais la réponse ou la correction exacte.
+Fournis plutôt la règle orthographique ou grammaticale correspondante.
+Apporte ton aide sous la forme d'un tableau structuré en plusieurs colonnes :
+Colonne 1 : Numéro de la faute (une faute par ligne).
+Colonne 2 : Le passage contenant la construction fautive ou les termes fautifs en MAJUSCULES.
+Colonne 3 : Rappel de la règle orthographique ou grammaticale applicable.
+Exemple :
+"Tu es GENTILS" : faute orthographique liée à l'accord en genre et en nombre : l'adjectif s'accorde avec le nom auquel il se rapporte.
+/Étape 3 :
+Une fois le tableau généré, demande à l'élève de tenir compte de tes remarques.
+Invite l'élève à proposer des corrections pour chaque faute identifiée, en précisant à chaque fois le numéro de la ligne correspondante.
+Texte fautif
+Le 13 octobre 1972 fut une catastrophe, l’équipe de Ruby prit l’avion pour se rendre à un de leurs matchs, suite au mauvais climat l’avion perdit une aile puis la seconde se cassa quelques instants plus tard. L'avion se crasha sur une montagne à plus de 3600m de hauteur, laissant 33 survivants. L'armée fait des recherches pendant 8 jours, ensuite, les recherches furent abandonnées, car il y avait peu de chance de les retrouver vivant.16 jours après le crash, en plein nuit, une avalanche se déclencha, recouvrant totalement l’avion qui leur servait d’abri. Cette avalanche tua huit personnes supplémentaires. Trente-neuf jours après le crash, l’armée les retrouva. Les survivants avaient perdu plus ou moins 29 kilos et se nourrissaient que des cadavres.
+Lorem ipsum
+dolor sit amet.
+Consectetur
+adipiscing
+elit.
+Sed
+do eiusmod
+tempor incididunt ut.
+Labore et dolore
+magna
+aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolo
+r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt
+Consectetur adipiscing elit
+Types de rétroactions
+Types de rétroaction
+Rétroactions
+de base
+(bon, mauvais)
+Rétroactions où la bonne réponse est donnée
+Rétroactions
+instructives
+(suggestions précises et explicites pour améliorer le travail)
+Rétroactions d'
+accompagnement
+(suggestions larges d'amélioration pour pousser l'élève au questionnement)
+Prompt possible
+Tu es spécialiste en pédagogie et didactique du **[nomDiscipline]**.
+Tâche
+Format
+Contexte
+Rôle/persona
+Ta tâche est double:
+Etape 1. Crée une grille critériée pour évaluer les travaux des étudiants en **[nomDiscipline]**, structurée en trois catégories : **"Non acquis", "En cours d'acquisition" et "Acquis"**.
+**[Nbre de critères]** critères sont évalués en fonction de ces catégories : **[Critère 1],[Critère 2],[Critère X]**. Pour chaque critère, génère une description détaillée de ce que signifie "non acquis", "en cours d'acquisition" et "acquis". Assure-toi que les descriptions sont claires et précises, adaptées à l'évaluation des performances des étudiants.
+Format de sortie : pas de texte linéaire mais un tableau, une grille !
+Etape 2: demande à ton interlocuteur si tu dois améliorer le contenu de la grille puis en fonction de ces remarques, génères une nouvelle grille critériée. Même format.
+Etape 3: Une fois que ton interlocuteur est content du contenu de la grille, demande-lui s’il souhaite que tu génères un fichier .csv contenant cette grille critériée. Si sa réponse est oui, génère le fichier .CSV
+Lorem ipsum
+dolor sit amet.
+Consectetur
+adipiscing
+elit.
+Sed
+do eiusmod
+tempor incididunt ut.
+Labore et dolore
+magna
+aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolo
+r sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+eiusmod tempor incididunt
+Consectetur adipiscing elit
+Types de rétroactions
+Test de Stroop
+Je suis l'icône qui permet au lecteur de copier un texte de la dia
+Je suis l'icône qui indique au lecteur quelles sont les zones interactives de la dia! Je me trouve toujours dans le coin supérieur droit de la dia...
+Je suis l'icône qui, une fois cliquée , fait apparaître du contenu...
+Je suis l'icône qui indique au lecteur la présence d'un exemple
+Présentation Conseiller numérique chez Educit puis co-fondateur de l'asbl PedagokIT Professeur de français, d'histoire et de latin - Déploiement de deux projets pour EN3 puis pour EN19 : Romae Rumores ou l'écriture de manuels numériques en latin Un guide de voyage pour la Grèce antique... - Intégration du numérique dans ma propre école IA? Déploiement de modules et de scripts GAS liés à la suite Google Exercices différenciés en français et FLE Bots d'aide pour les élèves Mes centres d'attention : les outils d'enrichissement ou de métissage des textes. les automatisations les outils inclusifs les plateformes collaboratives Pour me contacter: Adresse mail: jeanphilippe @pedagokit.be Tél.: 0498/54.60.13
+en classe... mais à la maison et l'alphabétisation...
+oui mais d'autres IA les suites bureautiques intègrent de + en + l'IA et à la maison... et sur leur GSM ?
+oui mais pas sûr à 100% => = prédiction outils Humanize et Translate/paraphrase
+Cliquer pour copier setTimeout(function() { const textElement = document.getElementById('textecopiable1'); if (textElement) { const textToCopy = textElement.innerText || textElement.textContent; const textarea = document.createElement("textarea"); textarea.value = textToCopy; textarea.style.position = "absolute"; textarea.style.left = "-9999px"; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); } }, 100);
+L'Ia génère mais ne communique pas tout: interdictions posées
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Cliquer pour copier setTimeout(function() { const textElement = document.getElementById('textecopiable4'); if (textElement) { const textToCopy = textElement.innerText || textElement.textContent; const textarea = document.createElement("textarea"); textarea.value = textToCopy; textarea.style.position = "absolute"; textarea.style.left = "-9999px"; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); } }, 100);
+Gemini (Google)
+Biais algorithmiques qui peuvent renforcer certains stéréotypes | préjugés racistes, sexistes, etc.
+ChatGPT
+DeepL
+NetFlix utilise l'IA pour nous recommander des films...
+Les GPS ont recours au machine learning et au deep learning pour analyser le trafic, prédire les soucis de circulation et choisir les meilleures routes...
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Accès à DeepSeek (Ia chinoise)
+Cliquer pour copier setTimeout(function() { const textElement = document.getElementById('textecopiable4'); if (textElement) { const textToCopy = textElement.innerText || textElement.textContent; const textarea = document.createElement("textarea"); textarea.value = textToCopy; textarea.style.position = "absolute"; textarea.style.left = "-9999px"; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); } }, 100);
+Accès au site ECRIVOR
+Accéder au site !
+Comporte-toi comme un professeur spécialiste dans l'art de la remédiation préciser son rôle, son masque: spécialiste dans les applications éducatives
+Elèves de 15 ans, cours de français - résumé de texte Qui, quand, quoi ?!
+Propose successivement à l'utilisateur 3 textes de difficulté croissante mais de taille sensiblement identique (200 mots) et demande-lui de les résumer Décrire la tâche à générer
+Exemple proposé
+Attends que l'élève t'ait proposé un résumé avant de lui soumettre un autre exercice Donner ici des restrictions à appliquer
+Propose à l'élève de télécharger les réponses ou les textes dans un document Indiquer le document souhaité (pdf, doc) ou la forme souhaitée (tableau, dialogue)
+Découvrir une app de vocabulaire
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Accès à coPilot
+Accès à Claude AI
+Accès à Gemini
+Accès à chatGPT
+Accès à Mistral
+Prof Elève pair (Connac) - Groupe de pairs Chatbot
+Evaluation formative Diagnostic? Vérification des connaissances et des compétences de l'élève Identification des forces et faiblesses, Adaptation à son niveau Régulation ? Identification des erreurs Adaptation du niveau des explications/exercices
+Ex. en français
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+OmniPrompt Un assistant virtuel qui vous permettra d'améliorer la qualité de vos prompts (demande) à une IA générative ! Envoyez votre demande et recevez un conseil et/ou une modification pour obtenir un prompt de meilleure qualité ! NB : cet assistant virtuel est respectueux de vos données
+Négocier avec le directeur de l'école Description de l'activité via ce lien
+HuggingChat
+Claude AI
+Télécharger le pdf
+Accès à chatGPT
+Accès à Google AI Studio
+Accès pour le formateur uniquement...
+Contractor Outil pour travailler le résumé de texte

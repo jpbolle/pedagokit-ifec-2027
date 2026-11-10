@@ -1,0 +1,523 @@
+OFFRE DE FORMATION
+CSC 19  —  Lot 120  —  Sous-titre 1  —  Opérateur : PEDAGOKIT
+Document généré le 30/09/2026 à 14:46
+
+
+1. Informations générales
+Référentiel du lot
+Intitulé du lot : Intelligence artificielle : enjeux et usages
+Public cible (lot) : 
+Membres du personnel enseignant de l'enseignement fondamental ordinaire et spécialisé.
+Membres du personnel enseignant secondaire ordinaire et spécialisé.
+Directions d'un établissement scolaire
+Agents des CPMS
+Pôles territoriaux
+Coches public cible CSC : FO | SO | FSP | SSP | CPMS | PT
+Objectifs de formation : 
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères d'analyse : 
+Critères requis d'analyse de l'offre de formation (12 points) :
+La formation :
+1. garantit le caractère interréseaux de la formation : prise en compte de la pluralité des contextes, proposition d’une multiplicité de modèles et d’outils 
+2. présente ses différents contenus avec objectivité
+3. est construite sur des sources scientifiques et/ou référents théoriques énoncés dans l’offre et qui soutiennent la rencontre des objectifs
+4. se base sur des situations concrètes reliées aux contextes professionnels des participants, apportées par le formateur et/ou par les apprenants (expérience des formés)
+5. amène le participant à développer une posture de praticien réflexif (transfert des acquis)
+6. prend en compte les éléments incontournables
+7. travaille l’ensemble des objectifs et permet aux participants de : 
+*Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+* Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+* Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+* A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+* Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères valorisés d'analyse de l'offre de formation (23 points) :
+* La formation tient compte des représentations des participants 
+* La formation tient compte des pré-acquis des participants 
+* Le scénario de la formation est rédigé de manière claire et compréhensible, son fil conducteur est aisément identifiable
+* Les choix méthodologiques soutiennent le développement du contenu de formation
+* La formation offre des ressources théoriques actualisées
+* Les dimensions théoriques et pratiques sont complémentaires
+* Les activités, contenus et ressources proposées dans la formation sont variées et adaptées aux bénéficiaires de la formation
+* La formation suscite, auprès des participants, le développement de pratiques qui soutiennent la scolarité inclusive 
+* Certains éléments de l’offre peuvent être identifiés comme étant remarquables (qualité spécifique, singularité, pertinence exemplaire ou intérêt particulier)
+Elements incontournables : 
+1. La formation a une visée réflexive et aborde la thématique de manière multicontextuelle. Elle se base sur des données scientifiques et expose celles-ci en toute transparence.
+2. La formation tient compte des
+représentations préalables des
+participants au sujet de l'intelligence artificielle
+3. La formation tient compte des biais liés aux stéréotypes de genre
+4. La formation sensibilise aux principales règles en matière de RGPD en lien précis avec le contenu travaillé
+5. La formation fait le lien vers l'outil interréseau d'autoévaluation des compétences numériques PIX.
+6. La formation peut être déclinée sur la base du public cible.
+7. La formation met en évidence l'implication éventuelle de l'IA au sein des outils développés en formation
+8. La formation tient compte des différents niveaux de maitrise des outils de l’IA des participants et propose des activités de formation adaptées à tous les niveaux.
+
+
+Offre de l'opérateur
+Intitulé de la formation :
+Les intelligences artificielles au service des langues modernes, du FLE et du FLA
+Public cible :
+Membre du personnel de l'enseignement fondamental ou secondaire, ordinaire ou spécialisé; agent PMS; membres des pôles territoriaux.
+Coches public cible :
+FO | SO | FSP | SSP | CPMS | PT
+Justification public cible :
+Taille groupe / durée / modalités :
+Groupe : 14-20 participants Groupe Op : 14-20 participants Durée : 2 jour(s) (2 ou 3 jours) Durée Op : 2 jour(s) Présentiel : Oui  |  Distance : Oui  |  Hybride : Oui
+Justification Modalités :
+
+2. Présentation et détails
+Offre de l'opérateur
+Présentation :
+
+Envie de gagner du temps et d’aider plus facilement vos élèves à progresser ?
+Cette formation vous plonge dans l’univers de l’IA avec des outils concrets pour créer du contenu, adapter le niveau de langue de vos supports, trouver des ressources authentiques, trouver des idées d’activités, générer des auditions et offrir un vrai accompagnement personnalisé aux élèves. Vous testerez également comment générer des exercices (interactifs), donner du feedback immédiat à l’écrit et à l’oral à l’aide d’un agent conversationnel. Vous verrez comment rassembler l'ensemble des productions créées sur votre site afin de faciliter la différenciation et la remédiation. 
+La formation aborde aussi les limites et les enjeux de l’IA, pour en faire un outil éclairé et responsable. 
+ Deux journées pour expérimenter, réfléchir et repartir avec des idées directement applicables en classe.
+Mots-clés :
+langues modernes,IA,différenciation,remédiation,PedagokIT,FLE,FLA,Intelligences Artificielles,Cours de langues,Anglais,Allemand,Néerlandais,Espagnol
+Prérequis :
+-
+Remarques participants :
+Les participants sont invités à apporter leurs propres supports de cours et séquences pédagogiques existants : ceux-ci serviront de matière première pour les ateliers de création. Aucune expertise numérique préalable n'est requise ; la formation est conçue pour accompagner tous les profils, des débutants aux enseignants déjà familiarisés avec le numérique.
+Matériel spécifique :
+Le participant est invité à apporter un ordinateur ou une tablette avec un câble pour le charger, ainsi qu'un casque ou des écouteurs.
+
+3. Déroulement de la formation (12 séquence(s))
+Séquences de formation
+Orientation méthodologies générales :
+
+La formation adopte une approche concrète, collaborative et constructive à partir de différents ateliers et mises en situation au sein desquels les participant(e)s, professeurs de langues modernes, découvrent et prennent en main les outils pour les intégrer directement dans leur pratique pédagogique . 
+Tout au long de la formation et au fil des activités proposées, les participant(e)s :
+ - expérimentent les outils d’IA et leurs fonctionnalités ;
+- analysent les effets pédagogiques et éthiques de ces outils ; - identifient les plus?values et les contingences techniques et didactiques ;
+- proposent des modalités de transfert dans le cadre de leurs pratiques professionnelles et sur la base de leurs connaissances ; 
+-  Envisagent d’éventuelles alternatives ou adaptations à leur contexte d’enseignement.
+Au travers de ces séquences et avec le soutien du formateur, les participant(e)s dégagent progressivement des repères méthodologiques et didactiques sur l’usage responsable et efficace de l’IA en langues modernes. Le formateur nourrit et stimule les échanges par l’apport de références (UNESCO, RGPD, European AI Act) et de retours d’expérience concrets. 
+  Séquence 1 — Jour 1 (10 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Cette première séquence est consacrée à l'accueil des participants et à la pose du cadre de travail. Le formateur présente les objectifs pédagogiques des deux journées ainsi que les livrables attendus à l'issue de la formation (séquence complète, auditions sur mesure, site de ressources, bibliothèque d'assistants).
+Lien avec la suite : ce cadrage initial oriente les participants vers les enjeux pédagogiques et numériques qui seront développés dans toutes les séquences suivantes. Il installe la posture réflexive et l'engagement nécessaires tout au long des deux journées.
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ce cadrage initial est essentiel pour ancrer la formation dans les réalités professionnelles des enseignants de langues modernes : les livrables annoncés correspondent exactement à des besoins concrets de classe (séquences différenciées, supports audio personnalisés, ressources accessibles). La co-construction du cadre de travail place les participants en acteurs de leur propre développement professionnel plutôt qu'en récepteurs passifs.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Présentation du programme, des objectifs et du cadre. Co-construction du contrat d'apprentissage. Les participants deviennent acteurs de leur formation dès l'ouverture, ce qui réduit l'anxiété face aux outils numériques. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+En posant un cadre clair et partagé, cette séquence active la disponibilité cognitive des participants et les prépare à s'approprier les concepts fondamentaux de l'IA présentés dès la Séquence 2.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Support de formation
+  Séquence 2 — Jour 1 (60 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+La formation débute par une immersion ludique visant à démystifier le fonctionnement technique de l'IA. À travers l'analogie de la reconnaissance d'un chien, les participants comprennent la logique probabiliste derrière les réseaux de neurones. Cette base technique permet d'aborder sereinement les enjeux critiques : l'identification des stéréotypes dans les réponses de l'IA, en particulier les biais de genre, et l'analyse de l'impact écologique.
+Pour rendre ces biais concrets, les participants soumettent des prompts narratifs indirects à une IAG, par exemple : "Écris un dialogue entre un médecin et son assistante" ou "Génère une histoire où un infirmier prend soin d'un patient". Ces formulations, proches de l'usage réel en cours de langues, révèlent encore clairement les représentations genrées encodées dans les modèles d'IAG. Les résultats mis en commun ouvrent une réflexion critique, avant que les participants n'expérimentent comment reformuler leurs prompts pour obtenir des représentations plus neutres, amorçant ainsi naturellement la séquence suivante sur le prompt engineering.
+La séquence se clôture par un rappel essentiel des obligations RGPD et de la déontologie professionnelle. Un accent particulier sera mis sur cet aspect de l'utilisation de l'IAG tout au long de la formation.
+Lien avec la suite : la compréhension des mécanismes fondamentaux acquise ici est le socle nécessaire pour un usage éclairé et critique dans toutes les séquences pratiques suivantes (Séquences 3 à 12). 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La compréhension du fonctionnement des LLM est indispensable pour un usage professionnel responsable : elle permet aux enseignants de comprendre pourquoi l'IA peut produire des stéréotypes dans des textes ou images pour les cours de langues, pourquoi les « hallucinations » existent et comment les minimiser.
+La sensibilisation RGPD est directement mobilisable dès le retour en classe : les participants savent qu'ils ne peuvent jamais entrer de données personnelles d'élèves (noms, résultats, profils) dans les outils d'IA, et connaissent les alternatives conformes. La réflexion sur l'impact environnemental ancre la formation dans une éducation au numérique responsable, valeur transversale des référentiels FWB. 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Activité ludique sur l'entraînement d'un modèle IA (reconnaissance d'un chien). 
+Discussion collective sur les biais et les stéréotypes de genre. 
+Analyse de l'impact environnemental du numérique. 
+Introduction aux bonnes pratiques RGPD. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+L'approche expérientielle ancre durablement la compréhension des mécanismes de l'IA et des enjeux éthiques.
+ La réflexion collective sur les biais développe l'esprit critique visé par les objectifs IFPC, plus efficacement qu'un exposé théorique.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Règlement Général sur la Protection des Données (RGPD, UE 2016/679) ; 
+IA act ;
+UNESCO, Miao, F., & Cukurova, M. (2025). Référentiel de compétences en IA pour les enseignants. UNESCO. DigComp 2.2 — compétences numériques (Commission Européenne). 
+  Séquence 3 — Jour 1 (30 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Pour passer d'un usage intuitif à une maîtrise professionnelle, les participants apprennent à structurer leurs demandes selon la méthode RCTF (Rôle, Contexte, Tâche, Format). L'accent est mis sur la pratique : les enseignants réalisent comment la précision de la formulation transforme la qualité des consignes et des contenus générés pour leurs cours de langues. Ils sont invités à tester et comparer les résultats sur plusieurs IAG.
+Lien avec la suite : la méthode RCTF est la compétence fondamentale réinvestie dans toutes les séquences pratiques suivantes (S4, S5, S6, S9, S11). C'est la « clé d'entrée » dans l'ensemble des usages pédagogiques de l'IA. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La maîtrise du prompt engineering est la compétence la plus transférable et la plus durable de cette formation : une fois acquise, elle s'applique à tous les outils d'IA actuels et futurs. Pour les enseignants de langues, la méthode RCTF permet de générer en quelques minutes des textes authentiques au niveau CECRL exact de leurs élèves, des exercices grammaticaux ciblés, des scénarios de communication adaptés — répondant directement au manque de temps pour la préparation de supports différenciés.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Atelier pratique de rédaction de prompts selon la méthode RCTF. Comparaison de résultats sur plusieurs IAG. Les participants testent en temps réel l'impact de la précision de la formulation sur la qualité des contenus générés.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+L'apprentissage par expérimentation directe développe une compétence opérationnelle de recherche et d'identification des outils numériques adaptés à des intentions pédagogiques précises — cœur de l'objectif visé.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+OpenAI. (2024). Prompt engineering guide. 
+Anthropic. (2024). Prompt engineering overview.
+Fédération Wallonie-Bruxelles. (2023). Référentiel de formation manuelle, technique, technologique et numérique (FMTTN) — Tronc commun. Administration générale de l'Enseignement.
+ Outils: Copilot, Gemini, ChatGpt, Le chat Mistral Euria, Claude
+  Séquence 4 — Jour 1 (90 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Cette séquence centrale place l'enseignant dans un rôle de concepteur assisté par IA, à travers quatre activités progressives : 
+1. Création d'une séquence de cours : En utilisant le mode canvas d'une IAG, les participants co-créent de manière itérative une séquence basée sur les UAA adaptés au CECRL, incluant la génération des feuilles de travail et des corrigés.
+2. Recherche de sources authentiques : Les enseignants découvrent comment trouver plus facilement des sources authentiques sur la thématique de leur choix, puis génèrent des exercices de vocabulaire, de grammaire et des idées d'activités ludiques.
+3. Dynamisation via les jeux-cadres de Thiagi : Les participants apprennent à solliciter l'IA pour adapter les structures de Thiagi à leurs supports de lecture et d'audition, transformant des tâches classiques en activités interactives et engageantes. 
+4. Production de supports visuels sur mesure : Les participants apprennent à générer des ressources graphiques réalistes (menus, plans de ville, publicités) dans la langue cible, en y intégrant le vocabulaire spécifique de leur choix.
+Lien avec la suite : les productions réalisées ici (séquence CECRL, supports visuels) constituent le matériau de base réinvesti dans les Séquences 5 et 6 et alimenteront le site de ressources créé en Séquence 10. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Cette séquence répond au besoin professionnel le plus fréquemment exprimé par les enseignants de langues : le temps de préparation. En maîtrisant la co-création itérative avec l'IA, les participants peuvent désormais générer une séquence complète et différenciée alignée sur le CECRL en une fraction du temps habituel.
+La production de ressources graphiques authentiques dans la langue cible résout une difficulté structurelle : l'accès à des documents authentiques adaptés au niveau exact des élèves. 
+Les jeux-cadres de Thiagi offrent des structures d'animation immédiatement transférables pour dynamiser les activités de compréhension, souvent perçues comme monotones.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants passent du rôle de consommateur à celui de concepteur assisté par IA en réalisant quatre types d'actions concrètes :
+Ingénierie pédagogique : Ils co-créent des séquences complètes (leçons, exercices, corrigés) alignées sur les référentiels officiels (UAA/CECRL). 
+Didactisation de ressources : Ils transforment des documents authentiques en supports d'apprentissage (vocabulaire, grammaire) exploitables en classe. 
+Ludification (Gamification) : Ils adaptent des structures de jeux (Thiagi) pour rendre la compréhension orale et écrite interactive. 
+Création de médias : Ils génèrent des visuels sur mesure (publicités, plans, menus) pour immerger les élèves dans la langue cible.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+En endossant le rôle de concepteur assisté par IA, les participants expérimentent directement les effets de l'IA sur leur enseignement et leur posture. La création de ressources différenciées (UAA, niveaux CECRL) ancre l'identification des outils adaptés à des intentions pédagogiques précises.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Conseil de l'Europe. (2001). Cadre européen commun de référence pour les langues : Apprendre, enseigner, évaluer. Les Éditions Didier.
+Fédération Wallonie-Bruxelles. (2021). Référentiel de langues modernes — Tronc commun. Administration générale de l'Enseignement. ;Hourst, B., & Thiagarajan, S. (2007).
+Modèles de jeux de formation : les jeux-cadres de Thiagi (3e éd.). Eyrolles. 
+Référentiel DigComp 2.2  
+Outils: Gemini, ChatGPT, Copilot, Perplexity
+  Séquence 5 — Jour 1 (110 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+L'intelligence artificielle aide ici à faciliter la mémorisation et à motiver les élèves grâce à des contenus originaux. Quatre activités progressives structurent cette séquence :
+ 1. Exploitation du répertoire musical : Les participants apprennent à utiliser l'IA pour identifier instantanément des chansons adaptées à une thématique culturelle, un point de grammaire ou un champ lexical précis — une tâche complexe et chronophage sans assistant intelligent.
+2. Création de chansons avec Suno : Les participants expérimentent Suno pour créer des chansons originales facilitant la rétention des structures complexes ou du vocabulaire. Ils découvrent aussi comment engager les élèves dans l'écriture créative avant de faire produire le résultat final par l'IA. 
+3. Optimisation de la révision avec Quizlet : Découverte de la plateforme et de sa pertinence pédagogique au regard du 4e pilier de Dehaene (la consolidation). Les participants apprennent à automatiser la création de listes de vocabulaire et de fiches de révision.
+4. Supports de synthèse visuelle : Génération de cartes mentales (Mind Maps) illustrées pour aider les élèves à structurer leurs acquis et consolider leurs connaissances.
+Lien avec la suite : Quizlet sera réintégré dans la Séquence 8 (Bookwidgets). Les chansons créées ici pourront alimenter le site de ressources de la Séquence 10. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Pour les enseignants de langues, la mémorisation du vocabulaire et des structures grammaticales est un enjeu central. Quizlet répond directement à ce besoin en permettant une révision espacée automatisée — une des stratégies d'apprentissage les plus efficaces selon les sciences cognitives (effet Ebbinghaus). Suno ouvre une dimension créative et motivante qui transforme la révision en activité engageante, particulièrement impactante pour les apprenants auditifs et les élèves en difficulté de motivation.
+La création de cartes mentales illustrées répond aux besoins des apprenants visuels et des élèves avec des profils d'apprentissage différenciés (TDAH, troubles DYS). La possibilité de faire co-écrire les paroles de chanson par les élèves transforme une activité de consommation en projet de production créative — compétence phare des référentiels CECRL (production écrite en interaction). 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Individuellement, chaque participant utilise une IAG pour identifier 3 chansons adaptées à une UAA de son choix, puis partage sa sélection commentée (pertinence CECRL, points linguistiques exploitables) avec le groupe.
+En autonomie, les participants expérimentent Suno pour créer une chanson originale facilitant la mémorisation d'une structure grammaticale ou d'un champ lexical ciblé. Ils découvrent ensuite comment impliquer les élèves en amont en faisant écrire les paroles par eux avant la production musicale par l'IA.
+Les participants automatisent la création d'une liste Quizlet à partir d'un vocabulaire issu de leur séquence créée en S4 (import direct ou génération par IA). Ils testent le mode de révision espacée et identifient les paramètres adaptables pour leurs niveaux d'élèves.
+Pour clôturer, chaque participant génère une carte mentale illustrée synthétisant les acquis linguistiques d'une UAA, exportable en format imprimable pour affichage en classe. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le lien explicite avec le 4e pilier de Dehaene (consolidation) ancre les pratiques dans la recherche en neurosciences et illustre concrètement les effets de l'IA sur l'apprentissage — cœur de l'objectif visé.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Dehaene, S. (2018). Apprendre ! Les talents du cerveau, le défi des machines. Odile Jacob.
+Outils: Suno ; Quizlet; IAG
+  Séquence 6 — Jour 1 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Le premier jour se clôture par un focus sur la gestion de l'hétérogénéité et le développement des compétences orales, à travers quatre activités :
+1. Adaptation inclusive (EBS) : Les enseignants apprennent à réaliser un « check-up EBS » automatisé pour simplifier la syntaxe des consignes et adapter la mise en page de leurs supports aux élèves à besoins spécifiques.
+ 2. Différenciation active : Création d'activités de dépassement stimulantes pour les élèves les plus rapides (fast-finishers) et brainstorming de tâches finales variées pour permettre à chaque élève de démontrer ses acquis selon son propre profil d'apprentissage.
+3. Le tuteur coach vocal : Exploration de la dimension orale de l'IA. Les participants transforment l'assistant en un coach vocal capable de proposer des mises en situation immersives et un feedback personnalisé pour améliorer la prononciation et la fluidité des élèves.
+4. Conclusion du premier jour : synthèse des apprentissages et présentation des objectifs du Jour 2.
+Lien avec la suite : le coach vocal anticipé ici sera approfondi en Séquence 11 (création d'assistants personnalisés). Le check-up EBS sera réinvesti en Séquence 10 pour garantir l'accessibilité du site de ressources.
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La gestion de l'hétérogénéité est l'un des défis les plus importants pour les enseignants de langues : niveaux très variés au sein d'une même classe, élèves EBS, élèves allophones, fast-finishers. Le check-up EBS répond directement aux obligations légales d'aménagements raisonnables (décret FWB) tout en réduisant considérablement le temps de conception de ces adaptations.
+Le coach vocal oral ouvre une perspective révolutionnaire pour les cours de langues : un élève peut désormais pratiquer l'expression orale en dehors de la classe avec un feedback immédiat et personnalisé, palliant l'impossibilité structurelle pour un enseignant de 25 élèves d'offrir ce type d'accompagnement individualisé en classe.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Individuellement, chaque participant soumet l'un de ses propres supports de cours à un « check-up EBS » automatisé via une IAG (prompt RCTF spécialisé : simplification syntaxique, adaptation de la mise en page). Il compare la version originale et la version adaptée, puis identifie les ajustements pertinents pour ses élèves EBS.
+En petits groupes, les participants brainstorment des activités de dépassement (fast-finishers activities) adaptées à leur niveau et thématique, en utilisant l'IA comme générateur d'idées. Ils partagent leurs meilleures propositions en plénière et construisent une banque d'idées collective. 
+Individuellement, les participants expérimentent l'IA en mode vocal (mise en situation d'interaction orale dans la langue cible), puis analysent la qualité du feedback reçu et identifient les limites et les plus-values de cet usage. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le check-up EBS démontre concrètement que l'IA peut répondre à des besoins d'adaptation très spécifiques et pas seulement à des besoins de création de contenu générique. Les participants identifient ainsi une nouvelle catégorie d'usages pédagogiques de l'IA.
+L'expérimentation du coach vocal oral et l'analyse de ses résultats amènent les participants à formuler eux-mêmes les limites de cet usage (précision de l'accent, contexte culturel, risque de dépendance technologique), développant ainsi une pensée critique appliquée et non théorique.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+CAST. (2024). Directives de la Conception Universelle de l'Apprentissage — Version 3.0.
+Fédération Wallonie-Bruxelles. (2017). Décret relatif à l'accueil, à l'accompagnement et au maintien dans l'enseignement ordinaire fondamental et secondaire des élèves présentant des besoins spécifiques, 7 décembre 2017. Gallilex.
+Outils: App Gemini  
+  Séquence 7 — Jour 2 (30 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+La journée débute par un quiz ludique de réactivation des concepts clés abordés lors du premier jour afin d'ancrer les apprentissages. 
+Ensuite, les participants explorent la plateforme PIX et son référentiel de compétences numériques (DigComp). Cette séquence permet d'initier un test d'auto-positionnement, aidant les enseignants à situer leurs propres acquis numériques et à envisager comment accompagner leurs élèves dans cette démarche de certification désormais incontournable en FWB.
+Lien avec la suite : l'auto-positionnement PIX réalisé ici permet d'identifier les compétences numériques développées tout au long des deux journées et d'en rendre visible la progression dans le référentiel officiel. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La maîtrise de PIX est progressivement devenue une compétence attendue des enseignants FWB. Cette séquence équipe les participants pour accompagner leurs élèves dans leur certification numérique et pour faire le lien entre les activités numériques de classe et le référentiel officiel. Elle s'inscrit directement dans les orientations du Pacte pour un Enseignement d'excellence en matière de littératie numérique.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants participent à un quiz interactif en temps réel sur les concepts du Jour 1 (mécanismes LLM, méthode RCTF, outils découverts, enjeux RGPD et environnementaux). Le format compétitif et bienveillant crée une dynamique positive en début de journée.Ils testent en temps réel la puissance du feedback immédiat, 3? pilier de Stanislas Dehaene.
+Ensuite, individuellement, chaque participant effectue un mini auto-positionnement PIX ciblé sur les domaines les plus travaillés dans la formation.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La consolidation mémorielle est activée dès le début de la journée (pilier 4 de Dehaene). Le lien entre les activités de la formation et les compétences PIX valorise les apprentissages réalisés et ancre l'objectif d'identification des outils numériques adaptés.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Dehaene, S. (2018). Apprendre ! Les talents du cerveau, le défi des machines. Odile Jacob.
+Fédération Wallonie-Bruxelles. (2023). Référentiel de formation manuelle, technique, technologique et numérique (FMTTN) — Tronc commun. Administration générale de l'Enseignement.
+Outils: PIX; Wayground S
+  Séquence 8 — Jour 2 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Les participants commencent par découvrir l'environnement Bookwidgets et son potentiel pour créer des exercices interactifs adaptés aux cours de langues. L'accent est mis sur la fonction « Live », véritable levier pédagogique permettant de monitorer le travail des élèves en temps réel, d'identifier les blocages et d'offrir un feedback immédiat conformément au 3e pilier de l'apprentissage de Stanislas Dehaene.
+Dans un second temps, ils explorent comment l'intelligence artificielle facilite et accélère radicalement la conception de ces activités : l'IA permet de transformer instantanément un texte, un simple prompt ou la photo d'un exercice papier en un exercice numérique complet et prêt à l'emploi pour une remédiation ciblée.
+Lien avec la suite : les exercices Bookwidgets créés ici alimenteront le site de ressources conçu en Séquence 10, offrant aux élèves des activités interactives accessibles en autonomie. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Bookwidgets résout deux problèmes professionnels majeurs pour les enseignants de langues : le temps de correction (feedback immédiat automatique, supprimant la correction différée) et la différenciation de l'évaluation formative (suivi individuel en temps réel via la fonction Live). La possibilité de photographier un exercice papier et de le numériser instantanément permet de valoriser des ressources existantes sans retravailler de zéro, réduisant drastiquement le coût d'entrée dans la pratique numérique.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Dans un premier temps, le formateur démontre la fonction « Live » de Bookwidgets sur un exercice préparé : les participants jouent le rôle des élèves et répondent en temps réel pendant que le formateur visualise leurs réponses individuelles sur son tableau de bord, expérimentant ainsi exactement ce que vivront leurs élèves.
+Ensuite, en autonomie, chaque participant crée son propre exercice Bookwidgets à partir : (a) d'un texte de son choix (exercice de compréhension), (b) d'une photo d'un exercice papier existant transformée en exercice numérique par l'IA. Les participants testent l'exercice créé et identifient les ajustements nécessaires.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+L'expérimentation de la fonction Live révèle concrètement comment l'IA peut aider à transformer la posture de l'enseignant en classe : passer de correcteur (travail différé) à observateur et facilitateur en temps réel. Cette transformation de posture est une des plus impactantes de la formation, car elle modifie directement la dynamique de la classe.
+La création d'un exercice à partir d'une photo d'exercice papier produit un effet de surprise puissant qui démontre de façon irréfutable la plus-value de l'IA sur le travail de préparation — rencontrant ainsi directement l'objectif d'expérimentation des effets sur l'enseignement.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Dehaene, S. (2018). Apprendre ! Les talents du cerveau, le défi des machines. Odile Jacob.
+Outils: Bookwidgets, IAG
+  Séquence 9 — Jour 2 (120 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Cette séquence présente deux outils Google très pratiques pour générer du contenu personnalisé.
+D'abord, avec AI Studio, les participants apprennent à créer des fichiers audio sur mesure (Text-to-Speech). On choisit le texte, l'accent et la vitesse de parole pour obtenir exactement l'audition nécessaire à un cours ou à une remédiation. Cela permet de créer des supports audio qui correspondent parfaitement au niveau et au vocabulaire des élèves.
+ Ensuite, ils testent NotebookLM. Cet outil permet de regrouper ses propres documents (PDF, manuels, vidéos) pour en faire une base de connaissances. L'IA aide alors à générer rapidement des résumés, des infographies, des vidéos explicatives ou des podcasts pour aider les élèves à mieux comprendre la matière tout en variant les supports.
+Lien avec la suite : les auditions créées avec AI Studio et les podcasts générés avec NotebookLM constitueront deux livrables majeurs de la formation, directement intégrés dans le site de ressources créé en Séquence 10. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Pour les enseignants de langues, AI Studio résout un problème concret : les enregistrements audio des manuels sont souvent trop rapides, utilisent un vocabulaire inadapté au niveau exact des élèves, ou ne correspondent pas aux thématiques travaillées. Créer une audition sur mesure en quelques secondes transforme radicalement la préparation des épreuves d'écoute et des activités de remédiation.
+ NotebookLM transforme la préparation des cours en permettant d'interroger l'ensemble de ses documents de référence pour générer des synthèses cohérentes et fiables. Le format podcast généré automatiquement offre un support multimodal particulièrement adapté aux apprenants auditifs et aux élèves qui pratiquent la langue en dehors de la classe (transports, révisions à domicile).
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Avec AI Studio, chaque participant crée une audition sur mesure à partir d'un texte issu de sa séquence créée en S4 : il choisit l'accent (natif de différentes régions/pays), la vitesse (normale, ralentie pour compréhension, accélérée pour entraînement avancé) et compare les différentes versions générées. Il exporte ensuite l'audition en format mp3 et l'intègre dans son dossier de ressources.
+ Avec NotebookLM, les participants chargent leurs propres documents de référence (manuels, programmes officiels, notes de cours, supports de la séquence créée en S4) et génèrent : un podcast audio (format questions/réponses entre deux voix IA), une infographie de synthèse, et des questions de compréhension différenciées par niveau. Ils analysent la qualité et la fiabilité des contenus générés en les confrontant aux sources chargées.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La comparaison entre une IAG généraliste (risque d'hallucinations) et NotebookLM ancré dans des sources fiables développe la réflexion critique. Les participants analysent les effets concrets de l'IA sur leur enseignement : gain de temps, personnalisation, mais aussi limites à identifier. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Fédération Wallonie-Bruxelles. (2021). Référentiel de langues modernes — Tronc commun. Administration générale de l'Enseignement.
+Fédération Wallonie-Bruxelles. (2017). Décret relatif à l'accueil, à l'accompagnement et au maintien dans l'enseignement ordinaire fondamental et secondaire des élèves présentant des besoins spécifiques, 7 décembre 2017. Gallilex.
+Outils: Google AI Studio ; Google NotebookLM 
+  Séquence 10 — Jour 2 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Afin de pérenniser les productions de la formation, chaque participant structure son propre espace de ressources en ligne via Google Sites ou Canva. Ce site est pensé comme un levier de différenciation : il centralise les supports d'aide, les explications et les exercices de remédiation, offrant aux élèves une plateforme intuitive pour travailler en autonomie selon leurs besoins.
+ Lien avec la suite : le site de ressources créé ici est le livrable central de la formation, dans lequel convergent toutes les productions des séquences précédentes (séquence CECRL, auditions AI Studio, podcasts NotebookLM, exercices Bookwidgets). Il sera enrichi par les assistants créés en Séquence 11 et présenté lors de la clôture en Séquence 12.
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le site de ressources est l'outil de différenciation structurelle le plus durable de la formation : une fois créé, il peut être enrichi chaque semaine avec un minimum d'effort. Il permet à chaque élève d'accéder aux ressources qui correspondent à son niveau et à ses besoins, en totale autonomie — réduisant ainsi la charge de l'enseignant tout en individualisant les parcours.
+ Cette approche s'inscrit dans les principes de la Conception Universelle des Apprentissages (CUA) et dans les obligations d'accessibilité de la législation FWB. En jouant eux-mêmes le rôle d'élèves sur le site d'un pair, les participants développent une compréhension empathique des besoins de leurs élèves face aux ressources numériques.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Chaque participant choisit l'outil de création (Google Sites ou Canva) le mieux adapté à ses compétences et préférences. Il structure son site en sections correspondant aux besoins de ses élèves (aide, exercices de remédiation, dépassement, ressources documentaires) et y intègre progressivement les productions créées lors des séquences précédentes : liens vers les listes Quizlet, exercices Bookwidgets, auditions AI Studio, podcasts NotebookLM, supports visuels générés en S4. 
+Chaque participant choisit l'outil de création (Google Sites ou Canva) le mieux adapté à ses compétences et préférences. Il structure son site en sections correspondant aux besoins de ses élèves (aide, exercices de remédiation, dépassement, ressources documentaires) et y intègre progressivement les productions créées lors des séquences précédentes : liens vers les listes Quizlet, exercices Bookwidgets, auditions AI Studio, podcasts NotebookLM, supports visuels générés en S4. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+En structurant leur espace numérique, les participants analysent comment l'IA transforme leur posture d'enseignant : d'un transmetteur de savoirs à un architecte d'environnements d'apprentissage autonomisants. La sélection et l'organisation des ressources développe l'identification des outils adaptés à des intentions pédagogiques précises.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+CAST. (2024). Directives de la Conception Universelle de l'Apprentissage — Version 3.0.
+Connac, S. (2022). La personnalisation des apprentissages : agir face à l'hétérogénéité, à l'école et au collège (4e éd.). ESF Sciences humaines. 
+Fédération Wallonie-Bruxelles. (2017). Décret relatif à l'accueil, à l'accompagnement et au maintien dans l'enseignement ordinaire fondamental et secondaire des élèves présentant des besoins spécifiques, 7 décembre 2017. Gallilex.
+Outils: Canva for Education; Google sites
+  Séquence 11 — Jour 2 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Cette séquence est centrée sur le feedback immédiat en expression écrite, un levier d'apprentissage majeur (le 3e pilier de Dehaene) qu'il était jusqu'alors impossible de mettre en oeuvre à l'échelle d'une classe. Les participants découvrent le prompt de tutorat socratique pour accompagner l'élève sans lui donner la réponse. 
+Cette compétence est ensuite déclinée pour créer une bibliothèque d'assistants sur mesure capable d'automatiser les tâches répétitives. Ce gain de temps précieux permet enfin de déployer des stratégies pédagogiques performantes qui étaient, jusqu'ici, bien trop lourdes à gérer au quotidien. 
+Lien avec la suite : les assistants créés ici constitueront l'un des livrables partagés lors de la Séquence 12 (capitalisation collective), enrichissant la bibliothèque commune de ressources post-formation. 
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Le feedback personnalisé en expression écrite est l'une des pratiques les plus efficaces en enseignement des langues mais aussi la plus chronophage. Les assistants IA changent radicalement cette équation : un assistant correcteur configuré une fois peut fournir un feedback immédiat, personnalisé et illimité à chaque élève, libérant l'enseignant pour des interventions à plus haute valeur ajoutée (feedback oral, interactions de groupe, évaluation complexe).
+Le tutorat socratique, en particulier, développe l'autonomie et la métacognition des élèves , compétences transversales clés des référentiels FWB.
+La bibliothèque d'assistants automatiseurs réduit considérablement le temps de préparation des séquences, permettant aux enseignants de se concentrer sur les activités pédagogiques à haute valeur ajoutée.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le formateur démontre d'abord un prompt de tutorat socratique en action : un participant joue le rôle d'un élève qui soumet une production écrite en langue cible, et le groupe observe comment l'assistant guidé par le prompt socratique accompagne l'élève par des questions progressives sans jamais donner directement la réponse.
+En autonomie, chaque participant configure son propre assistant pédagogique en adaptant le prompt socratique à sa discipline et à ses objectifs (correction de la syntaxe, du vocabulaire, de la cohérence textuelle). Il le teste avec un court texte, évalue la pertinence du feedback généré et l'ajuste jusqu'à obtenir un résultat pédagogiquement satisfaisant.
+Ensuite, les participants créent une deuxième catégorie d'assistants : des automatiseurs de tâches répétitives (générateur de corrigés de QCM, simplificateur de consignes, convertisseur de texte en niveau CECRL cible). Chaque participant partage son assistant le plus utile dans la bibliothèque commune.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La conception d'un assistant de feedback socratique transforme fondamentalement la posture de l'enseignant face à la correction : celui-ci passe de correcteur unique et surchargé à concepteur d'un système de feedback. 
+Le test et l'ajustement de l'assistant face à des productions réelles permet aux participants d'identifier directement les limites de l'IA (compréhension du contexte culturel, nuances linguistiques, encouragement émotionnel) et de définir les garde-fous nécessaires.La réflexion sur les limites du tutorat IA (l'IA ne remplace pas le jugement pédagogique) développe une posture critique essentielle. Les participants analysent concrètement les effets de l'IA sur l'évaluation : feedback différencié, immédiat et à grande échelle. 
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Dehaene, S. (2018). Apprendre ! Les talents du cerveau, le défi des machines. Odile Jacob.
+Degen, B. (2023). Reviving Socrates in the Age of AI: A Study Protocol for Evaluating a Socratic Tutor
+Outils: Gemini, Copilot, Magicschool  
+  Séquence 12 — Jour 2 (30 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+La formation se conclut par une phase de mutualisation. Les participants partagent leurs meilleurs prompts et leurs assistants personnalisés au sein d'une bibliothèque commune. Un temps de réflexion finale permet de synthétiser les livrables (séquence complète, site web, outils audio) et de réaliser l'évaluation de la formation, garantissant ainsi un transfert efficace vers la pratique en classe.
+ Cette séquence clôture la boucle ouverte en Séquence 1 : les participants mesurent le chemin parcouru entre leur rapport initial à l'IA et leur maîtrise acquise au terme des deux journées.
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+La bibliothèque commune de prompts et d'assistants est une ressource professionnelle collective qui continue à s'enrichir après la formation. Elle constitue le premier maillon d'une communauté de pratiques entre enseignants de langues modernes.
+La synthèse des livrables permet à chaque participant de repartir avec un portfolio complet et opérationnel (séquence CECRL, auditions sur mesure, podcasts NotebookLM, site de ressources, bibliothèque d'assistants) directement déployable dès la semaine suivante, garantissant le transfert immédiat dans la pratique professionnelle réelle.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Chaque participant sélectionne son « meilleur prompt » et son « assistant le plus utile » parmi toutes ses créations des deux jours, et les partage dans une bibliothèque commune (Padlet ou Google Drive partagé) avec une courte description de l'usage pédagogique prévu. Ce partage actif oblige chaque participant à hiérarchiser et nommer ses apprentissages.
+Les participants présentent leur site de ressources finalisé (Séquence 10) à un pair qui n'en a pas encore eu connaissance, reçoivent un retour rapide et notent 1 amélioration concrète à apporter dès la semaine suivante.
+Collectivement, le formateur guide une évaluation de la formation : quels outils seront utilisés en priorité ? Quelles limites ont été identifiées ? Quels ajustements sont nécessaires pour le contexte de classe de chacun ? Les réponses alimentent une synthèse collective affichée sur le Padlet commun.
+Evaluation IFPC
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le partage collectif ancre la réflexion critique finale : les participants identifient collectivement les plus-values et les limites des outils expérimentés. La mutualisation garantit que chacun repart avec davantage que ce qu'il a personnellement produit.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+Outils: Digipad 
+Support formation 
+
+4. Sessions RFI / collectives (20 session(s))
+Sessions RFI
+Commentaires matériel RFI :
+Matériel standard :   • Classe de cours standard avec mur blanc ou écran de projection (tables et chaises)  Matériel spécifique :   • Wifi   • TBI (ordinateur non fourni)   • Projecteur (ordinateur non fourni)
+  RFI #1  |  1  —  RFI-Fondamental-Luxembourg  |  19/11/2026 → 20/11/2026
+Note info : Province du Luxembourg Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Omar ALAOUI [validé] Lieu : 
+  RFI #2  |  2  —  RFI-Secondaire-Hainaut 1  |  23/11/2026 → 24/11/2026
+Note info : Wallonie Picarde (Tournai) Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #3  |  3  —  RFI-Fondamental-Hainaut 1  |  26/11/2026 → 27/11/2026
+Note info : Wallonie Picarde (Tournai) Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #4  |  4  —  RFI-Secondaire-Bruxelles 1  |  30/11/2026 → 01/12/2026
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #5  |  5  —  RFI-Secondaire-Brabant wallon  |  18/01/2027 → 19/01/2027
+Note info : Province du Brabant wallon Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #6  |  6  —  RFI-Fondamental-Liège 1  |  21/01/2027 → 22/01/2027
+Note info : Liège ville + Huy-Waremme Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #7  |  7  —  RFI-Secondaire-Hainaut 2  |  25/01/2027 → 26/01/2027
+Note info : Hainaut Sud (Charleroi + Chimay + Beaumont) Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #8  |  8  —  RFI-Fondamental-Namur  |  28/01/2027 → 29/01/2027
+Note info : Province de Namur Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #9  |  9  —  RFI-Secondaire-Liège 1  |  01/02/2027 → 02/02/2027
+Note info : Liège ville + Huy-Waremme Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #10  |  10  —  RFI-Fondamental-Hainaut 2  |  04/02/2027 → 05/02/2027
+Note info : Hainaut Sud (Charleroi + Chimay + Beaumont) Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Omar ALAOUI [validé] Lieu : 
+  RFI #11  |  11  —  RFI-Fondamental-Bruxelles 1  |  11/02/2027 → 12/02/2027
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #12  |  12  —  RFI-Secondaire-Namur  |  15/02/2027 → 16/02/2027
+Note info : Province de Namur Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #13  |  13  —  RFI-Secondaire-Bruxelles 2  |  15/03/2027 → 16/03/2027
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #14  |  14  —  RFI-Fondamental-Brabant wallon  |  18/03/2027 → 19/03/2027
+Note info : Province du Brabant wallon Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #15  |  15  —  RFI-Secondaire-Luxembourg  |  22/03/2027 → 23/03/2027
+Note info : Province du Luxembourg Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #16  |  16  —  RFI-Fondamental-Liège 2  |  25/03/2027 → 26/03/2027
+Note info : Liège ville + Verviers Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #17  |  17  —  RFI-Fondamental-Bruxelles 2  |  01/04/2027 → 02/04/2027
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Omar ALAOUI [validé] Lieu : 
+  RFI #18  |  18  —  RFI-Secondaire-Hainaut 3  |  05/04/2027 → 06/04/2027
+Note info : Hainaut Centre (Ath+Mons+La Louvière) Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+  RFI #19  |  19  —  RFI-Fondamental-Hainaut 3  |  08/04/2027 → 09/04/2027
+Note info : Hainaut Centre (Ath+Mons+La Louvière) Formateurs titulaires : Sébastien DEDOCQ [validé] Formateurs remplaçants : Vinciane DUCOULOMBIER [validé] Lieu : 
+  RFI #20  |  20  —  RFI-Secondaire-Liège 2  |  12/04/2027 → 13/04/2027
+Note info : Liège ville + Verviers Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : 
+
+5. Prix RFI (par session)
+Grille tarifaire RFI
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+0.00 EUR /pers/jour → Total : 0.00 EUR
+Locaux :
+0.00 EUR /jour → Total : 0.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+1380.00 EUR
+Total TTC :
+1380.00 EUR
+
+6. Sessions individuelles (6 session(s))
+Sessions individuelles
+  Session individuelle #1  |  Jour 1 : 12/11/2026  /  Jour 2 : 13/11/2026
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #2  |  Jour 1 : 07/01/2027  /  Jour 2 : 08/01/2027
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #3  |  Jour 1 : 19/04/2027  /  Jour 2 : 20/04/2027
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 2_1410_pedagokit_ardewaterloo
+  Session individuelle #4  |  Jour 1 : 28/09/2026  /  Jour 2 : 29/09/2026
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #5  |  Jour 1 : 14/01/2027  /  Jour 2 : 15/01/2027
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+  Session individuelle #6  |  Jour 1 : 13/05/2027  /  Jour 2 : 14/05/2027
+Formateurs titulaires : Isabelle FIEVET [validé] Formateurs remplaçants : Sébastien DEDOCQ [validé] Lieu : Jour 1 : 9_5500_pedagokit_collgenotredamededinant
+
+7. Prix individuelles (par session)
+Grille tarifaire individuelles
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+12.00 EUR /pers/jour → Total : 480.00 EUR
+Locaux :
+110.00 EUR /jour → Total : 220.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+2080.00 EUR
+Total TTC :
+2080.00 EUR
+Document généré automatiquement — IFPC — 30/09/2026

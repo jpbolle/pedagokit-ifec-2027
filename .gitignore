@@ -1,0 +1,11 @@
+# Exports Genially hors ligne (≈ 240 Mo, vidéos et polices) : trop lourds pour le dépôt.
+# Leur texte est versionné dans bibliotheque/*.genially.txt ; les originaux restent sur le poste de J.-P. Bolle.
+genially_*/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de travail
+transcripts/_work/
+__pycache__/

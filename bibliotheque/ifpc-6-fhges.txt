@@ -1,0 +1,374 @@
+OFFRE DE FORMATION
+CSC 19  —  Lot 120  —  Sous-titre 7  —  Opérateur : PEDAGOKIT
+Document généré le 30/09/2026 à 14:46
+
+
+1. Informations générales
+Référentiel du lot
+Intitulé du lot : Intelligence artificielle : enjeux et usages
+Public cible (lot) : 
+Membres du personnel enseignant de l'enseignement fondamental ordinaire et spécialisé.
+Membres du personnel enseignant secondaire ordinaire et spécialisé.
+Directions d'un établissement scolaire
+Agents des CPMS
+Pôles territoriaux
+Coches public cible CSC : FO | SO | FSP | SSP | CPMS | PT
+Objectifs de formation : 
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères d'analyse : 
+Critères requis d'analyse de l'offre de formation (12 points) :
+La formation :
+1. garantit le caractère interréseaux de la formation : prise en compte de la pluralité des contextes, proposition d’une multiplicité de modèles et d’outils 
+2. présente ses différents contenus avec objectivité
+3. est construite sur des sources scientifiques et/ou référents théoriques énoncés dans l’offre et qui soutiennent la rencontre des objectifs
+4. se base sur des situations concrètes reliées aux contextes professionnels des participants, apportées par le formateur et/ou par les apprenants (expérience des formés)
+5. amène le participant à développer une posture de praticien réflexif (transfert des acquis)
+6. prend en compte les éléments incontournables
+7. travaille l’ensemble des objectifs et permet aux participants de : 
+*Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+* Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+* Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques) sur l'apprentissage (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+* A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values 
+* Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Critères valorisés d'analyse de l'offre de formation (23 points) :
+* La formation tient compte des représentations des participants 
+* La formation tient compte des pré-acquis des participants 
+* Le scénario de la formation est rédigé de manière claire et compréhensible, son fil conducteur est aisément identifiable
+* Les choix méthodologiques soutiennent le développement du contenu de formation
+* La formation offre des ressources théoriques actualisées
+* Les dimensions théoriques et pratiques sont complémentaires
+* Les activités, contenus et ressources proposées dans la formation sont variées et adaptées aux bénéficiaires de la formation
+* La formation suscite, auprès des participants, le développement de pratiques qui soutiennent la scolarité inclusive 
+* Certains éléments de l’offre peuvent être identifiés comme étant remarquables (qualité spécifique, singularité, pertinence exemplaire ou intérêt particulier)
+Elements incontournables : 
+1. La formation a une visée réflexive et aborde la thématique de manière multicontextuelle. Elle se base sur des données scientifiques et expose celles-ci en toute transparence.
+2. La formation tient compte des
+représentations préalables des
+participants au sujet de l'intelligence artificielle
+3. La formation tient compte des biais liés aux stéréotypes de genre
+4. La formation sensibilise aux principales règles en matière de RGPD en lien précis avec le contenu travaillé
+5. La formation fait le lien vers l'outil interréseau d'autoévaluation des compétences numériques PIX.
+6. La formation peut être déclinée sur la base du public cible.
+7. La formation met en évidence l'implication éventuelle de l'IA au sein des outils développés en formation
+8. La formation tient compte des différents niveaux de maitrise des outils de l’IA des participants et propose des activités de formation adaptées à tous les niveaux.
+
+
+Offre de l'opérateur
+Intitulé de la formation :
+Utilisation de l’IA dans les cours de FHGES
+Public cible :
+Membre du personnel de l'enseignement fondamental ou secondaire, ordinaire ou spécialisé; membres des pôles territoriaux, intervenant dans les cours de FHGES.
+Coches public cible :
+FO | SO | FSP | SSP
+Justification public cible :
+Nos outils s'adressent d'abord et avant tout à des professeurs
+Taille groupe / durée / modalités :
+Groupe : 14-20 participants Groupe Op : 14-20 participants Durée : 2 jour(s) (2 ou 3 jours) Durée Op : 2 jour(s) Présentiel : Oui  |  Distance : Oui  |  Hybride : Oui
+Justification Modalités :
+
+2. Présentation et détails
+Offre de l'opérateur
+Présentation :
+
+Vous souhaitez utiliser le numérique afin de favoriser la collaboration avec vos élèves et vos collègues mais ne savez comment vous y prendre? Découvrez comment utiliser efficacement des murs virtuels, créer rapidement des documents collaboratifs structurés et efficaces, organiser un suivi facile des projets. 
+Cette formation se veut concrète: à partir d'exemples tirés de la vie en classe, les participants devront manipuler différents outils numériques et répondre à des défis... 
+Mots-clés :
+histoire,FGHES,numérique,IA,SAI,intelligences artificielles,pedagokit
+Prérequis :
+-
+Remarques participants :
+-
+Matériel spécifique :
+Cet atelier repose sur des activités concrètes: il est vivement conseillé aux participants d'amener un ordinateur portable.
+
+3. Déroulement de la formation (9 séquence(s))
+Séquences de formation
+Orientation méthodologies générales :
+
+Les ateliers PedagoKit se veulent concrets et engageants, actifs et itératifs, "personnalisés" et collectifs, tout en tenant compte des biais liés aux stéréotypes de genre. 
+Chaque module de l'atelier commence de fait par une brève présentation théorique suivie d'une prise en mains par les professeurs de l'outil ou de la piste, ce sous la forme d'un défi. Le défi terminé, les professeurs se retrouvent seuls ou en petits groupes pour mener une réflexion critique et méta autour des objets créés ou juste pris en mains... 
+  Séquence 1 — Jour 1 (20 min)
+Objectif(s) :
+1. Comprendre et identifier les concepts fondamentaux de l'intelligence artificielle : origine, principes de base et fonctionnement
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Poser le CADRE de la formation à venir: 
+A travers un mur collaboratif de la Digitale, nous nous présentons, nous découvrons les différents participants et posons le cadre déontologique de la formation ainsi que le cadre éthique (RGPD).  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de se positionner sur comment utiliser très concrètement l’IA avec les élèves 
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Individuellement, le participant est amené à participer à un mur collaboratif dans lequel il se présente: fonctions, attentes, craintes et opportunités à l’usage de l’IA sur
+l'apprentissage (y compris l'évaluation), sur son enseignement, sur la gestion de la classe et sur sa posture d'enseignant. Collectivement, il prend part à la discussion qui s'ensuit. 
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Afin de poursuivre cet objectif, le mur collaboratif proposé amène les participants à prendre connaissance des autres comme du cadre de formation (déontologie, etc.). La démarche alterne temps individuel et collectif.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• HAAS, Gérard. Guide juridique du RGPD. ENI,2018. 
+• un mur virtuel gratuit et qui respecte le RGPD (la Digitale/DigiPad) 
+• Tous les contenus dont celui-ci sont placés sur un diaporama interactif (canva, genially)
+  Séquence 2 — Jour 1 (40 min)
+Objectif(s) :
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Les différentes IA et leur intérêt dans la préparation de cours, pour enseigner avec l’IA et encadrer l’usage de l’IA. 
+De la préparation de cours, enseigner avec l’IA et encadre l’usage de l’IA, le participant découvre quelles sont les différents usages de l’IA possibles, leurs limites et leur intérêt... à travers différents scénarios qui permettent de mettre en pratique l’utilisation des outils IA en lien avec la discipline FHGES
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de se positionner sur comment accompagner l’utilisation de l’IA par mes élèves en développant leur esprit critique et leur capacité à travailler en autonomie ?
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Un jeu vidéo (et/ou manuel) qui demande aux participants de partager leur expérience personnelle avec les outils d’IA. 
+Une réflexion sur l’utilisation de l’IA, ses formes, ses forces et ses faiblesses, est menée à partir des observations autour du jeu sous la forme d'un mur virtuel (lien avec la séquence suivante)  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le jeu vidéo permet la collaboration ainsi que l'observation méta du comportement des équipes (quelles sont les équipes qui se révèlent les plus performantes et pourquoi). Il suscite donc la réflexion des participants sur la collaboration et ce qu'elle implique 
+concrètement...  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+• Utiliser l'IA en histoire-géographie Écrit par Ludovic Chevassus, Paul Fermon, Elodie Thedenat-Clivier 
+•  J’enseigne avec l’IA Guide pratique de l’IA au service de l’enseignant et de l’élève. 
+Outils: 
+ - Un jeu vidéo 
+ - Tous les contenus dont celui-ci sont placés sur un diaporama interactif (canva, genially) 
+  Séquence 3 — Jour 1 (120 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Utiliser l’IA en FGHES 
+Dans cette séquence, le participant découvre les différentes façons d’utiliser l’IA pour préparer ses séquences d’apprentissage en lien avec le référentiel de la FWB  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de justifier la pertinence d’une page internet par rapport à
+une question de recherche
+Sélectionner une information en référence à un repère temporel, une thématique en recourant à un portail numérique.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Pour chaque outil découvert, le participant réalise une tâche qui nécessite la manipulation de l'outil et donc sa prise en mains. Certaines de ses tâches relèvent de la contribution à l'élaboration d'un document. Il est ensuite amené à s'inscrire dans une démarche de réflexion collective.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Les tâches et défis proposés sont construits afin de pousser les participants vers l’utilisation des différents outils numériques pour la préparation des cours. 
+Les participants privilégieront les outils IA reliés à leur environnement numérique d’apprentissage afin de respecter les normes RGPD en vigueur.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+• Utiliser l'IA en histoire-géographie Écrit par Ludovic Chevassus, Paul Fermon, Elodie Thedenat-Clivier 
+• J’enseigne avec l’IA Guide pratique de l’IA au service de l’enseignant et de l’élève. 
+Outils: 
+•  Outils IA en lien avec l’ENA des écoles 
+•  Tous les contenus sont placés sur un diaporama interactif (canva, genially) 
+• Portfolios modèles et modèles de documents 
+  Séquence 4 — Jour 1 (60 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Utiliser l’IA pour préparer ses cours
+Dans cette séquence, le participant découvrira comment
+• optimiser son temps de travail 
+• personnaliser les apprentissages 
+• oser de nouvelles pratiques
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent aux enseignants de concevoir de nouvelles stratégies d'apprentissage soutenues par les technologies numériques et notamment l’IA
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Pour chaque outil découvert, le participant réalise une tâche qui nécessite la manipulation de l'outil et donc sa prise en mains. Il est ensuite amené à s'inscrire dans une démarche de réflexion collective qui débouche sur une comparaison des avantages et faiblesses de chaque type d'outil  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La prise en mains est individuelle, ce qui permet à chacun de découvrir les différents types de suivis de projet à leur rythme et selon leurs envies.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+•  Utiliser l'IA en histoire-géographie Écrit par Ludovic Chevassus, Paul Fermon, Elodie Thedenat-Clivier 
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+•  Outils: 
+IA en lien avec ENA de l’école, Mistral AI, Character AI, outils d’analyse d’images IA, moteur de recherche associé à une IA 
+  Séquence 5 — Jour 1 (120 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+S’initier à l’art du prompt, organiser sa pensée et structurer ses cours. 
+Actualiser ses connaissances scientifiques, créer son assistant de classe.
+Cette séquence s'inscrit dans le prolongement de la séquence précédente: le participant découvre plusieurs IA (selon leurs avantages et inconvénients). A eux de choisir l’outil IA qui les intéresse et réaliser un défi composé de plusieurs sous-tâches.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de collaborer, partager et échanger des connaissances et des expériences avec d’autres enseignants.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants sont confrontés à un défi décomposé en différentes tâches, ce qui nécessite la manipulation de l'outil et donc sa prise en main. Il est ensuite amené à s'inscrire dans une démarche de réflexion collective et méta et ainsi répondre aux visées des sciences humaines au sein du tronc commun.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Certains défis sont individuels car cet outil nécessite une première prise en mains selon le rythme de chacun; d'autres défis suivent qui poussent les participants à coopérer et créer du contenu ensemble.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• https://pedagogie.ac-lille.fr/histoire-geographie/2024/02/18/numlille-n17-lia-pour-enseigner-et-apprendre-en-histoire-geographie/. 
+• Mikaël Degeer, Audrey Kumps Les compétences numériques des élèves et des enseignants Editions de Boeck. 
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+ Outils: 
+•  Outil IA en lien avec ENA de l’école, Mistral AI et moteur de recherche associé à une IA 
+  Séquence 6 — Jour 2 (60 min)
+Objectif(s) :
+5. Prendre en compte les questions environnementales, éthiques et les obligations relatives au respect de la vie privée (RGPD) et à la déontologie professionnelle.
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Rappel de différents points à travers le PIX 
+Afin de repartir sur de bonnes bases, nous proposerons aux participants de découvrir le PIX et sa sphère "IA". Ce sera l'occasion de présenter les compétences digitales du citoyen européen et sa version éducative. La présentation faite, les participants pourront réaliser quelques épreuves liées à la collaboration et donc réinvestir certains points vus le jour de formation précédent.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de renforcer les attendus qui constituent des balises claires et opérationnelles précisant ce que l’on cherche à faire atteindre par ces élèves.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Le participant est amené à découvrir progressivement et individuellement les défis PIX, en particulier ceux liés à la sphère Intelligence artificielle. Il participe avant et après à une réflexion méta sur les compétences digitales à l'école.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Une fois la présentation faite et les premiers échanges terminés, chaque participant est amené à découvrir l'outil d'évaluation et de se jauger en fonction de ce qu'il a appris la journée précédente. 
+L'aide entre pairs est possible, occasion d'aborder succinctement cet autre aspect de la collaboration (selon le nombre de professeurs présents...).
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+- le DigiCom et sa version edu 
+(Bolle Jean-Philippe. DigCompEdu - Compétences digitales. Genially,https://view.genially.com/5bfd46a49cdfea1ac21 cf11e/interactive-content-digcompedu-compete nces-digitales. Consulté le 24 mai 2024.) 
+- S. Connac, Apprendre avec les pédagogies coopératives, ESF éditions. 
+ Outils: 
+Pix (version classique) ou Pix de la FWB pour ceux qui ont un compte 
+  Séquence 7 — Jour 2 (120 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Comment enseigner en classe avec l’IA 
+Dans un monde où les liens, les documents, les sites, les informations multimodales se multiplient, il est pour beaucoup difficile de s'y retrouver et donc de distinguer les bonnes informations 
+efficacement. Dans ce module, le participant découvrira comment mieux accompagner les élèves en travaillant la méthodologie de la dissertation, en travaillant l’étude critique d’un document, étudier les liens entre IA et fake news, apprendre à distinguer la réalité historique des représentations biaisées ou fictives.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent aux élèves de développer des attitudes de décentration, de doute, de recherche et de remise en question de leurs représentations. Elles les font entrer progressivement dans la
+culture scientifique.
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Une fois de plus, il ne s'agit pas de proposer une présentation frontale de 2h: après de brèves présentations, le participant sera chaque fois confronté à des exercices de prise en mains des trois types d'outils numériques: l’agent conversationnel, Claude IA, Mistral AI et ChatPDF 
+Collectivement, on réfléchira aux avantages et inconvénients propres aux deux types d'outils tout en découvrant les séquences créées par les participants. On terminera par une réflexion collective sur la question de l’analyse, du développement de l’esprit critique face aux flux de vraies et fausses informations accessibles en ligne...  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+La comparaison des outils permet à chacun d'avoir les avantages et les faibles de chaque type d'outil. 
+Les défis et exercices facilitent leur prise en mains. 
+Certaines présentations et certains échanges encouragent la réflexion et la prise de conscience par rapport à la gestion réfléchie des données.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• Kit esprit critique des RochDur
+https://lesrochdur.com/kit-esprit-critique/ 
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+Outils: 
+•  Agents conversationnels 
+•  Mistral Ai ou Claude AI 
+•  Équipes à la Teams 
+  Séquence 8 — Jour 2 (60 min)
+Objectif(s) :
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Développer des pédagogies innovantes 
+Générer des illustrations historiques, imaginer une uchronie, concevoir la représentation d’un commerce du futur.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent les mises en relation avec les visées transversales des domaines 6 « Créativité, engagement et esprit d’entreprendre »
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Une fois déterminés les besoins du groupe par rapport à la pédagogie innovante(sondage), le participant découvrira différents scénarios où l’IA peut aider à développer des pédagogies innovantes.  
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Cette séquence, modulable selon les besoins du groupe, repose sur des mises en situation pratique. Le participant passe donc d'une prise en mains individuelle un travail entre pairs.  
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf)
+Outils 
+Outils 
+• Exercices liés aux outils IA en groupe 
+• Large language models (LLM) 
+  Séquence 9 — Jour 2 (120 min)
+Objectif(s) :
+2. Rechercher et identifier les outils numériques adaptés afin de répondre aux intentions pédagogiques;
+3. Analyser et expérimenter les effets de l'intelligence artificielle (des outils numériques)  sur l'apprentissage  (y compris l'évaluation), sur mon enseignement, sur la gestion de la classe et sur ma posture d'enseignant.
+4. A partir de mises en situation, construire une réflexion critique de l'intelligence artificielle en identifiant leurs limites et leurs plus-values
+Décrivez les étapes de la séquence et les liens avec la suite de la formation. :
+
+Nous terminons la journée et la formation par comment réaliser une carte interactive. 
+ Comment réaliser une carte interactive avec Google Earth à l’aide d’un agent conversationnel.  
+En quoi les éléments au sein de cette séquence sont-ils utiles pour les pratiques professionnelles des participants ? :
+
+Ces pratiques permettent de mettre en place les stratégies adéquates en termes d’évaluation formative, de différenciation et de remédiation immédiate pour atteindre les différents niveaux des attendus du cours de FHGES
+Au travers de quelles activités ou actions les participants mobilisent-ils les apports de cette séquence ? :
+
+Les participants en groupe proposeront des activités où les élèves seraient amenés à utiliser les outils IA en fonction des éléments cités ci-dessus.
+En quoi les éléments au sein de cette séquence rencontrent-ils les objectifs visés ? :
+
+Le travail facilite le réinvestissement de tout ce qui a été appris tout en terminant par une collaboration qui pourrait continuer au-delà de la formation. 
+L'aide entre les pairs, pertinente dans une telle formation, renforce la prise en main des outils découverts durant les deux journées de formation.
+Précisez les ressources utilisées issues de la littérature scientifique ou non :
+
+• les référentiels de Formation historique, géographique, économique et sociale (https://ifpc-fwb.be/v5/documents/tc/refFHGES.pdf) 
+• Utiliser l'IA en histoire-géographie Écrit par Ludovic Chevassus, Paul Fermon, Elodie Thedenat-Clivier Ed. Belin éducation 
+Outils 
+•  Google Earth, Maps. 
+
+4. Sessions RFI / collectives (9 session(s))
+Sessions RFI
+Commentaires matériel RFI :
+Matériel standard :   • Classe de cours standard avec mur blanc ou écran de projection (tables et chaises)  Matériel spécifique :   • Wifi   • TBI (ordinateur non fourni)
+  RFI #1  |  2  —  RFI-Secondaire-Hainaut 1  |  23/11/2026 → 24/11/2026
+Note info : Wallonie Picarde (Tournai) Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #2  |  4  —  RFI-Secondaire-Bruxelles 1  |  30/11/2026 → 01/12/2026
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #3  |  5  —  RFI-Secondaire-Brabant wallon  |  18/01/2027 → 19/01/2027
+Note info : Province du Brabant wallon Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #4  |  7  —  RFI-Secondaire-Hainaut 2  |  25/01/2027 → 26/01/2027
+Note info : Hainaut Sud (Charleroi + Chimay + Beaumont) Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #5  |  9  —  RFI-Secondaire-Liège 1  |  01/02/2027 → 02/02/2027
+Note info : Liège ville + Huy-Waremme Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #6  |  12  —  RFI-Secondaire-Namur  |  15/02/2027 → 16/02/2027
+Note info : Province de Namur Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #7  |  13  —  RFI-Secondaire-Bruxelles 2  |  15/03/2027 → 16/03/2027
+Note info : Région Bruxelles-Capitale Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #8  |  18  —  RFI-Secondaire-Hainaut 3  |  05/04/2027 → 06/04/2027
+Note info : Hainaut Centre (Ath+Mons+La Louvière) Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+  RFI #9  |  20  —  RFI-Secondaire-Liège 2  |  12/04/2027 → 13/04/2027
+Note info : Liège ville + Verviers Formateurs titulaires : Vinciane DUCOULOMBIER [validé] Formateurs remplaçants : Samuel MUSIQUE [validé] Lieu : 
+
+5. Prix RFI (par session)
+Grille tarifaire RFI
+Support pédagogique :
+0.00 EUR /pers → Total : 0.00 EUR
+Matériel didactique :
+0.00 EUR
+Repas :
+0.00 EUR /pers/jour → Total : 0.00 EUR
+Locaux :
+0.00 EUR /jour → Total : 0.00 EUR
+Honoraires :
+1380.00 EUR
+Autres frais :
+0.00 EUR
+TVA (0 %) :
+0.00 EUR
+Total HT :
+1380.00 EUR
+Total TTC :
+1380.00 EUR
+Document généré automatiquement — IFPC — 30/09/2026
