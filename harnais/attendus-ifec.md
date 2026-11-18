@@ -2,7 +2,8 @@
 
 > Synthèse des documents officiels (dossier `IFEC-MP_Formations_27-29_pub01/`). Chaque affirmation
 > renvoie à sa source. **Les objectifs des lots sont recopiés mot pour mot** : ils doivent être
-> collés tels quels dans le formulaire.
+> collés tels quels dans le formulaire. Texte brut des PDF officiels, pour y chercher une règle :
+> `harnais/officiels-txt/`.
 
 ## 1. Calendrier
 
@@ -35,6 +36,16 @@
 | G137 | **uniquement Isabelle Fievet et Jean-Philippe Bolle** |
 
 Chaque lot : **5 formations au maximum pour toute l'ASBL** (CSC § 2.2, Annexe 2).
+
+> **Le « XXX » des intitulés et objectifs (G131, G133)** désigne la discipline. Le formulaire dit
+> seulement « Copiez-collez la formulation du programme général » (Annexe 2, p. 5) : il ne dit
+> **pas** s'il faut remplacer XXX. **Règle PedagokIT : remplacer XXX par le nom de la discipline**
+> (ex. « dans la discipline/secteur français »), sans rien changer d'autre au texte.
+> *(décision J.-P. Bolle, 2026-11-18)*
+>
+> Le formulaire demande aussi un **bloc distinct** par formation quand les formations
+> « concernent des disciplines ou des secteurs distincts » (Annexe 2, p. 5) : une même formation
+> déclinée en français et en mathématiques occupe donc **deux** des 5 places du lot.
 
 ### G131 — Choix des outils numériques et intégration dans les apprentissages dans la discipline/le secteur XXX au regard des orientations méthodologiques des programmes
 
@@ -115,8 +126,26 @@ L'annexe 5 renvoie, pour ces trois lots, aux mêmes ressources :
 | Différenciation (lots G001-G003, utile pour G133) | « La différenciation, une réponse individuelle et collective » ; « L'approche évolutive et le dispositif de différenciation et d'accompagnement personnalisé (DDAP) » |
 
 > **Lacune** : l'annexe 5 ne contient **pas** de ligne « Programme secondaire — Français ».
-> Le formateur de français cite le programme du réseau sous son titre exact, à vérifier.
 > L'annexe 4 (tuto extranet) explique comment accéder à ces outils sur l'extranet du réseau.
+> Les titres exacts des programmes sont sur l'**extranet SeGEC** (connexion requise), pas sur le
+> site public : les demander au formateur s'il a un accès.
+
+**Programmes de français du réseau (SeGEC)** — liste de l'extranet, fournie par J.-P. Bolle le
+2026-11-10 :
+
+| Niveau | Titre et code |
+|---|---|
+| Tronc commun | S1 Programme D/2025/7362/3/12 ; S2 Programme D/2026/7362/3/08 (« version provisoire » en novembre 2026) |
+| 1er degré commun | Programme FRANÇAIS D/2005/7362/3/13 |
+| 1er degré différencié | Cadre de référence FRANÇAIS D/2008/7362/3/09 |
+| 2e degré général et technologique | Programme FRANÇAIS D/2018/7362/3/09 |
+| 3e degré général et technologique | Programme FRANÇAIS D/2018/7362/3/37 |
+| 2e et 3e degrés TQ et P, 7es TQ et P | Programme FRANÇAIS D/2014/7362/3/19 |
+
+Ressource SeGEC utile en français (site public, secteur Français) : « L'évaluation au cours de
+français. Observer – adapter – soutenir » (décembre 2025, annexe du programme S1), qui contient
+une section « Évaluation formative à l'aide d'outils numériques ».
+**Autres disciplines** : même démarche (extranet), à compléter ici au fil des fiches.
 
 ## 6. Le formulaire (Annexe 2) — rubriques d'une formation et limites
 
@@ -129,19 +158,30 @@ Limites **espaces compris** ; au-delà, le texte est **coupé**. Le copier-colle
 | Texte d'accroche (chapeau du catalogue) | — | 250 car. |
 | Objectifs pédagogiques généraux | oui | copiés du vademecum, seulement ceux rencontrés |
 | Objectifs pédagogiques spécifiques | ≥ 1 | 700 car. |
-| Répartition des heures | oui | 200 car. — **min. 3 h** ; à l'IFEC, 1 jour = 6 h |
+| Nombre d'heures envisagées | oui | **min. 3 h** (une demi-journée) ; aucune durée maximale ni imposée |
+| Répartition des heures | oui | 200 car. — à l'IFEC, 1 jour = 6 h ; ex. « 3 journées complètes, 2 demi-jours » |
 | Répartition flexible ? | oui | oui / non |
 | Modalité(s) | ≥ 1 | présentiel, distance synchrone, hybride, immersion, e-learning, conférence intégrée, supervision collective |
 | Articulation des modalités | si plusieurs | 250 car. |
-| Nombre max. de participants + justification | — | défaut 24 ; justification 300 car. (**compte dans l'analyse qualitative**) |
+| Nombre **minimum** de participants | **oui** | — |
+| Nombre max. de participants + justification | — (facultatif) | défaut 24 ; justification 300 car. (**compte dans l'analyse qualitative**) |
 | Régions | oui | Bruxelles, Brabant wallon, Hainaut, Liège, Namur, Luxembourg |
-| Local / matériel / matériel facturé | — | 200 / 200 / 500 car. |
+| Local / matériel | — | cases à cocher + « Autre » 200 car. chacun (le wifi et le projecteur sont des cases de **matériel**, pas de local) |
+| Matériel facturé à l'IFEC | — | nature, prix, commentaire 500 car. — prix fixé par l'ASBL |
 | **Contenus abordés** | oui | **2000 car.** — notions, cadre théorique, références ; signature pédagogique et ancrage réseau ; réponse aux objectifs généraux |
 | **Méthodologie** | oui | **2000 car.** — activités, outils d'animation, engagement ; posture réflexive ; transfert |
 | Niveau d'enseignement | oui | ici : **uniquement secondaire** (sauf choix contraire) |
 | Type d'enseignement | oui | ordinaire / spécialisé / pôles |
+| Spécificités du public spécialisé ou des pôles | **si spécialisé ou pôles coché** | 250 car. — public visé et prise en compte de ses spécificités |
 | Public(s) cible(s) | oui | enseignant, enseignant débutant, éducateur, direction… |
 | Années | oui | S1 à S7 |
+| Filière(s) | oui (secondaire) | Transition ; Qualification ; Aucune |
+| Type de formation | oui | disciplinaire / sectorielle ou interdisciplinaire (transversale) |
 | Discipline (secondaire) | si disciplinaire | Français, Langues modernes, Mathématiques, Sciences, Sciences économiques et sociales, Sciences humaines, Formation numérique… |
 | Précisions sur le public | — | 300 car. |
-| Formateurs (nombre, mode, nom, mail, GSM) + remplaçant | oui | — |
+| Nombre de formateurs | oui | + mode d'intervention si plusieurs (conjointement / successivement) |
+| Formateurs (nom, prénom, mail, GSM) | oui (au moins 1) | — |
+| Remplaçant éventuel | — | nom, prénom, mail, GSM (ou « Aucun remplaçant ») |
+
+> Le modèle `fiches/_modele.md` suit ce formulaire rubrique par rubrique, dans l'ordre (contrôle
+> complet du 2026-11-18 contre `harnais/officiels-txt/annexe2-formulaire-v2.5.txt`, p. 4-9).

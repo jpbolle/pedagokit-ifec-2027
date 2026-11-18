@@ -1,0 +1,3037 @@
+INSTITUT DE FORMATION DE L’ENSEIGNEMENT
+CATHOLIQUE
+IFEC
+MARCHÉ PUBLIC 2027
+Vadémécum à destination des
+formateurs externes
+Version 2 : 2026
+Comment introduire une offre de formation dans le cadre de
+l’appel d’
+offres public de l’IFEC pour 2027-2029 ?
+Date de lancement : le 3 novembre 2026
+Date de clôture : le 4 décembre 2026
+1
+Se connecter à E-procurement
+2
+Accéder aux documents du marché
+3
+Identifier le lot et les objectifs pédagogiques
+4
+Compléter le formulaire
+5
+Soumettre son (ses) offre(s)
+1- SE CONNECTER À E-PROCUREMENT
+Lien vers la plateforme
+Scénario 1 : J’ai déjà un compte e-procurement
+Pour savoir comment vous connecter avec un compte existant : cliquez ici !
+Scénario 2 : Je n’ai pas de compte e-procurement
+S’
+enregistrer sur e-procurement et créer son compte entreprise (pour les soumissionnaires
+belges et non-belges).
+1- S’
+enregistrer comme utilisateur d’
+entreprise
+Le tuto ici !
+2- Créer une entreprise
+Après vous être inscrit en tant qu
+’
+utilisateur d’
+entreprise, vous devez créer/ajouter votre
+entreprise.
+Le tuto ici !
+2- ACCÉDER AUX DOCUMENTS DU MARCHÉ
+À partir du 3 novembre...
+Dans e-procurement,
+A - RECHERCHEZ L’AVIS DE MARCHÉ DANS LE BULLETIN DES ADJUDICATIONS (BDA) :
+Cliquez ici et recherchez IFEC dans la barre de recherche.
+Vous y trouverez l’
+avis de marché pour le fondamental / le secondaire et les pôles territoriaux
+:
+IFEC-MP
+Formations
+_
+_
+27-29 « Désignation de formateurs pour l’Institut de Formation de
+l’Enseignement Catholique »
+B - CONFIRMEZ VOTRE PARTICIPATION
+Dans le dossier, cliquez sur le bouton
+“Confirmer participation” et confirmez dans le
+pop-up.
+Vous serez automatiquement redirigé vers l’Espace de soumission.
+⟶ Consultez l’
+article “Confirmer sa participation”
+pour plus d’informations.
+Si vous soumissionnez à plusieurs (groupements, sous-traitants…), dans la partie
+“1a
+identification”
+, dans la section
+“
+”
+entreprises participantes
+, ajoutez toutes les entreprises
+participantes en cliquant sur
+“Ajouter une entreprise
+”
+.
+⟶ Consultez le point 1 de ce tuto pour plus d’informations. JUSTE ICI !
+Dans la partie “1c - Documents”
+, vous aurez accès aux différents documents du marché :
+Cahier spécial des charges
+Annexe 1 : Le vademecum (reprenant les tutoriels et les différents lots et objectifs)
+Annexe 2 : Le formulaire de dépôt d’
+offre
+Annexe 3 : La signature pédagogique de l’IFEC
+Annexe 4 : Le tutoriel pour se connecter à l’Extranet
+Annexe 5 : Le tableau Excel reprenant les outils réseau
+Annexe 6 : La circulaire comptable
+3- IDENTIFIER LE LOT ET LES OBJECTIFS PÉDAGOGIQUES
+Code du lot:
+Grâce à la table des matières identifier
+l’
+orientation.
+Cliquez sur ce qui vous intéresse.
+Identifiez le code du lot GXXX pour les écoles et PXXX pour les Pôles
+La table des matières ici pour les écoles
+et ici pour les pôles
+Écoles
+Pôles
+Remarques
+· Les lots G050, G056, G059, G064, G074, G075, G077, G078, G079, G080 concernent également
+les pôles territoriaux.
+· Les lots G009 à G017 ; G021-G022 ; G068 ; G070 ; G113 sont destinés uniquement à
+l’
+enseignement secondaire.
+· Les lots G045 à G047 concernent uniquement l’
+enseignement maternel.
+Les objectifs pédagogiques généraux
+Identifiez les objectifs pédagogiques généraux que votre formation travaillera.
+Ces objectifs seront à retranscrire dans le formulaire.
+Vous pouvez sélectionner autant d’
+objectifs pédagogiques généraux que nécessaire.
+Pour en savoir plus sur les types d’
+objectifs, c’est ici !
+4- COMPLÉTER LE(S) FORMULAIRES
+Procédure
+À partir du dossier dans E-procurement, téléchargez le modèle de formulaire sur votre
+ordinateur sans en modifier le format.
+Un seul formulaire doit être déposé par lot.
+Il n
+’
+est pas nécessaire de présenter plusieurs formations lorsque les adaptations
+concernent uniquement le public cible, les modalités de mise en œuvre ou d’
+autres
+ajustements ne modifiant pas les objectifs pédagogiques généraux de la formation.
+Cela peut se décliner au sein des descriptions et déroulement.
+En revanche, lorsqu
+’
+une proposition porte sur des objectifs pédagogiques généraux
+différents (tels que définis dans la description du lot) ou sur des disciplines différentes,
+plusieurs formations peuvent être présentées dans un même formulaire.
+Dans ce cas :
+Complétez les différents rubriques dupliquées au sein du formulaire pour chacune des
+formations proposées (Formation 1/5 ; Formation 2/5, Formation 3/5 ...).
+Lorsque plusieurs formations sont proposées dans un même lot, la note attribuée à l’
+offre
+correspondra à la moyenne des notes obtenues par chacune de ces formations pour les
+différents critères d’évaluation. Cette moyenne sera utilisée pour établir le classement de
+l’
+offre.
+Compléter les différentes rubriques du formulaire
+IDENTIFICATION DU SOUMISSIONNAIRE
+Type de soumissionnaire
+Veuillez sélectionner « personne physique » et compléter la partie « personne physique » si
+vous soumissionnez en tant qu
+’individu (indépendant…).
+Veuillez sélectionner « personne morale » et compléter les informations pour la « personne
+morale » si vous soumissionnez en tant que groupement de personnes physiques ou morales
+constitué autour d’
+un objet commun, et doté d’
+une personnalité juridique propre (SA, SRL, SC,
+ASBL, fondations…).
+Veuillez sélectionner « groupement sans personnalité juridique » et compléter les informations
+pour le « groupement sans personnalité juridique » si vous soumissionnez en tant que société
+simple, GOE...
+Sélection de l’arrondissement
+Si vous soumissionnez comme personne physique ou personne morale, merci de sélectionner
+l’
+arrondissement lié à l’
+adresse de la personne physique ou du siège social de la personne
+morale.
+Sous-traitance
+Si vous envisagez une sous-traitance de votre formation (totale ou partielle), veuillez indiquer
+les coordonnées du (des) sous-traitant(s). L’IFEC n
+’
+aura aucun lien contractuel avec ces
+éventuels sous-traitants.
+IDENTIFICATION DE L’OFFRE DE FORMATION
+La procédure prévoit le dépôt d’
+une seule formation par lot. Toutefois, si vous souhaitez
+proposer plusieurs formations distinctes au sein d’
+un même lot (d’
+une même offre), vous
+pouvez en déposer jusqu
+’à 5.
+Cette possibilité est utile lorsque les formations poursuivent des objectifs pédagogiques
+généraux différents OU concernent des disciplines ou des secteurs distincts.
+En revanche, s
+’il s
+’
+agit simplement de déclinaisons d’
+une même formation, vous pouvez
+indiquer les différentes variantes dans les rubriques relatives aux modalités, au déroulement
+et/ou à la méthodologie.
+⟶ Choisissez le lot auquel répond votre offre en suivant cette procédure.
+BUGDGET
+Concernant le budget, vous devrez déterminer le prix unitaire par heure d'
+activation d'
+une
+formation proposé pour le présent lot.
+Tous les prix mentionnés dans l’
+offre doivent être obligatoirement libellés en EURO sans
+décimale. Les prix offerts sont des prix TTC.
+Par heure d’
+activation, on entend l’heure de formation effectivement reçue par le
+bénéficiaire, qu
+’
+elle soit :
+Présentielle
+Synchrone à distance
+Asynchrone, notamment sous la forme d’
+un module d’
+e-learning.
+Il s
+’
+agit donc d’
+une heure effectivement dispensée.
+Le nombre de formations qui seront activées, le nombre de groupes à former ainsi que le
+nombre total d'heures commandées ne sont pas connus au moment de la passation du
+marché.
+Les prestations seront commandées selon les besoins effectifs du pouvoir adjudicateur.
+Sont notamment inclus dans les prix :
+les frais administratifs et de secrétariat ;
+les frais d’
+assurance ;
+le coût de la conception de la documentation relative aux services et éventuellement
+exigée par le pouvoir adjudicateur ;
+la préparation de la formation, la dispense de la formation et le suivi ;
+les droits intellectuels éventuels relatifs à la formation ;
+le temps de déplacement.
+Du fait de son offre, le soumissionnaire est censé avoir établi son prix en connaissance de
+cause et donc avoir inclus dans son prix total toutes les prestations et accessoires
+nécessaires à l’
+exécution du marché qui en font partie intégrante de façon à réaliser le
+marché de manière complète, rien excepté ni réservé.
+Les frais remboursables distinctement tels que définis dans la circulaire comptable (frais de
+déplacement, de logement, photocopies) reprise en annexe 6 du présent cahier spécial des
+charges, ne doivent pas être intégrés dans ce prix.
+Remarques pour les formations asynchrones :
+Pour un module e-learning intégré dans un processus de formation dont la durée
+apprenant est de 2 heures représente 2 heures d'
+activation, quel que soit le temps
+consacré à sa conception.
+Pour les formations asynchrones, la facturation est établie sur la base de la durée
+apprenant du module commandé et non sur la base du nombre de participants qui le
+suivent. Le nombre de participants utilisant le module ne multiplie pas le nombre
+d'heures d'
+activation facturables. Exemple : un module asynchrone d'
+une durée
+apprenant de 3 heures mis à disposition de 50 participants donne lieu à la facturation
+de 3 heures d'
+activation et non de 150 heures.
+LOGISTIQUE
+Le nombre habituel de participants à une formation est de 24. Après cela, nous clôturons
+les inscriptions (sauf dispositif exceptionnel - grand groupe).
+SI vous désirez modifier ce nombre, il est indispensable pour nous que vous justifiez les
+raisons pédagogiques de ce besoin.
+Cette justification nous permettra d’identifier la réelle plus-value pédagogique d’
+un petit
+groupe ou d’
+un groupe supérieur à 24. Ce critère entrera en ligne de compte lors de
+l’
+analyse qualitative de l’
+offre.
+La rubrique matériel est à compléter à titre informatif et n
+’
+est pas pris en compte dans la
+note attribuée au budget.
+FORMATION X/5
+Proposition d’intitulé spécifique de formation
+Proposer un titre pas trop long, clair et accrocheur qui donne envie aux bénéficiaires de
+s
+’inscrire à la formation.
+Texte d’accroche
+Il s
+’
+agit du texte qui sera diffusé lors des différentes communications de l’IFEC et qui
+présentera votre formation aux participants potentiels. Il convient donc qu
+’il soit à la fois
+attractif, court et fasse apparaître quelques éléments importants de la formation.
+Cadre et finalités
+Objectifs pédagogiques généraux voir ici
+Objectifs pédagogiques spécifiques
+Il s
+’
+agit des objectifs que vous fixez pour atteindre les objectifs pédagogiques généraux,
+ce que l’
+on fait concrètement en formation.
+Le type d’
+objectifs ? C’est ici !
+ARCHITECTURE DU PARCOURS
+La formation doit comporter au moins trois heures d’
+activité de formation équivalant à une
+demi-journée (cf. art.6.1.5 du Code, Livre 6, titre 1er).
+Modalités
+Si vous choisissez plusieurs modalités, expliquez l’
+articulation entre elles ou comment votre
+formation peut être animée de différentes façons selon le besoin.
+DÉROULEMENT
+Les éléments indiqués dans cette section ne sont pas destinés à être publiés, mais
+serviront aux Comités de sélection pour analyser et valider votre offre.
+Contenus
+Cette rubrique vise à expliciter les fondements scientifiques, théoriques et conceptuels
+de la formation ainsi que leur articulation avec les objectifs poursuivis.
+Vous êtes invités à :
+expliquer comment il intègre l’
+ancrage réseau (outils, mission de l’école chrétienne,
+adaptation au public) au sein de sa formation.
+expliquer comment il intégre les principes de la signature pédagogique au sein de sa
+formation.
+⟶ Retrouvez les éléments relatifs à la signature pédagogique (annexe 3) et à
+l’ancrage réseau dans le tableau excel joint (annexe 5)
+identifier les principaux concepts, notions, cadres théoriques, références
+scientifiques, résultats de recherche, modèles ou ressources de référence mobilisés
+dans la formation ;
+expliquer en quoi ces éléments soutiennent l’
+atteinte des objectifs pédagogiques
+généraux et spécifiques visés ;
+Il est attendu que les références présentées ne constituent pas un simple inventaire de
+’
+ressources, mais qu
+elles soient mises en lien avec les apprentissages visés et les
+modalités prévues dans la formation.
+NB : l’
+annexe 4 vous explique comment vous créer un compte Extranet SeGEC afin d’
+avoir accès aux
+documents du réseau.
+Méthodologie
+Cette rubrique vise à décrire les choix méthodologiques qui soutiennent les
+apprentissages, l’
+analyse des pratiques et le développement professionnel des
+participants.
+Le soumissionnaire est invité à :
+décrire les activités proposées, les méthodes pédagogiques privilégiées, les outils
+d’
+animation utilisés ainsi que les modalités prévues pour favoriser l’
+engagement actif
+des participants ;
+préciser les moments, démarches ou dispositifs permettant aux participants
+d’
+adopter une posture réflexive (questionnement, analyse de situations, échanges de
+pratiques, autoévaluation, retour sur expérience, etc.) ;
+expliciter les leviers mis en place pour favoriser le transfert des apprentissages dans
+les pratiques professionnelles (mises en situation, expérimentations, études de cas,
+outils réutilisables, plans d'
+action, accompagnement du réinvestissement, etc.).
+Il est attendu que la description mette en évidence la cohérence entre les activités
+proposées, les objectifs de la formation et les effets recherchés sur les pratiques
+professionnelles des participants. Une attention particulière sera portée à l'implication
+active des apprenants, à la qualité du travail réflexif proposé et aux dispositifs soutenant
+le transfert dans les contextes professionnels.
+5- SOUMETTRE SES OFFRES
+Test signature
+La plateforme E-Procurement permet de tester votre méthode de
+’
+signature pour s
+assurer que votre ordinateur, votre navigateur et votre
+lecteur de cartes sont configurés correctement pour signer avec l’
+e-ID.
+Testez ICI
+Pour les entreprises non-belges, le lien ci-dessus indique également ce
+qu
+’il convient de faire si on signe avec une signature autre que l’
+eID (les
+informations se trouvent dans la dernière partie de la page).
+Sélectionner les lots
+Sur la plateforme e-procurement, le sous-menu de gauche vous permet de cliquez sur Lots.
+Vous pourrez alors y indiquer les lots que vous souhaitez soumettre.
+⟶ Pour plus d’informations, consultez l’
+article Sélectionner les lots.
+Veillez à bien vérifier la correspondance entre les lots cochés sur e-Procurement et les lots
+que vous indiquerez dans la partie 1 de vos offres.
+Déposer les documents
++ liste de tous les documents à déposer ICI !
+⟶ Pour déposer vos documents, suivez le tuto suivant : JUSTE ICI !
+Les curriculum vitae des formateurs assurant la formation (en première ligne) sont à
+déposer sur la plateforme E-Procurement.
+Après avoir rédigé votre offre au format libre, déposez-la dans e-procurement.
+Ce marché public utilise le DUME intégré à E-Procurement. Vous devez donc le remplir
+directement dans votre espace de soumission.
+⟶ Pour vous guider pas à pas, veuillez suivre le lien : JUSTE ICI !
+Quelques points d’
+attention :
+Il ne faut remplir qu
+’
+un seul DUME pour l’
+ensemble du marché.
+Il n
+’
+y a pas de critères de sélection (capacité technique, financière...) dans ce marché,
+le contenu du DUME ne reprendra dès lors que les informations générales et les motifs
+d’
+exclusion. Il est donc normal que vous ne deviez rien compléter concernant les
+critères de sélection.
+Parmi les 3 boutons proposés en bas à droite de l’écran, veillez à ne pas cliquer sur le
+1er bouton, sinon toutes les données enregistrées pour le document DUME seront
+perdues.
+Veillez à bien sauvegarder régulièrement en cliquant sur le bouton et d’
+office lorsque
+vous avez terminé de compléter votre document.
+La version PDF définitive sera ajoutée à vos documents (section 1c Documents) de
+soumission après finalisation de votre soumission. Vous n
+'
+avez donc pas besoin d'
+ajouter
+vous-même cette version PDF à vos documents.
+En cas de soumission pour plusieurs entreprises
+Si vous soumissionnez en tant que Groupement ou si vous faites appel à des sous-traitants,
+un document DUME distinct est créé pour chaque entreprise participante.
+⟶ Pour plus d’informations, veuillez consulter le tuto en cliquant sur le lien JUSTE ICI !
+Nommage des documents
+Veuillez nommer les documents que vous déposez dans E-Procurement selon le principe
+suivant :
+NOM de la personne physique (pas le prénom) ou dénomination de la personne morale – nom
+représentatif du type de document (CV, Casier (extrait de casier judiciaire), mandat, proc
+(procuration), statuts, SOC (dettes sociales), FISC (dettes fiscales), FAIL (faillite).
+Ex. : DREAMFORMATION-MANDAT
+Pour les offres, merci d’indiquer le code de lot en fin de nom du document
+Ex. : DUPOND-OFFRE-G012
+Pour les CV déposés par les soumissionnaires personne morale, veuillez terminer le nom du
+document par le nom du formateur :
+Ex. : DREAMFORMATION–CV–DURAND
+Si vous déposez plusieurs documents du même type, merci de terminer le nom par un numéro
+(1, 2, 3…) permettant de les différencier
+Ex. : DREAMFORMATION-Casier1 DREAMFORMATION-Casier2
+Finaliser et signer
+Une fois que vous avez fini de préparer votre soumission, vous devez la finaliser et la signer.
+⟶ Pour savoir comment faire : JUSTE ICI !
+Envoyer la soumission
+Enfin, vous devez envoyer votre offre/demande de participation à l'
+acheteur.
+Après avoir envoyé, vous avez terminé votre soumission !!
+Tant que la date limite de soumission n
+’
+est pas passée, il est possible de modifier votre
+soumission : JUSTE ICI !
+Rappel des documents à déposer :
+Le curriculum vitae des formateurs qui interviendront dans la formation.
+Extrait de casier judiciaire personne physique et/ou morale (à se procurer auprès
+du service casier judiciaire central). Modèle : 596.1-32
+Dans le cas d'
+une personne morale : les extraits de casier judiciaire doivent être fournis
+non seulement pour la société, mais également pour tous les membres des organes
+d’
+administration, de gestion ou de surveillance ainsi que pour les personnes disposant
+d’
+un pouvoir de représentation, de décision ou de contrôle. Les documents doivent dater
+de moins de six mois à la date limite de dépôt des offres.
+Pour les entreprises (personnes morales ou physiques) non belges :
+⟶ Document correspondant à l'
+attestation ONSS en Belgique, permettant de vérifier
+l'
+absence de dettes sociales.
+⟶ Document correspondant à l'
+attestation du SPF Finances en Belgique, permettant
+de vérifier l'
+absence de dettes fiscales.
+Les éventuelles procurations.
+Pour les éventuels mandataires : l'
+acte authentique ou sous seing privé qui leur
+accorde ces pouvoirs ou une copie scannée de la procuration. Il fait, le cas échéant,
+référence au numéro de l'
+annexe du Moniteur belge qui a publié l'
+extrait de l'
+acte
+concerné, en mentionnant la/les page(s) et/ou le passage concernés.
+Si personne morale : Les statuts de la société permettant de vérifier que l’
+extrait
+du casier judiciaire déposé, est bien celui d'
+une personne apte à engager la société
+Certificat de non-faillite (à se procurer auprès du greffe du tribunal de commerce
+compétent)
+DUME (Document Unique de Marché Européen) intégré automatiquement une fois
+complété et sauvergardé.
+COMPLÉMENTARITÉ ET NON CONCURRENCE
+ANCRAGE RÉSEAU:
+Retrouvez une liste non exhaustive et des recommandations en cliquant sur ce symbole :
+Quelques références de base
+La signature pédagogique
+Les programmes
+Les orientations pédagogiques (fonda)
+La salle des profs (fonda et secondaire)
+La mission de l’école Chrétienne
+La pyramide d’intervention
+L’
+approche évolutive
+L’évaluation au service de l’
+apprentissage
+Notes et brochures de référence SeGEC
+...
+L’ancrage réseau fonda L’ancrage réseau sec
+en cours de réalisation
+en cours de réalisation
+en cours de réalisation
+TABLE DES MATIÈRES
+POUR LES ÉCOLES
+POUR LES ÉCOLES
+Clique sur
+l’orientation
+pour y accéder
+directement !
+Approche évolutive
+Orientation 1 - Lots G001 à G007 : Mettre en œuvre l’
+approche évolutive de prise en
+charge des difficultés ou besoins d’
+apprentissage de tous les élèves via notamment des
+pratiques de différenciation pédagogique, l’
+observation fine, et l’évaluation diagnostique
+et formative
+Décrochage scolaire
+Orientation 2 - Lot G008 : Comprendre et s
+’
+approprier les enjeux et les attentes du
+système éducatif en vue de favoriser l’
+accrochage scolaire
+Parcours d’
+enseignement qualifiant (PEQ)
+Orientation 3 - Lots G009 à G017 : Comprendre et s
+’
+approprier le nouveau Trajet
+enseignement qualifiant et la gouvernance du qualifiant
+Éducation aux choix
+Orientation 4 - Lots G018 à G022 : Comprendre et s
+’
+approprier l’
+approche éducative de
+l’
+orientation
+Être enseignant
+Orientation 5 - Lots G023 à G027 : Développer une approche critique et réflexive (à la
+fois l'
+aspect collectif et individuel) en vue d’
+adapter et d’
+ajuster ses pratiques
+professionnelles au service des apprentissages des élèves
+Travail collaboratif
+Orientation 6 - Lots G028 à G038 : Encourager et développer les pratiques collaboratives
+et l'intelligence collective à partir des besoins de la communauté éducative et des
+partenaires externes
+Programme
+Orientation 7 - Lots G039 à G042 : Mettre en œuvre et mettre en œuvre les référentiels
+et les programmes
+Inégalités
+discriminations
+Orientation 8 - Lots G043 à G047 : Contribuer à réduire les inégalités scolaires et les
+Français Langue de Scolarisation
+Orientation 9 - Lots G048 à G053 : Soutenir le développement des compétences
+professionnelles liées au Français - langue d’
+apprentissage et au Français - langue de
+scolarisation
+Inclusion
+Orientation 10 - Lots G054 à G064 : Contribuer à rendre l’école inclusive
+Écologie
+Orientation 11 - Lots G065 à G067: Contribuer à la transition socio écologique
+Référent
+Orientation 12 - Lots G068 à G074 : Soutenir le développement des compétences
+professionnelles liées à des fonctions ou missions spécifiques, suivant les étapes de la
+carrière
+Gestion (fonction de sélection/promotion)
+Orientation 13 - Lots G075 à G084 : Soutenir le développement des compétences
+professionnelles des fonctions de sélection et de promotion
+Novices
+Orientation 14 - Lots G085 à G086 : Soutenir l'insertion professionnelle des membres du
+personnel novices
+Évaluation
+Orientation 15 - Lots G087 à G095 : Promouvoir l'évaluation au service des
+apprentissages
+Citoyenneté
+Orientation 16 - Lots G096 à G107 : Développer la dimension démocratique et citoyenne
+dans les pratiques professionnelles et l'
+organisation de la vie scolaire
+Pilotage
+Orientation 17 - Lots G108 à G117 : Élaborer, mettre en œuvre et évaluer des processus et
+des pratiques de pilotage, de leadership au sein des écoles, dans une perspective
+collaborative et de développement professionnel et organisationnel
+Bienêtre
+Orientation 18 - Lots G118 à G129 : Développer un climat scolaire positif
+Numérique
+Orientation 19 - Lots G130 à G138 : Contribuer au développement de la transition
+numérique dans l’
+enseignement
+TABLE DES MATIÈRES
+Clique sur
+l’orientation
+pour y accéder
+directement !
+POUR LES PÔLES
+POUR LES PÔLES
+Attention aux références des lots ! Certains lots sont également destinés aux écoles.
+À ce titre, elles peuvent être intégrées dans des lots dont la numérotation diffère au sein
+du présent document. Les soumissionnaires sont invités à veiller attentivement aux
+références des lots lors de la remise de leur offre.
+Orientation 1 - Lots P001 - P006 : Comprendre, s
+'
+approprier, questionner les enjeux de
+l’école inclusive et les missions des membres des pôles territoriaux, notamment la posture
+d'
+accompagnant, les aspects juridiques, éthiques et déontologiques, le cadre
+institutionnel, les compétences transversales, les enjeux et les attentes du système
+éducatif et leur traduction en termes de pratiques professionnelles.
+Orientation 2 - Lots P006 - P007 : Saisir les enjeux, encourager et développer les
+pratiques collaboratives, l’intelligence collective et le travail d'équipe au niveau des pôles
+territoriaux, la collaboration avec les équipes éducatives, les C.PMS et les partenaires
+externes.
+Orientation 3 - Lots P008 - P012 : Soutenir le développement des compétences
+professionnelles, faire évoluer ses connaissances et ses pratiques dans sa fonction de
+membre de l’équipe pluridisciplinaire des pôles territoriaux, de coordonnateur des pôles
+territoriaux.
+Orientation 1 : Mettre en œuvre l’approche évolutive de prise en charge des
+difficultés ou besoins d’apprentissage de tous les élèves via notamment des
+pratiques de différenciation pédagogique, l’observation fine, et l'évaluation
+diagnostique et formative
+LOT G001
+Objectifs
+pédagogiques
+généraux
+LOT G002
+Objectifs
+pédagogiques
+généraux
+LOT G003
+Objectifs
+pédagogiques
+généraux
+LOT G004
+Objectifs
+pédagogiques
+généraux
+1.Mise en œuvre de l'approche évolutive de prise en charge de la
+difficulté ou du besoin au sein de mon école
+1.Intégrer la philosophie et les finalités de l'approche évolutive dans le contexte
+spécifique de l'école.
+2.S'approprier et mettre en oeuvre les principes conceptuels et pédagogiques de
+l'approche évolutive tels qu'ils se concrétisent dans les orientations
+méthodologiques des programmes de l'enseignement catholique.
+3.Identifier les ressources réseau disponibles, notamment en matière d'outillage
+pédagogique.
+2. Mise en œuvre de pratiques de différenciation pédagogique au
+service des besoins d'apprentissage (approche transversale)
+1.Mettre en œuvre des outils pédagogiques permettant la différenciation ( dans
+la classe, via l'accompagnement personnalisé et des dispositifs spécifiques
+complémentaires).
+2. Après expérimentation, partager sur l'adaptabilité de l'outillage utilisé et
+l'ajuster aux pratiques.
+3.Identifier et mettre en œuvre en contexte les conditions favorables au
+développement des pratiques de différenciation pédagogique.
+3.Fondements et mise en œuvre de la différenciation didactique au
+regard des orientations méthodologiques des programmes (dans la
+discipline/le secteur XXX)
+1.Identifier dans les orientations méthodologiques des programmes du réseau
+de la discipline / du secteur XXX la dimension de différenciation didactique et
+les modalités de mise en œuvre.
+2. Concevoir et expérimenter des dispositifs de différenciation didactique en
+référence aux attendus et orientations énoncés dans les programmes.
+3. Analyser les effets et l' impact de ces dispositifs sur les apprentissages en
+contexte.
+4.Partager ses pratiques de différenciation didactique avec des collègues de la
+même discipline/du même secteur.
+4. Mise en œuvre du dossier d'accompagnement de l'élève : un point
+d'appui pour la prise en charge des besoins d'apprentissage
+1.Mettre en œuvre la méthodologie et les outils pédagogiques relatifs au
+dossier d'accompagnement de l'élève
+2. Apprendre à relever des indices des difficultés rencontrées par l'élève (à
+partir de la pyramide de prise en charge des difficultés)
+3. Identifier et mettre en œuvre les conditions favorables à l'utilisation du
+dossier de l'élève, dans une démarche d'équipe
+O1. APPROCHE ÉVOLUTIVE
+Retour
+Table des matières
+LOT G005
+Objectifs
+pédagogiques
+généraux
+LOT G006
+Objectifs
+pédagogiques
+généraux
+LOT G007 Objectifs
+pédagogiques
+généraux
+5. Mise en œuvre d'outils pour créer de la motivation et un climat de
+classe propice aux apprentissages
+1.Construire et mettre en œuvre en contexte des dispositifs et des outils
+pédagogiques :
+⟶ pour travailler avec un groupe classe les dimensions d'entraide, de
+responsabilité, de coopération
+⟶ pour développer chez les élèves la motivation, l'autonomie, la résilience, le
+respect, le sentiment d'efficacité personnelle, la persévérance, le dépassement de
+soi
+2.Identifier et mettre en œuvre des modalités de mesure de l'efficacité de ces
+dispositifs et outils
+3. Partager avec ses collègues sur l'impact et les effets de ces outils
+6. Orientations méthodologiques des programmes (dans la
+discipline/le secteur XXX) pour soutenir la mobilisation des élèves
+1. Concevoir des dispositifs d'apprentissage mobilisant les élèves, en référence
+aux orientations méthodologiques des programmes
+2. Explorer et mettre en œuvre en contexte des outils diversifiés qui suscitent
+la participation active des élèves et entretiennent le sens des apprentissages,
+pour approcher la discipline /le secteur XXX
+3. Etablir les bases de la création et du suivi d'une démarche qui développe les
+compétences telles que l'engagement, la curiosité, l'esprit d'équipe, la
+citoyenneté, la créativité...
+4. Formaliser les démarches et ressources qui permettent de créer pour les
+élèves des expériences positives de réussite développant et entretenant la
+motivation et l'engagement
+7. Mise en œuvre du PIA dans mon école
+1. Intégrer la philosophie et les finalités du PIA dans le contexte spécifique de
+l'école
+2. Définir le cadre d'un PIA porteur de sens pour tous les acteurs de l'école
+(enseignants, élèves, parents)
+3. Identifier et mettre en œuvre en contexte les conditions favorables au
+développement d'une dynamique de suivi rapproché des élèves à l'aide du PIA
+O1. APPROCHE ÉVOLUTIVE
+Orientation 2 : Comprendre et s’approprier les enjeux et les attentes du système
+éducatif en vue de favoriser l’accrochage scolaire
+LOT G008
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+8. Compréhension et prévention du décrochage scolaire dans mon
+école
+1.Intégrer la philosophie et les finalités de l'accrochage scolaire dans le
+contexte spécifique de l'école
+2. Identifier les ressources de soutien internes au réseau/ à l'école
+3. S'approprier et mettre en oeuvre l'outillage conceptuel et méthodologique
+mis à disposition par le réseau
+4.Construire une démarche d'analyse des situations de décrochage et
+d'accrochage scolaire dans son école
+5.Mettre en œuvre les outils de l'entretien motivationnel pour développer
+une attitude d'accompagnement efficace face au jeune en décrochage
+6. Apprendre à construire une relation partenariale avec les structures
+d’accompagnement proches de son école (maillage de proximité)
+7. Elaborer, mettre en oeuvre et évaluer des projets concrets, inscrits dans le
+contexte, à même de mobiliser les différents acteurs
+O2. DÉCROCHAGE
+Orientation 3 : Comprendre et s’approprier le nouveau Trajet d’enseignement
+qualifiant et la gouvernance du qualifiant
+LOT G009
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G010 Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G011
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G012
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+9. Enseignement qualifiant : quelle vision, quelles orientations,
+quelles ressources au sein de l'enseignement catholique ?
+1. Identifier comment mettre en œuvre le sens, les enjeux, la philosophie et le cadre
+juridique et organisationnel de la gouvernance du qualifiant dans le contexte
+propre de l'enseignement catholique (vision éducative et mode d'organisation).
+2. Identifier et mobiliser les ressources de soutien internes au réseau en lien avec le
+qualifiant.
+3. Construire et mettre en oeuvre une politique interne à l'établissement qui
+s'articule avec cette vision globale et les nouveaux modes de concertation.
+10. Apprentissage modulaire (PEQ) dans le secteur XXX au regard des
+orientations méthodologiques des programmes
+1. Concevoir des séquences, des situations d'apprentissage et des évaluations en
+lien avec ce nouveau trajet PEQ sur 3 ans et inscrire ce travail dans le cadre de la
+vision pédagogique, des programmes et des outils du réseau.
+2. Élaborer et mettre en place un schéma de passation sur trois ans en prenant
+appui sur les programmes et outils pédagogiques du réseau.
+3. Au regard des programmes, planifier et organiser les apprentissages en vue des
+épreuves formatives et certificatives.
+4.Construire des situations d'évaluation à valeur formative et certificative
+professionnellement significatives en tenant compte des différents continuums.
+11. Fondements et mise en œuvre de la différenciation dans le PEQ
+au regard des orientations méthodologiques des programmes dans
+la discipline/le secteur XXX
+1.Au regard des orientations méthodologiques des programmes, mettre en
+œuvre en contexte des démarches et outils didactiques permettant la
+différenciation pour soutenir les apprentissages dans la discipline/ le secteur
+XXX au sein du PEQ.
+2. Apprendre à évaluer les effets de ces démarches et outils dans le contexte
+spécifique de son école/sa classe.
+3. Partager avec des collègues de la discipline/du secteur sur ses pratiques de
+différenciation.
+12. Mise en œuvre des dispositifs de remédiation structurelle dans le
+PEQ au regard des orientations méthodologiques des programmes
+dans la discipline/le secteur XXX
+1.Au regard des orientations méthodologiques des programmes, identifier des
+modalités de remédiation structurelle au sein du PEQ et leurs conditions de
+mise en œuvre.
+2. Mettre en œuvre l'outillage lié aux programmes sur cette dimension de
+remédiation.
+3. Coconstruire des dispositifs de remédiation, les mettre en œuvre et en évaluer
+l'impact et les effets.
+4. Partager avec des collègues de la discipline/du secteur sur ses pratiques.
+O3. PEQ
+Retour
+Table des matières
+LOT G013 Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G014
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+13. Construction et mise en œuvre de l'évaluation au service des
+apprentissages au sein du PEQ au regard des orientations
+méthodologiques des programmes dans la discipline/le secteur XXX
+1.Apprendre à définir des objectifs d'apprentissage en fonction des programmes
+mis en œuvre au sein du PEQ.
+2.Construire des grilles d'évaluation en lien avec les orientations méthodologiques
+des programmes.
+3.Apprendre à réaliser des feed-back utiles pour l'élève.
+4.Travailler la mesure des acquis.
+5.Partager avec des collègues de la discipline/du secteur sur ses pratiques.
+14. Mise en œuvre du dossier d'apprentissage au sein du PEQ, au regard
+des orientations méthodologiques des programmes dans la
+discipline/le secteur XXX
+1.Identifier comment enrichir sa pratique pédagogique par l'utilisation du dossier
+d'apprentissage au regard des programmes et outils pédagogiques afférents.
+2.Mettre en œuvre le dossier d'apprentissage en contexte et évaluer son impact et
+ses effets dans la discipline/le secteur XXX.
+3. Partager avec des collègues de la discipline/du secteur sur ses pratiques.
+LOT G015
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G016
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+LOT G017
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+15. Articulation entre cours généraux et cours techniques et de
+pratiques professionnelles dans le secteur XXX, en prenant
+appui sur les orientations méthodologiques des programmes
+1.Découvrir et mettre en œuvre des pistes de mise en lien entre les cours de la
+formation commune et les différentes OBG du secteur XXX, au regard des
+programmes.
+2.Mettre en oeuvre l'outillage afférent aux programmes pour communiquer et
+interagir en équipe au sein de son école au service d'une éducation transversale
+3. En s'appuyant sur les programmes et outils afférents, scénariser et mettre en
+œuvre des apprentissages riches et professionnellement significatifs.
+4. Mettre en place au sein de son école des projets visant à une meilleure
+articulation des cours d'une OBG et ceux de la FGC et en évaluer l'impact et les
+effets.
+16. Articulation de la 3e année avec le PEQ au sein de mon école
+1.Découvrir et mettre en œuvre des pistes de mise en lien entre les cours de la formation
+commune et les différentes OBG du secteur XXX, au regard des programmes.
+2.Mettre en oeuvre l'outillage afférent aux programmes pour communiquer et interagir
+en équipe au sein de son école au service d'une éducation transversale.
+3. En s'appuyant sur les programmes et outils afférents, scénariser et mettre en œuvre
+des apprentissages riches et professionnellement significatifs.
+4. Mettre en place au sein de son école des projets visant à une meilleure articulation des
+cours d'une OBG et ceux de la FGC et en évaluer l'impact et les effets.
+17. Mise en œuvre de l'éducation au(x) choix au sein du PEQ dans mon
+école
+1. Identifier les conditions de mise en œuvre des pratiques d'éducation aux choix au
+sein du PEQ dans son école.
+2. Co-construire et mettre en oeuvre des activités contextualisées propices à l'éducation
+aux choix au sein du PEQ dans son école.
+3. Partager avec des collègues sur les pratiques et activités mis en oeuvre en vue d'en
+évaluer l'impact et les effets.
+O3. PEQ
+Retour
+Table des matières
+Orientation 4 : comprendre et s’approprier l’approche éducative de l’orientation
+LOT G018 Objectifs
+pédagogiques
+généraux
+LOT G019
+Objectifs
+pédagogiques
+généraux
+LOT G020
+Objectifs
+pédagogiques
+généraux
+LOT G021
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+18. Éducation au(x) choix et approche éducative de l'orientation
+1. S'approprier le concept d'Education au(x) choix tel que déployé par
+l'enseignement catholique au regard du sens, de la philosophie, du cadre
+conceptuel et juridique de l'approche éducative de l'orientation.
+2. 3. Identifier les ressources internes au réseau sur cette thématique.
+Identifier et contextualiser les visées transdisciplinaires des programmes du
+réseau en lien avec l'éducation au(x) choix.
+19. Mise en œuvre des démarches et outils d'éducation au(x) choix
+dans mon école (approche transversale)
+1. S'approprier et mettre en œuvre en contexte des outils méthodologiques
+pour la construction d'activités d'éducation aux choix dans son école, dont le
+carnet de bord de l'élève.
+2. Ajuster ses pratiques éducatives et pédagogiques en tenant du contexte
+dans lequel se déploie l'éducation au(x) choix.
+3. Créer des activités propices à l'éducation au(x) choix, les mettre en œuvre et
+en évaluer l'impact et les effets.
+4. Partager avec des collègues sur les pratiques et activités mis en place.
+20. Mise en œuvre de l'éducation au(x) choix dans la
+discipline/secteur XXX au regard des orientations méthodologiques
+des programmes
+1. Mettre en œuvre les orientations méthodologiques des programmes
+dans la discipline/le secteur XXX en lien avec la démarche d'éducation
+au(x) choix.
+2. Construire et mettre en oeuvre des séquences pédagogiques
+soutenant l'éducation aux choix.
+3. Faire du lien entre le programme de Formation Manuelle, Technique et
+Technologique et la rencontre des métiers.
+4. Partager avec des collègues de la discipline/du secteur sur l'impact et
+les effets de ce qui a été mis en oeuvre.
+21. Formation référent Education au(x) choix (volet "réseau")
+1. Comprendre comment la vision de l'éducation au(x) choix au sein de l'enseignement
+catholique est en cohérence avec l'approche éducative de l'orientation.
+2. 3. Identifier les ressources internes au réseau sur l'éducation au(x) choix.
+Apprendre à outiller ses collègues sur les pratiques en matière d'éducation aux choix
+en prenant appui notamment sur les démarches et outils développés par le réseau.
+4. S'inscrire dans une perspective de soutien à la construction d'un plan d’action clair au
+sein de l'école pour créer un projet avec tous les partenaires internes et externes
+concernés.
+5. Apprendre à développer des stratégies pour l'implantation et le maintien du plan
+d'action dans la durée.
+6. Identifier les conditions favorables à la mise en œuvre et le développement de
+l'éducation au(x) choix au sein de l'école, notamment en termes de travail collaboratif.
+O4. ÉDUCATION AUX CHOIX
+Retour
+Table des matières
+LOT G022 Uniquement
+secondaire
+22. Mise en œuvre de dispositifs contextualisés pour l'insertion
+professionnelle en alternance
+Objectifs
+pédagogiques
+généraux
+1. Identifier comment, dans son école, faire émerger les représentations
+des élèves de l'alternance et les faire évoluer de façon à les sensibiliser au
+métier
+2. Co-construire des pistes d'action contextualisées, les expérimenter et les
+évaluer afin d'optimiser les dispositifs d'accueil en entreprise et renforcer
+le lien école/entreprise
+3. Mobiliser dans son école le contrat d'alternance dans toutes ses
+composantes
+O4. ÉDUCATION AUX CHOIX
+Orientation 5 : Développer une approche critique et réflexive (à la fois l’aspect
+collectif et individuel) en vue d’adapter et d’ajuster ses pratiques professionnelles
+au service des apprentissages des élèves
+LOT G023
+Objectifs
+pédagogiques
+généraux
+23. Mise en œuvre de démarches et d'outils de mesure de l'impact de
+mes pratiques professionnelles
+1. Apprendre à mesurer l'impact de ses pratiques professionnelles dans une
+perspective de monitorage : à partir de quelles données puis-je réfléchir?
+Sur quels objets (postures, gestes professionnels…)
+2. Mettre en œuvre, tester et évaluer différents outils de recueil dans sa
+classe/son école
+3. Apprendre à réajuster ses pratiques et sa posture en fonction des
+informations récoltées
+4. Partager avec des collègues sur ces démarches et outils
+LOT G024
+24. Exercice de mon métier/ma fonction au sein de
+l'enseignement catholique et de mon école
+05. ÊTRE ENSEIGNAT
+Objectifs
+pédagogiques
+généraux
+1. S'approprier la vision éducative et pédagogique de l'enseignement
+catholique dans sa diversité à travers les textes de référence
+2. Explorer les spécificités de l'organisation et du fonctionnement de
+l'enseignement catholique
+3. Elucider les missions liées à sa fonction/son métier au regard des
+dispositions statutaires et du mode d'organisation propres de
+l'enseignement catholique
+4. 5. Identifier les services internes pouvant soutenir l'exercice des missions
+Analyser, comprendre et mettre en œuvre le contexte, les us et coutumes
+de son établissement scolaire, en lien avec son propre mode de
+fonctionnement et les orientations de l'enseignement catholique
+6. Explorer et s'approprier les orientations éducatives et pédagogiques des
+"fondateurs" en lieu avec la dimension "héritage" de Mission de l'Ecole
+chrétienne
+Retour
+Table des matières
+LOT G025
+25. Développement de la réflexivité collective et des pratiques
+collaboratives à partir des orientations méthodologiques des
+programmes dans la discipline/le secteur XXX
+Objectifs
+pédagogiques
+généraux
+LOT G026
+Objectifs
+pédagogiques
+généraux
+1. Apprendre à s'autoriser des pistes de changement de pratiques en lien avec les
+orientations méthodologiques des programmes et des outils afférents dans la
+discipline/le secteur XXX
+2. En s'appuyant sur les programmes, partager ses pratiques professionnelles au
+service de la réussite des élèves
+3. Expérimenter comment travailler entre enseignants du secteur/de la discipline
+XXX dans une logique collaborative (coordination, construction de séquences/
+épreuves communes, échanges de préparation/séquences ou de bonnes
+pratiques, correction collective, choix d’un manuel, coévaluation…).
+4. Apprendre à évaluer les effets et l'impact de ces pratiques professionnelles
+collaboratives dans la discipline/le secteur XXX
+26. Mise en œuvre de la réflexivité au sein de mon école (approche
+transversale)
+1. Apprendre à donner du sens à l'acte de réflexivité dans toute pratique
+professionnelle au sein de son établissement
+2. Opérationnaliser les gestes professionnels au service de la réflexivité au
+sein de l'établissement scolaire
+3. Mettre en œuvre et évaluer en contexte des outils d'auto-analyse et de co-
+analyse de ses pratiques réflexives
+LOT G027
+05. ÊTRE ENSEIGNAT
+Objectifs
+pédagogiques
+généraux
+27. Le portfolio, support réflexif pour ma fonction
+1. Remobiliser la philosophie générale du portfolio et ses plus-values
+2. Développer sa capacité d’observation, de questionnement, d’analyse et de
+régulation de ses pratiques professionnelles en mobilisant le portfolio
+3. Mettre en œuvre la démarche du portfolio afin de
+⟶ porter un regard réflexif et critique sur l'exercice de ses missions (liées à la
+fonction spécifique) dans son établissement
+⟶ mieux identifier comment prendre sa place au sein de l'équipe éducative en
+ajustant sa posture et ses gestes professionnels
+⟶ mieux structurer son processus formatif
+4. Identifier les conditions à mettre en place au sein de l'école pour une
+utilisation optimale du portfolio au service du développement professionnel
+5. Articuler cette démarche avec la dynamique de reddition de compte et de
+leadership partagé/distribué au sein de son établissement
+Retour
+Table des matières
+Orientation 6 : Encourager et développer les pratiques collaboratives et
+l'intelligence collective à partir des besoins de la communauté éducative et des
+partenaires externes
+LOT G028
+Objectifs
+pédagogiques
+généraux
+LOT G029
+Objectifs
+pédagogiques
+généraux
+LOT G030
+Objectifs
+pédagogiques
+généraux
+LOT G031
+Objectifs
+pédagogiques
+généraux
+LOT G032
+Objectifs
+pédagogiques
+généraux
+28. Faire équipe : un enjeu pour mon école et pour moi
+1. Apprendre à construire une vision collective du métier au regard des enjeux de
+l'établissement scolaire, du projet éducatif et de l'organisation de l'enseignement
+catholique.
+2. Mettre en œuvre et évaluer des démarches et des outils pour "faire équipe" dans
+le contexte spécifique de l'école, dans une dynamique d'intelligence collective.
+29. COenseignement - CO intervention : vers une Collaboration efficace
+avec les Collègues dans mon école
+1. Dégager, au regard du contexte spécifique de son école, les caractéristiques, les
+avantages et les limites d’un coenseignement favorisant le soutien aux
+apprentissages.
+2. Mettre en œuvre des outils de collaboration et de communication efficaces entre
+les intervenants internes à son école.
+3. Expérimenter et évaluer des pratiques de co-enseignement en contexte et en
+mesurer l'impact et les effets.
+30. Mise en œuvre de la collaboration avec des acteurs externes de
+proximité
+1. Identifier les acteurs externes avec lesquels collaborer, leurs rôles et zones
+d'action respectives.
+2. Identifier et mettre en œuvre des pistes contextualisées pour développer un
+langage commun entre les différents acteurs concernés.
+3.Élaborer, mettre en œuvre et évaluer des pratiques efficaces de
+collaboration au regard du contexte spécifique de son école.
+31. Mise en œuvre des temps collaboratifs en école
+1.Apprendre à déterminer, au regard du contexte de l'école, ce qui fait objet de
+collaboration et au service de quoi.
+2. Clarifier les balises organisationnelles internes qui encadrent les temps collaboratifs
+en terme de timing et de contenus.
+3. Mettre en œuvre et évaluer des outils permettant de structurer le travail collaboratif
+au sein de son école.
+32. Construction d'une continuité pédagogique et éducative au sein de
+mon école
+1. Identifier les conditions à mettre en œuvre pour permettre des transitions
+optimales au sein de l'école dans une perspective de continuité pédagogique et
+éducative.
+2. 3. Construire un plan d'action contextualisé, le mettre en œuvre et l'évaluer.
+Partager avec des collègues sur l'impact et les effets des initiatives mises en
+oeuvre.
+06. TRAVAIL COLLABORATIF
+Retour
+Table des matières
+LOT G033
+Objectifs
+pédagogiques
+généraux
+LOT G034
+Objectifs
+pédagogiques
+généraux
+LOT G035
+Objectifs
+pédagogiques
+généraux
+LOT G036
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+33. Continuum didactique dans la discipline/le secteur XXX au regard
+des orientations méthodologiques des programmes
+1. S'outiller pour élaborer une planification en continuité d'année en année en
+s'appuyant sur les orientations méthodologiques des programmes du réseau
+dans la discipline/le secteur XXX.
+2. Identifier les conditions favorables à la mise en œuvre et au développement de
+cette continuité didactique au sein de son établissement.
+34. Mise en œuvre d'outils d' intelligence collective au service du travail
+collaboratif au sein de mon école
+1.Identifier les conditions de mise en œuvre de l'intelligence collective au service
+des pratiques collaboratives au sein de son établissement en fonction de ses
+réalités propres.
+2.Mettre en œuvre des démarches et outils pour enclencher les processus
+participatifs, développer l'engagement et la motivation de chaque membre , et
+aligner les partenaires d'une équipe sur une vision partagée.
+3.Échanger avec des collègues sur l'impact et les effets des outils et démarches
+mis en œuvre en contexte.
+35. Mise en œuvre du leadership de la direction au service du travail
+collaboratif dans mon école
+1. Identifier et travailler, au regard du contexte spécifique de l'école, la
+posture de la direction au sein du travail collaboratif.
+2. Mettre en œuvre et évaluer des outils d'intelligence collective au service
+de cette dynamique au sein de son établissement.
+3. Partager entre directions sur ses pratiques professionnelles en matière
+de travail collaboratif.
+06. TRAVAIL COLLABORATIF
+36. Mise en œuvre de la communication interne au service du travail
+collaboratif dans mon école
+1. Identifier les enjeux d’une communication interne régulière au service du
+travail collaboratif, au regard du contexte spécifique de son école.
+2. Mettre en œuvre et évaluer un outillage en matière de travail collaboratif
+dans la dimension "communication"
+.
+3. Identifier les conditions du développement d'une communication interne
+qui soutienne les dynamiques collectives, au plus près de la réalité de son
+école.
+LOT G037
+Objectifs
+pédagogiques
+généraux
+37. Construction et mise en œuvre au sein de l'école d'un climat de
+confiance et de solidarité propice à une dynamique collective et
+individuelle de développement professionnel
+1. Identifier les facteurs qui permettent de favoriser le climat de confiance et
+de solidarité au sein des équipes auxquelles on appartient.
+2. Construire, mettre en oeuvre et évaluer des activités qui favorisent la
+relation de confiance au sein des équipes.
+3. Mettre en oeuvre des démarches et outils d'interaction optimale entre les
+membres de son équipe.
+LOT G038
+Objectifs
+pédagogiques
+généraux
+38. Mise en œuvre du partenariat Ecole/Famille dans mon école : co-
+éducation et triangulation
+1. Découvrir et reconnaitre les zones d'influence et de responsabilité de
+chacun des acteurs de son école dans une perspective de triangulation et de
+co-éducation.
+2. Mettre en œuvre et évaluer des outils de communication vers les familles
+autour du vécu scolaire, au regard de la réalité de son école.
+3. Construire et mettre en œuvre des démarches formelles et informelles pour
+créer du lien avec les familles (réunions de parents, conseil de participation,
+projets d'inclusion, interventions de parents en classe, échanges
+spontanés...).
+4. Partager avec les collègues sur les effets et l'impact de ces démarches.
+Orientation 7 : Mettre en oeuvre les référentiels et les programmes
+LOT G039
+Objectifs
+pédagogiques
+généraux
+39. L'immersion (stage) pour actualiser ses connaissances scientifiques,
+techniques et didactiques (projet Entr'Apprendre)
+1. Mettre en œuvre des outils réflexifs qui permettent de débriefer son
+expérience de stage (Projet Entr'apprendre).
+2. Identifier comment les différents acquis du stage pourront être mobilisés
+avec les collègues et avec les élèves.
+3. Partager son expérience de stage avec d’autres stagiaires au sein du
+secteur/de la discipline XXX.
+LOT G040
+Objectifs
+pédagogiques
+généraux
+40. Appropriation et mise en œuvre des programmes dans la
+discipline/le secteur XXX
+1. S'approprier des lunettes méthodologiques pour lire, comprendre et utiliser
+les programmes (dans le spécialisé : les balises F1,F2,F3).
+2. S’approprier, mettre en œuvre et évaluer les outils pédagogiques afférents.
+3. Concevoir, tester et évaluer des situations et séquences d’apprentissage.
+4. Partager avec des collègues sur les conditions et modalités de mise en
+œuvre des programmes et outils afférents.
+Retour
+Table des matières
+06. TRAVAIL COLLABORATIF
+O7. PROGRAMMES
+LOT G041
+Objectifs
+pédagogiques
+généraux
+LOT G042
+Objectifs
+pédagogiques
+généraux
+41. Décloisonnement des apprentissages au regard des orientations
+méthodologiques des programmes
+1. Identifier, en prenant appui sur les programmes, les dimensions
+d'interdisciplinarité, de multidisciplinarité et de pluridisciplinarité.
+2. Co-construire , mettre en œuvre et évaluer des démarches concrètes de
+décloisonnement entre les disciplines.
+3. Identifier et élaborer les conditions organisationnelles au sein de son
+établissement pour développer des démarches éducatives et pédagogiques
+permettant le décloisonnement.
+42. Pilotage pédagogique de l'implantation et de la mise en œuvre
+des programmes au sein de mon école
+1. Identifier les modalités de pilotage de l'implantation des programmes dans
+son établissement.
+2. Mettre en œuvre et évaluer des outils de pilotage pédagogique "réseau" sur
+cet enjeu.
+3. Partager entre directions sur les pratiques professionnelles mises en place,
+leur impact et leurs effets.
+Orientation 8 : Contribuer à réduire les inégalités scolaires et les discriminations
+LOT G043
+Objectifs
+pédagogiques
+généraux
+LOT G044
+Objectifs
+pédagogiques
+généraux
+43. Mise en œuvre de pratiques d'enseignement et de stratégies
+d'apprentissage efficaces dans ma classe pour réduire les inégalités
+scolaires et les discriminations
+1. Mettre en œuvre des grilles d'analyse et de décodage des stéréotypes, des
+préjugés et des inégalités scolaires dans sa classe.
+2. Construire, mettre en œuvre et évaluer des techniques et pratiques
+d'enseignement et des stratégies d'apprentissage visant à réduire les inégalités
+scolaires et les discriminations, en prenant appui en particulier sur les
+orientations méthodologiques des programmes.
+3. S'outiller pour créer des activités qui favorisent les découvertes et échanges
+autour de la multiculturalité en classe.
+4. Partager entre collègues sur l'impact et les effets de ces pratiques et stratégies
+contextualisées.
+44. Lutte contre les inégalités scolaires et les discriminations :
+comprendre et agir dans le contexte spécifique de l'école
+1. Mettre en œuvre des grilles d'analyse et de décodage des stéréotypes,
+préjugés et discriminations dans son école.
+2. Développer sa capacité à analyser les données chiffrées de l’école, en
+particulier la mesure des écarts de résultats.
+3. Construire, mettre en œuvre et évaluer des projets et des mesures
+concrètes pour mieux prendre en compte la diversité socioculturelle,
+socioéconomique, de genre, des origines, d'orientation sexuelle, de
+situations de handicap, et de tout autre facteur susceptible d'entrainer des
+discriminations.
+Retour
+Table des matières
+O7. PROGRAMMES
+O8. I,NÉGALITÉS
+LOT G045
+Uniquement
+maternelle
+Objectifs
+pédagogiques
+généraux
+45. La Maternelle, c'est essentiel : développer le langage oral et initier
+à la langue de scolarisation pour faire entrer tous les élèves dans les
+apprentissages
+1.En prenant en compte les spécificités du contexte de l’école et les
+caractéristiques de son public :
+⟶ S’approprier des outils et démarches pour observer et identifier les niveaux
+langagiers des élèves via des tests afin d’adapter ses démarches d’enseignement,
+de soutien et de suivi ;
+⟶ Concrétiser et mettre en œuvre les gestes professionnels à poser par les acteurs
+du maternel pour accompagner le développement du langage et de la langue de
+scolarisation.
+LOT G046
+Uniquement
+maternelle
+Objectifs
+pédagogiques
+généraux
+46. La Maternelle c'est essentiel : lever les malentendus sociocognitifs
+pour assurer les apprentissages de tous les élèves
+1.En prenant en compte les spécificités du contexte de l’école et les
+caractéristiques de son public :
+⟶ Développer les gestes professionnels qui permettent de proposer des
+stratégies d’entrées dans les apprentissages scolaires pour tous les enfants.
+⟶ Partager avec des collègues sur l'impact et les effets des stratégies mises en
+oeuvre.
+O8. I,NÉGALITÉS
+LOT G047
+Uniquement
+maternelle
+Objectifs
+pédagogiques
+généraux
+47. La Maternelle c'est essentiel : favoriser les transitions famille-
+école pour assurer un démarrage positif de la scolarité
+1.En prenant en compte les spécificités du contexte de l’école et les
+caractéristiques de son public, apprendre à :
+⟶ Identifier les besoins des parents en lien avec l’entrée à l’école maternelle de leur
+enfant dans le contexte de l’école et développer les gestes, attitudes et pratiques
+professionnelles ad hoc ;
+⟶ Identifier les besoins des enfants, concrétiser et mettre en œuvre les gestes,
+attitudes et pratiques professionnelles nécessaires à la transition famille-école ;
+⟶ Construire les repères dont ont besoin les enfants qui entrent à l’école pour
+comprendre le fonctionnement de la classe et de l’école.
+Retour
+Table des matières
+Orientation 9 : Soutenir le développement des compétences professionnelles
+liées au Français - langue d’apprentissage et au Français - langue de scolarisation
+LOT G048
+Objectifs
+pédagogiques
+généraux
+48. Élaboration d'une politique FLSco au sein de l'établissement scolaire
+: du plan de pilotage aux gestes professionnels
+1. Apprendre à situer les enjeux de la maîtrise de la langue scolaire comme
+facteur de réussite au sein de son établissement.
+2. Identifier, mettre en oeuvre et évaluer des modes d’organisation optimaux
+au service de la pédagogie du Français Langue de Scolarisation.
+3. Concevoir et mettre en oeuvre une approche pédagogique globale au
+niveau de l’établissement favorisant l’accès à la langue de scolarisation.
+LOT G049
+Objectifs
+pédagogiques
+généraux
+49. Mise en œuvre du FLA/FLSco et Daspa dans mon école/ma classe
+1. Mettre en œuvre concrètement dans le contexte de sa classe/son école des
+démarches et outils relatifs au FLA/FLSco et au Daspa.
+2. Se questionner sur la dimension langagière et culturelle des disciplines non
+linguistiques (mathématiques, sciences...) , en s'appropriant l'approche
+interdisciplinaire du FLA/FLSco au regard des programmes.
+LOT G050
+Objectifs
+pédagogiques
+généraux
+50. La diversité linguistique dans mon école/ma classe : une
+ressource éducative et pédagogique
+1. Apprendre à questionner les représentations des acteurs de son école liées
+aux langues et cultures et objectiver les représentations sociales autour des
+langues.
+2. Expérimenter des outils, ressources et pratiques spécifiques pour la mise en
+place de dispositifs pédagogiques menant à l'apprentissage de la langue de
+scolarisation au sein de son établissement.
+O9. FLSCO
+LOT G051
+Objectifs
+pédagogiques
+généraux
+51. Mise en œuvre d'outils didactiques pour rencontrer les divers profils
+langagiers et développer l'autonomie langagière
+1. Se questionner sur les dimensions langagières et culturelles de tout
+apprentissage à l'aune du contenu du programme relatif à l'autonomie
+cognitive et langagière.
+2. Développer sa capacité à opérer des choix didactiques en fonction des profils
+langagiers.
+3. Identifier, s’approprier et mettre en œuvre des outils, ressources et pratiques
+efficaces pour développer l'autonomie langagière dans le contexte de sa
+classe.
+4. Construire, mettre en oeuvre et évaluer des scénarios pédagogiques et
+didactiques adéquats aux situations concrètes.
+5. Apprendre à articuler un travail sur la langue de scolarisation dans sa classe
+grâce à des dispositifs pédagogiques et didactiques adaptés à la diversité du
+groupe (différenciation, groupes de besoin, approches plurilingues et
+interculturelles).
+Retour
+Table des matières
+LOT G052
+Objectifs
+pédagogiques
+généraux
+52. Formation référents FLSCO (volet réseau)
+1. Découvrir et mettre en œuvre les outils pédagogiques du réseau sur la
+dimension FLSCO en lien avec les visées transdisciplinaires et les
+orientations méthodologiques des programmes.
+2. S'outiller pour assurer un soutien aux enseignants de son école en
+matière de FLSCO (notamment au sein des dispositifs Daspa/Fla), en
+tenant compte du contexte spécifique.
+LOT G053
+Objectifs
+pédagogiques
+généraux
+53. Outils didactiques FLSCO dans le programme de la discipline XXX
+1. Au regard du programme XXX, apprendre à situer les enjeux de la maîtrise du
+français comme langue de scolarisation et appréhender les facteurs qui
+favorisent ou non cette maîtrise.
+2. Mettre en œuvre et utiliser des outils didactiques FLSCO liés aux programmes
+de la discipline XXX.
+3. Identifier comment, concrètement, articuler les cours des différentes disciplines
+non linguistiques avec le cours de français dans un échange gagnant-gagnant.
+4. Construire, mettre en oeuvre et évaluer une scénarisation didactique répondant
+aux orientations méthodologiques du programme XXX.
+5. Partager avec des collègues sur l'impact et les effets des outils et des scénarios
+didactiques mis en oeuvre.
+Orientation 10 : Contribuer à rendre l’école inclusive
+LOT G054
+Objectifs
+pédagogiques
+généraux
+54. Vers l'Ecole inclusive : accompagnement contextualisé des
+équipes de l'enseignement ordinaire dans la construction d'une
+école plus inclusive
+1. Identifier comment mettre en oeuvre le sens, les enjeux, la philosophie, le
+cadre conceptuel, juridique et organisationnel de l'école inclusive dans le
+contexte de son école, au regard de son projet éducatif et pédagogique et du
+projet éducatif de l'enseignement catholique.
+2. Identifier les missions, le rôle et la place des intervenants issus de son pôle
+territorial.
+3. Concevoir , mettre en oeuvre et évaluer des outils pour accompagner les
+équipes pédagogiques des écoles ordinaires de son pôle.
+4. Identifier et mettre en œuvre des dispositifs variés pour soutenir une école
+plus inclusive et examiner leurs conditions de mise en œuvre.
+55. Vers l'Ecole inclusive : un enjeu pour mon école et pour moi
+LOT G055
+convient
+aux Pôles
+Objectifs
+pédagogiques
+généraux
+1. Identifier comment mettre en oeuvre le sens, les enjeux, la philosophie de
+l'école inclusive dans le contexte propre de son école.
+2. Identifier le rôle de chacun au sein de l'école et du pôle , en fonction de
+ses missions, au sein de cette nouvelle dynamique.
+3. Identifier la place de son école au sein du nouveau système mis en place,
+en tenant compte du contexte spécifique.
+Retour
+Table des matières
+O9. FLSCO
+O10. INCLUSION
+LOT G056
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+LOT G057
+Objectifs
+pédagogiques
+généraux
+56. Vers l'Ecole inclusive : mise en place et évaluation des protocoles
+dans mon pôle territorial
+1. Identifier et déterminer le caractère raisonnable de l'aménagement en
+fonction des réalités de chaque école partenaire.
+2. Apprendre à construire, à structurer, à mettre en oeuvre et à évaluer un
+protocole en fonction des aménagements raisonnables (matériels,
+pédagogiques et organisationnels) dans les écoles partenaires.
+3. S'outiller pour construire un accompagnement dans l'utilisation du
+protocole qui fédère tous les acteurs du conseil de classe (enseignants,
+directions, CPMS).
+57. Vers l'Ecole inclusive : appropriation et mise en œuvre de la
+pyramide d'intervention
+1. 2. S'approprier le champ conceptuel de la pyramide d'intervention de prise en
+charge des difficultés et troubles d'apprentissage et des besoins spécifiques.
+Identifier, mettre en place et évaluer les stratégies éducatives,
+pédagogiques et didactiques qui en découlent.
+LOT G058
+Objectifs
+pédagogiques
+généraux
+58. Les programmes au service d'une Ecole inclusive dans la
+discipline/le secteur XXX
+1. Identifier comment les orientations méthodologiques des programmes de
+l'enseignement catholique dans le secteur/la discipline XXX permettent de
+s'inscrire dans une logique d'inclusion.
+2. S'approprier, mettre en œuvre et évaluer les outils pédagogiques afférents.
+3. Construire, mettre en oeuvre et évaluer des séquences d'apprentissage
+intégrant une démarche d'inclusion.
+4. Partager avec des collègues sur les conditions, l'impact et les effets de cette
+mise en œuvre.
+O10. INCLUSION
+LOT G059
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+LOT G060
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+59. Vers l'Ecole inclusive : mise en œuvre des aménagements
+raisonnables au sein de ma classe/mon école
+1. Etablir un état des lieux des pratiques d'aménagements raisonnables mis en
+place dans l'école/dans la classe.
+2.Construire et mettre en œuvre des pistes d'action pour améliorer l’encadrement
+des élèves à besoins spécifiques en tenant compte des besoins et des moyens
+de chaque enseignant et du contexte de son école.
+3. Partager avec des collègues sur les conditions, l'impact et les effets de la mise
+en œuvre des aménagements raisonnables dans sa classe/son école.
+60. Troubles d'apprentissage et handicaps en enseignement spécialisé :
+mise en œuvre de démarches, de pratiques et d'outils
+1. Identifier les ressources internes à l'établissement et au réseau (notamment
+l'outillage pédagogique spécifique) soutenant la gestion éducative et
+pédagogique des troubles d'apprentissage et handicaps dans son école.
+2. Mettre en œuvre des démarches, des pratiques et des outils adéquats au
+contexte de l'enseignement spécialisé permettant de gérer les troubles
+d'apprentissage/handicaps.
+3. Partager avec des collègues sur les impacts et effets de ces démarches,
+pratiques et outils.
+LOT G061
+Objectifs
+pédagogiques
+généraux
+LOT G062
+Objectifs
+pédagogiques
+généraux
+LOT G063
+Objectifs
+pédagogiques
+généraux
+LOT G064
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+61. Formation pratique à l’approche TEACCH (volet réseau du
+parcours TEACCH)
+1. 2. Mettre en pratique une capacité d’observation des principes de l'approche
+Teacch et des stratégies complémentaires dans le cadre de classes
+d’application (en lien avec le réseau, le type et le niveau d’enseignement du
+participant).
+Ajuster ses pratiques en fonction de cette observation dans les classes
+d'application.
+62. Formation de formateurs au sein des classes à pédagogie adaptée
+aux élèves avec autisme (volet réseau)
+1. Actualiser les connaissances d’une démarche éducative spécifique aux
+élèves ayant de l’autisme et, plus particulièrement, les thématiques les plus
+récentes en matière d’intervention intensive, de communication, des
+troubles du comportement.
+2. 3. Maitriser l’outil d’évaluation de la qualité des classes.
+Être à même d’utiliser les informations recueillies et de les transformer en
+projet d’évolution des pratiques dans les classes à pédagogie adaptée.
+4. Maitriser les outils utilisés par les stagiaires dans le cadre de leurs
+observations.
+5. Connaitre les travaux pratiques des stagiaires et guider ceux-ci dans ces
+travaux.
+6. Maitriser la gestion des stagiaires dans les classes ainsi que la préparation
+des élèves à ces visites.
+7. Utiliser une démarche d’observation d’un moment spécifique en classe et
+en retirer les éléments essentiels afin d’aménager un des aspects observés.
+63. Vers l'Ecole inclusive : mise en œuvre de pratiques
+d'évaluation dans ma classe prenant en compte les besoins
+spécifiques
+1.Concevoir et mettre en œuvre des évaluations différenciées pour
+soutenir les élèves à besoins spécifiques dans sa classe, en s'appuyant
+sur les ressources pédagogiques mises à disposition par le réseau.
+2. Apprendre à exploiter ces évaluations et ces analyses d’erreurs pour
+installer une remédiation efficace.
+64. Vers l'Ecole inclusive : développement de la collaboration et des
+partenariats au sein de mon pôle
+1.Co-construire, mettre en œuvre et évaluer les outils utilisés dans les
+établissements d'enseignement ordinaire du pôle.
+2. Construire, développer et entretenir une communauté de pratiques
+(échange de pratiques pédagogiques porteuses) avec les écoles du
+pôle territorial).
+O10. INCLUSION
+Orientation 11 : Contribuer à la transition socio-écologique
+LOT G065
+Objectifs
+pédagogiques
+généraux
+65. Transition socio-écologique et projet éducatif de l'enseignement
+catholique
+1. Appréhender les enjeux de la transition socio-écologique, au regard du projet
+éducatif et pédagogique de l'enseignement catholique.
+2. Découvrir et explorer des textes de la tradition chrétienne permettant de
+porter un regard réflexif sur ces questions.
+3. Identifier comment ces questions résonnent au regard du projet éducatif et
+pédagogique de son établissement.
+LOT G066
+Objectifs
+pédagogiques
+généraux
+LOT G067
+Objectifs
+pédagogiques
+généraux
+66. La transition socio-écologique au regard des programmes dans la
+discipline/le secteur XXX
+1. Identifier les liens entre les apprentissages disciplinaires et sectoriels liés
+aux programmes de l'enseignement catholique et les enjeux de la transition
+socio-écologique.
+2. Intégrer les savoirs, savoir-faire et compétences des différentes disciplines
+au service d’enjeux liés à la transition et à leurs conséquences.
+3. Concevoir, mettre en oeuvre et évaluer des séquences et situations
+d'apprentissage et des tâches d'évaluation sur ces thèmes.
+67. La transition socio-écologique au cœur de mon école/ma classe
+(approche transversale)
+1.Co-créer et mettre en œuvre , au sein de la classe/de l'école des activités
+pédagogiques pour sensibiliser les élèves à la transition socio-écologique
+et les motiver à agir dans la perspective du développement durable.
+2. Évaluer les effets et l'impact de ces activités.
+3. Partager avec des collègues sur les pratiques et activités mises en place.
+O11. ÉCOLOGIE
+Orientation 12 : Soutenir le développement des compétences professionnelles
+liées à des fonctions ou missions spécifiques, suivant les étapes de la carrière
+LOT G068 Uniquement
+secondaire
+68. Formation référent Éducation relative à l'environnement (volet réseau)
+Objectifs
+pédagogiques
+généraux
+Comprendre comment, en matière d'Education relative à l'environnement,
+les orientations de l'enseignement catholique rencontrent la vision
+développée au sein de la Fédération Wallonie-Bruxelles.
+Identifier les ressources mises à disposition par le réseau.
+Mettre en œuvre des stratégies et des outils (notamment de communication)
+pour mobiliser les acteurs de son école autour des enjeux de la transition
+socio-écologique et construire un plan d'actions.
+S'outiller pour identifier les compétences professionnelles à mobiliser en lien
+avec l'Education relative à l'environnement et soutenir la construction du
+projet personnel de formation sur cet objet.
+O12. RÉFÉRENT
+Retour
+Table des matières
+LOT G069
+de
+de
+Objectifs
+pédagogiques
+généraux
+LOT G070
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+69. Formation de base des référents (volet réseau)
+S'outiller pour se positionner dans sa fonction, ses missions, son rôle, sa
+posture et trouver sa légitimité dans l'équipe, dans le contexte spécifique l'école.
+Mettre en œuvre des outils et des techniques de communication et mobilisation en contexte.
+Identifier et mettre en œuvre les modalités d’un pilotage sans lien hiérarchique
+au sein de son établissement.
+Mettre en œuvre une démarche et des outils de gestion de projets collectifs au
+sein de son établissement.
+Identifier et mobiliser les ressources mises à disposition par l'enseignement
+catholique.
+70. Le soutien des enseignants stagiaires dans la discipline/le
+secteur XXX par les maîtres de stage : mise en œuvre des
+programmes
+1.Explorer et mettre en œuvre les différentes dimensions de l'intégration et de
+l'accompagnement d'un étudiant stagiaire dans la mise en œuvre des
+programmes dans la discipline/le secteur XXX.
+2. Mettre en place des pratiques collaboratives et réflexives entre acteurs de
+terrain, maîtres de stage et formateurs d’enseignants dans le cadre de la
+mise en œuvre des programmes d'une discipline/d'un secteur.
+3. Partager des pratiques entre maîtres de stage entre en vue d’une meilleure
+cohérence de l'accompagnement à la mise en œuvre des programmes.
+LOT G071 Objectifs
+pédagogiques
+généraux
+71. Formation référent PECA (volet réseau)
+1. Apprendre à cerner ses forces et son identité de référent culturel et
+artistique au sein de son école, dans le contexte spécifique de celui-ci.
+2. Mettre en œuvre et évaluer des démarches et outils pour soutenir et
+accompagner la construction d'un projet PECA dans une optique de
+démocratie culturelle au sein de son établissement.
+3. Partager avec des collègues sur les pratiques, démarches et outils mis en
+œuvre dans une perspective d'amélioration collective.
+LOT G072
+Objectifs
+pédagogiques
+généraux
+72. La dimension FMTTN dans les programmes XXX : mise en
+perspective et appropriation
+1. S'approprier des clés de lecture des programmes de l'enseignement
+catholique intégrant la dimension FMTTN.
+2. Construire, mettre en oeuvre et évaluer des situations et des séquences
+d'apprentissage intégrant cette dimension.
+3. Partager avec des collègues les pratiques de mise en œuvre des
+programmes sur cette dimension.
+Retour
+Table des matières
+O12. RÉFÉRENT
+O07. PROGRAMME
+LOT G073
+Objectifs
+pédagogiques
+généraux
+LOT G074
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+73. Mise en œuvre de dispositifs d'enseignement/apprentissage en
+immersion linguistique dans ma classe/mon école
+1.S'approprier la visée et les orientations des programmes de l'enseignement
+catholique se déployant dans le cadre de l'immersion linguistique.
+2.Construire, mettre en oeuvre et évaluer des séquences et situations
+d'apprentissage s'appuyant sur les programmes.
+3.Porter un regard réflexif sur l'impact et les effets de l'outillage pédagogique
+mobilisé.
+4.Identifier les conditions organisationnelles optimales pour une démarche
+d'immersion linguistique au sein de sa classe/son école.
+74. Les aspects juridiques, administratifs et déontologiques de la
+fonction XXX (volet réseau)
+1. Au regard des dispositions statutaires propres à l'enseignement catholique,
+identifier la teneur de ses missions dans la fonction XXX.
+2. Mettre en œuvre le profil de fonction XXX en fonction du contexte
+organisationnel de l'enseignement catholique.
+3. Apprendre à analyser le cadre organisationnel et institutionnel dans lequel
+s'inscrivent les missions.
+4. S'interroger sur les principes déontologiques qui cadrent les missions.
+O12. RÉFÉRENT
+Orientation 13 : Soutenir le développement des compétences professionnelles
+des fonctions de sélection et de promotion
+LOT G075
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+75. Communication interne et externe dans la fonction XXX dans mon
+école (fonctions de sélection et de promotion)
+1.Construire, mettre en œuvre et évaluer des modes de communication appropriés
+dans un contexte de communication collective et individuelle au sein de son
+établissement, au regard des modalités d'organisation spécifiques de l'enseignement
+catholique.
+2. Dans le cadre de sa fonction, mettre en place des pratiques et des supports qui
+permettent une diffusion efficace de l'information au sein de son école et avec les
+partenaires externes.
+3. S'outiller pour déployer son assertivité dans le contexte de ses missions et en lien
+avec sa posture spécifique.
+O13. GESTION
+LOT G076
+76. Mise en œuvre de la gestion administrative, financière et matérielle
+dans la fonction XXX dans mon établissement (fonctions de sélection et
+de promotion)
+1. Découvrir et apprendre à utiliser les applications de gestion propres à l'enseignement
+catholique.
+Objectifs
+pédagogiques
+généraux
+2. S'approprier les dispositions de gestion propres aux asbl et les dispositions statutaires
+spécifiques.
+3. Identifier comment articuler cette gestion avec les dimensions de communication, de
+déontologie et de pilotage au sein de son établissement.
+4. Mettre en œuvre et évaluer des outils et des démarches pour superviser la gestion
+administrative, financière et matérielle au sein de son école.
+Retour
+Table des matières
+LOT G077
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+77. Mise en œuvre de la gestion humaine et de l'optimalisation des
+compétences professionnelles dans la fonction XXX dans mon école
+(fonctions de sélection et de promotion)
+1. Mettre en œuvre des techniques et des outils de gestion des ressources humaines
+au sein de son établissement : recrutement, analyse des pratiques professionnelles,
+entretiens de fonctionnement et d'évolution, identification des besoins de
+compétences.
+2. Mettre en œuvre les démarches et outils pour instaurer des pratiques de
+reconnaissance et de valorisation professionnelles au sein de son établissement.
+3. Mettre en œuvre des démarches et outils pour gérer son temps et organiser son
+travail.
+4. Partager avec des collègues sur les démarches mises en œuvre, leur évaluation et
+les perspectives d'amélioration.
+LOT G078
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+78. Gestion de situations de crise dans la fonction XXX dans mon
+établissement (fonctions de sélection et de promotion)
+1. Mettre en œuvre des outils et démarches pour analyser et gérer les diverses
+dimensions d'une situation de crise au sein de son établissement.
+2. Connaitre, identifier et activer des ressources internes à l'école et externes
+(en particulier celles du réseau) en adéquation avec la situation.
+3. Identifier et mettre en œuvre des pistes de développement professionnel
+individuel/collectif en lien avec cette thématique.
+LOT G079
+Convient
+aux pôles
+O13. GESTION
+Objectifs
+pédagogiques
+généraux
+79. Exercice du leadership dans la fonction XXX dans mon école
+(fonctions de sélection et de promotion)
+1.Mettre en œuvre une dynamique de leadership au sein de son établissement dans
+ses différentes dimensions (mobilisation et implication des acteurs, conduite du
+changement, exemplarité, relation de confiance, exercice de l'autorité), dans une
+dynamique de management transversal, au regard du contexte organisationnel
+spécifique de l'enseignement catholique.
+2. Apprendre à distinguer et adopter à bon escient différents styles de leadership en
+fonction des situations à traiter et des actions à mener dans son école.
+3. Mettre en place des stratégies contextualisées pour entretenir un climat de travail
+qui stimule l'esprit d'équipe, la collaboration, le partage d'expérience et la
+responsabilisation.
+4. Mettre en œuvre des démarches pour surmonter les freins et résistances au
+changement et évaluer leur impact.
+5. Mettre en application des outils et démarches pour définir, superviser et faire
+évoluer les rôles, tâches, fonctions et responsabilités des différents acteurs de
+l'équipe (incluant les modalités de délégation).
+6. Mettre en œuvre des outils d'animation de réunions et de processus de
+négociation en tenant compte du contexte spécifique de son établissement.
+7. Partager avec des collègues exerçant la même fonction sur l'impact et les effets
+de ce qui a été mis en oeuvre.
+Retour
+Table des matières
+LOT G080
+Convient
+aux pôles
+Objectifs
+pédagogiques
+généraux
+LOT G081
+Objectifs
+pédagogiques
+généraux
+LOT G082
+Objectifs
+pédagogiques
+généraux
+O13. GESTION
+LOT G083
+Objectifs
+pédagogiques
+généraux
+LOT G084
+80. Coordination et régulation du projet de mon pôle territorial
+1. Mettre en œuvre des démarches et outils pour soutenir et réguler le projet de son
+pôle territorial.
+2. Identifier et mettre en œuvre les modalités de coordination avec tous les acteurs
+du pôle dans une démarche collective.
+3. Évaluer l'efficacité des procédures mises en place à l'aide des outils adéquats.
+81. Mise en œuvre et régulation du contrat d'objectifs au sein de mon
+école
+1. Mettre en application les démarches et outils permettant de faire un état des lieux du
+fonctionnement systémique de son établissement.
+2. À l'aide des outils mis à disposition, définir les axes stratégiques d'amélioration ou de
+développement et les objectifs opérationnels qui en découlent en tenant compte des
+missions, valeurs et objectifs de son établissement, du positionnement de
+l'établissement dans son environnement et de l'état des lieux.
+3. Mettre en œuvre les démarches et outils (dont le tableau de bord) pour construire,
+mettre en œuvre, évaluer et réguler son plan d'actions.
+4. Partager avec des collègues exerçant la même fonction sur la posture à adopter et
+sur l'impact et les effets des initiatives prises.
+82. Vision, missions, valeurs : au cœur des projets éducatifs et
+pédagogiques de l'enseignement catholique et de l'établissement
+1. Apprendre à inscrire son action dans la fonction XXX dans le cadre du projet
+éducatif et pédagogique de l'enseignement catholique.
+2. Identifier les modalités spécifiques d'exercice de ses missions dans le cadre du
+projet éducatif et pédagogique de l'établissement/du PO.
+3. Mettre en œuvre des démarches et outils pour développer une vision partagée
+au sein de l'équipe éducative de son école en prenant appui sur la trilogie
+vision/missions/valeurs.
+83. Analyse du positionnement de mon établissement/mon pôle dans
+son environnement socio-culturel et institutionnel
+1.Mettre en œuvre des clefs de lecture systémique de l'environnement de son
+établissement scolaire/son pôle.
+2. Identifier et mettre en œuvre des modes de collaborations pertinents avec
+les partenaires institutionnels et associatifs (acteurs du réseau, tissu
+associatif, ...) de son établissement/son pôle.
+3. En s'appuyant sur les outils adéquats, mesurer les effets et l'impact de ces
+modes de collaboration au regard du projet de l'établissement.
+84. Formation dite spécifique pour la fonction de promotion/sélection
+XXX
+Objectifs
+pédagogiques
+généraux
+1.S'initier aux compétences administratives, pédagogiques, relationnelles
+relatives à la fonction XXX.
+2. Initier une réflexion sur son identité professionnelle, en prenant appui sur la
+vision et les outils propres au réseau.
+Retour
+Table des matières
+Orientation novices
+14 : Soutenir l’insertion professionnelle des membres du personnel
+LOT G085
+Objectifs
+pédagogiques
+généraux
+LOT G086
+Objectifs
+pédagogiques
+généraux
+85. Mise en œuvre de l'intégration des membres du personnel novices
+au sein de mon l'école /mon pôle
+1.Construire, mettre en oeuvre et évaluer des dispositifs d'accueil et d'intégration
+permettant d'accueillir les membres du personnel novices en tenant compte du
+contexte spécifique de son établissement.
+2. Imaginer et expérimenter des pistes pour responsabiliser les enseignants
+novices en fonction de leur profil (compétences, formations).
+3. En s'appuyant sur des outils adéquats, entrer dans une démarche de feedback
+sur les pratiques professionnelles des novices.
+86. Formation référent enseignants novices (volet réseau)
+1. Mettre en œuvre les outils et démarches développés au sein de
+l'enseignement catholique pour accompagner l'insertion des enseignants
+novices au sein de son établissement.
+2. Identifier, mettre en œuvre et évaluer des démarches de soutien mutuel au
+sein de son école, dans une logique de compagnonnage.
+3. Initier une démarche réflexive sur la mission de référent à partir d’analyse
+de cas dans le contexte spécifique de son établissement.
+4. Formaliser les conditions optimales de mise en œuvre au regard du
+contexte spécifique de l'établissement.
+O14. NOVICES
+Orientation 15 : Promouvoir l’évaluation au service des apprentissages
+LOT G087
+Objectifs
+pédagogiques
+généraux
+LOT G088
+Objectifs
+pédagogiques
+généraux
+87. Mise en oeuvre de l'évaluation au service des apprentissages au
+sein de mon école (approche transversale)
+1. Intégrer la philosophie, le cadre juridique et conceptuel de l’évaluation au
+service des apprentissages dans le contexte spécifique de l'école.
+2. Découvrir, dans une approche transversale, les outils d’évaluation et de
+communication en matière d'évaluation des apprentissages mis à disposition
+par le réseau.
+3. Partager avec des collègues sur les conditions de mise en oeuvre de cette
+approche au sein de l'école.
+88. Mise en œuvre de démarches et d’outils d’évaluation en lien avec
+les programmes de l'enseignement catholique dans la discipline/le
+secteur XXX
+1. Découvrir et mettre en œuvre des outils d’évaluation adaptés à la
+discipline/au secteur dans le cadre des orientations méthodologiques des
+programmes.
+2.Concevoir des modalités d'observation et des tâches d'évaluation
+diagnostique et/ou formative dans la discipline/le secteur au regard des
+orientations méthodologiques des programmes.
+3.Partager avec des collègues sur les modalités de mise en œuvre et l'impact
+et les effets de cet outillage pédagogique sur les apprentissages des élèves.
+O15. ÉVALUATION
+Retour
+Table des matières
+LOT G089
+Objectifs
+pédagogiques
+généraux
+LOT G090
+89. Les épreuves d'évaluation sommative de l'enseignement catholique
+comme point d'appui pour une évaluation au service des
+apprentissages
+1. Découvrir et s'approprier les épreuves d'évaluation sommative élaborées
+par le SeGEC (orientations pédagogiques, structuration, mode de
+construction, …).
+2. Mettre en œuvre cette modalité d'évaluation et en mesurer les effets et
+l'impact sur les apprentissages des élèves.
+3. Partager avec des collègues sur les conditions optimales de mise en œuvre
+de ces épreuves.
+90. Mise en œuvre de l’auto-évaluation dans ma classe
+Objectifs
+pédagogiques
+généraux
+1.Mettre en œuvre dans sa classe des outils de travail adéquats et pertinents
+pour rendre l’élève acteur du processus d’évaluation.
+2.Partager avec des collègues sur les conditions optimales de mise en œuvre,
+l’impact et les effets sur les apprentissages de cet outillage pédagogique.
+LOT G091
+O15. ÉVALUATION
+Objectifs
+pédagogiques
+généraux
+91. Mise en œuvre de l'apprentissage auto-régulé au sein de ma
+classe
+1.S’approprier un modèle de l’apprentissage en autonomie : le modèle de
+l'apprentissage autorégulé A3 (issu d'une coopération avec l'UNamur).
+2. Sur base de ce modèle, co-créer et expérimenter dans sa classe les séquences et
+outils concrets relatifs à cette démarche.
+3. Identifier les modalités d'un soutien aux collègues de son établissement pour la
+mise en œuvre du modèle A3.
+LOT G092
+Objectifs
+pédagogiques
+généraux
+LOT G093
+Objectifs
+pédagogiques
+généraux
+92. Mise en œuvre d'un monitorage au service de l'évaluation formative
+dans ma classe
+1. Mettre en œuvre en contexte une démarche de monitorage en matière
+d'évaluation des apprentissages.
+2. 3. Tester et évaluer des outils de monitorage.
+Identifier les conditions d'implantation d'une démarche de monitorage au sein
+de sa classe et apprendre à en mesurer l'impact sur la qualité des
+apprentissages.
+93. L'utilisation du portfolio par les élèves pour soutenir l'évaluation
+des apprentissages au sein de ma classe
+1. Construire un portfolio des progrès de ses élèves et le tester dans sa classe.
+2. Sur base de l'expérimentation, identifier les atouts pédagogiques de l'utilisation
+d'un portfolio dans le cadre d'une évaluation au service des apprentissages.
+3. Construire, mettre en oeuvre et évaluer des situations d'apprentissage
+permettant l'utilisation du portfolio par les élèves.
+Retour
+Table des matières
+LOT G094
+94. Mise en œuvre de l'évaluation à distance dans ma classe
+Objectifs
+pédagogiques
+généraux
+1. Mettre en œuvre des pratiques d'évaluation à distance au sein de sa classe.
+2. Réfléchir autour de l'aspect correctif et rétroactif des évaluations en
+identifiant comment tirer parti des évaluations pratiquées en ligne.
+3. Partager avec des collègues sur les pratiques ainsi mises en place et leur
+effets et impact sur les apprentissages.
+LOT G095
+Objectifs
+pédagogiques
+généraux
+95. Le Conseil de classe, lieu stratégique d'évaluation dans mon école
+1. Mettre en œuvre des outils et des démarches de décodage de qui se joue dans
+le conseil de classe, dans le contexte de mon école.
+2. S'outiller pour prendre des décisions collégiales (de certification, d'orientation,
+d'évolution) et expérimenter ces outils dans son établissement.
+3. Créer et mettre en œuvre des outils et des démarches outils qui favorisent la
+communication des décisions (aux élèves, parents,....), en tant compte du
+contexte spécifique de l'établissement.
+4. Partager avec des collègues sur l'efficacité des outils et démarches adoptés.
+Orientation 16 : Développer la dimension démocratique et citoyenne dans les
+pratiques professionnelles et l’organisation de la vie sociale
+LOT G096
+Objectifs
+pédagogiques
+généraux
+96. Élaboration et mise en œuvre des projets et règlements de mon
+établissement
+1.Mettre en œuvre les outils méthodologiques du réseau pour l'élaboration/la
+mise à jour/la mise en oeuvre du projet éducatif et pédagogique de
+l'établissement, du projet d'école, du règlement général d'évaluation et du
+règlement d'ordre intérieur en tenant compte :
+⟶ Du cadre légal et règlementaire
+⟶ Des spécificités et des valeurs phares de son établissement
+⟶ Du projet éducatif de l'enseignement catholique
+⟶ Des orientations du contrat d'objectifs de l'école
+LOT G097
+Objectifs
+pédagogiques
+généraux
+97. Sens, enjeux, philosophie et cadre conceptuel de l'éducation à la
+philosophie et à la citoyenneté (EPC) au regard du projet éducatif et
+des choix de l'enseignement catholique
+1. S'approprier le concept et la démarche d'éducation à la philosophie et à la
+citoyenneté au regard de la vision et des choix de l'enseignement catholique
+2. Identifier comment cette démarche s'inscrit dans les missions spécifiques
+(professeur, éducateur, direction , ...).
+3. Établir les liens entre la dimension EPC et le projet éducatif et pédagogique
+de son établissement.
+Retour
+Table des matières
+O15. ÉVALUATION
+O16. CITOYENNETÉ
+LOT G098
+Objectifs
+pédagogiques
+généraux
+LOT G099
+Objectifs
+pédagogiques
+généraux
+LOT G100
+Objectifs
+pédagogiques
+généraux
+LOT G101
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+98. Pratiques du débat et de l'argumentation au service de la
+citoyenneté dans mon école
+1. Expérimenter au sein de son établissement l'outillage propre à la didactique
+du débat oral, aux méthodes de discussion et d'argumentation au service de
+l'éveil à la citoyenneté.
+2. Identifier comment, au sein de sa classe et de son école, accompagner les
+élèves à penser par eux-mêmes et à réaliser une analyse critique, par le
+questionnement, la problématisation, la conceptualisation et l’argumentation
+3. Créer, mettre en œuvre et évaluer des situations stimulantes pour entrainer
+les élèves à prendre leur place dans un débat démocratique.
+4. Identifier les points d'accroche avec les programmes du réseau sur cette
+dimension.
+O16. CITOYENNETÉ
+99. Mon école, lieu de démocratie scolaire
+1.Concevoir et mettre en œuvre des processus de représentation et d'inclusion
+des élèves dans la vie de la classe et de l'école pour favoriser la capacité du
+vivre ensemble.
+2. Créer et mettre en œuvre les différentes modalités d'un processus
+décisionnel collectif.
+3. Analyser la pertinence, l'impact et les effets de ces modalités en fonction du
+contexte de l'établissement.
+100. Commémorations et célébrations au sein de mon école
+1. 2. 3. Lire les dimensions de commémoration, de célébration, d'émerveillement à
+la lumière du projet éducatif de l'enseignement catholique.
+Se doter de balises pour l'organisation de temps de célébration au sein de
+son école: sens, précautions, symbolisation.
+Mettre en œuvre et évaluer des outils et des démarches d'organisation et
+de planification de ces moments de commémoration et de célébration , au
+regard du contexte de l'école.
+101. Le développement de l'autonomie de l'élève dans mon école/ma
+classe (approche transversale).
+1. Découvrir comment se déploie la notion d'autonomie dans la vision
+éducative et pédagogique de l'enseignement catholique.
+2. Mettre en œuvre des démarches et outils pour favoriser l'autonomie à
+l'école/dans la classe, dans la perspective d'une insertion scolaire optimale.
+3. Partager avec des collègues sur l'impact et les effets des pratiques et
+activités mises en place.
+LOT G102
+Objectifs
+pédagogiques
+généraux
+O16. CITOYENNETÉ
+LOT G103
+Objectifs
+pédagogiques
+généraux
+LOT G104
+Objectifs
+pédagogiques
+généraux
+LOT G105
+Objectifs
+pédagogiques
+généraux
+102. Mise en œuvre de pratiques éducatives et pédagogiques intégrant
+la pluralité des cultures et des convictions
+1. Utiliser des outils de lecture de la multiculturalité et de la pluralité des
+convictions au sein de son école au regard du projet éducatif de
+l'enseignement catholique et du projet éducatif et pédagogique de son école.
+2. Identifier et mettre en œuvre des pistes d'action concrètes au sein de
+l'établissement, notamment à travers les modalités du "Dialogue avec les
+jeunes".
+3. Partager avec des collègues sur les conditions de mise en oeuvre optimales
+de telles démarches, sur leurs impacts et effets.
+103. Mise en œuvre de démarches et d'outils pour construire la
+solidarité et la coopération dans ma classe/mon école
+1. Relire les notions de solidarité et de coopération au regard du projet
+éducatif de l'enseignement catholique et du projet éducatif et pédagogique
+de son école.
+2. Identifier et mettre en œuvre des pratiques éducatives/pédagogiques et des
+gestes professionnels qui favorisent la solidarité et la coopération au sein de
+la classe/de l'école.
+3. Identifier et analyser les conditions optimales de mise en place de telles
+pratiques au sein de sa classe/son école, leur impact et effets sur les
+apprentissages.
+4. Explorer les programmes du réseau et identifier les compétences, savoirs et
+savoir-faire en lien avec la solidarité et la coopération.
+104. Mise en œuvre d'une approche d'exploration de son histoire
+personnelle en appui de l'éveil à la citoyenneté
+1. Identifier et expérimenter des pistes pédagogiques pour aider ses élèves à
+apprendre à se connaitre par la connaissance de soi, de sa famille, de son
+histoire.
+2. Créer et mettre en œuvre des activités permettant de créer des liens
+intergénérationnels autour de sa classe/son école et des liens de solidarité
+dans le groupe-classe ou l'école.
+3. Adopter une posture réflexive pour aborder dans un climat de bienveillance
+cette question de l'histoire personnelle et des origines des élèves de sa
+classe/son école.
+105. Éducation à la philosophie et à la citoyenneté dans la discipline/le
+secteur XXX au regard des orientations méthodologiques des
+programmes
+1. Identifier et s'approprier les orientations méthodologiques des programmes de la
+discipline/ du secteur XXX intégrant la dimension de l'éducation à la philosophie et
+à la citoyenneté.
+2. Concevoir et mettre en œuvre des séquences d'apprentissage et des tâches
+d'évaluation de ces séquences en lien avec les programmes.
+3. Partager avec des collègues sur les modalités de mise en œuvre de la dimension
+EPC au travers des programmes du réseau.
+Retour
+Table des matières
+LOT G106
+Objectifs
+pédagogiques
+généraux
+LOT G107
+Objectifs
+pédagogiques
+généraux
+106. Formation référent Education aux médias (volet réseau)
+1. Utiliser des grilles d'analyse pour identifier, comprendre et décrypter les
+diversités socio-culturelles des pratiques médiatiques des élèves de son école
+afin de soutenir des projets d’éducation aux médias adaptés à son
+établissement.
+2. Mettre en œuvre des outils et des démarches de soutien des équipes
+pédagogiques de son école à l’intégration à l’éducation aux médias dans leurs
+pratiques.
+3. Mettre en application l'outillage spécifique pour co-construire les axes d’un
+plan d'action d'éducation aux médias dans son école.
+107. Mise en œuvre de l'éducation aux médias dans la discipline/le
+secteur XXX au regard des orientations méthodologiques des
+programmes
+1. Identifier et s'approprier la dimension éducation aux médias dans les programmes
+de la discipline/ du secteur XXX.
+2. Concevoir et mettre en œuvre des séquences et situations d'apprentissage
+centrés sur l'éducation aux médias et des tâches d'évaluation de ces séquences en
+lien avec les programmes.
+3. Partager avec des collègues sur les conditions de mise en oeuvre, l'impact et les
+effets de ses pratiques.
+O16. CITOYENNETÉ
+Orientation 17 : Élaborer, mettre en œuvre et évaluer des processus et des pratiques de
+pilotage, de leadership au sein des écoles, dans une perspective collaborative et de
+développement professionnel et organisationnel
+LOT G108
+Objectifs
+pédagogiques
+généraux
+LOT G109
+Objectifs
+pédagogiques
+généraux
+108. Mobilisation de l'équipe éducative de mon école autour du contrat
+d'objectifs
+1. À l'aide d'un outillage adéquat, analyser le contexte organisationnel dans
+lequel s'inscrit le contrat d'objectifs de mon établissement.
+2. Identifier et mettre en œuvre en contexte la démarche et les outils de
+mobilisation des membres du personnel en vue d'une action commune
+articulée au contrat d'objectifs.
+3. Mettre en œuvre des outils d'évaluation et de régulation des dispositifs
+d'action et des dynamiques de groupe liés au plan d'action.
+4. Partager avec des collègues sur les conditions optimales de mise en œuvre
+de cette démarche au sein de l'établissement.
+109. Construction d'une vision commune au sein de mon
+établissement au service du contrat d'objectifs
+1. 2. 3. Mettre en œuvre des démarches et des outils permettant
+d'assurer une cohérence et un alignement de la vision collective à construire et
+à partager.
+de développer une démarche de co-construction avec l'équipe éducative.
+de nourrir sur le long terme la vision commune au sein de son établissement.
+de communiquer autour de la vision commune.
+Analyser en contexte les effets de ces démarches.
+Partager avec des collègues sur les conditions optimales pour la mise en
+œuvre de telles démarches, au regard du contexte de son établissement.
+O17. PILOTAGE
+Retour
+Table des matières
+LOT G110
+Objectifs
+pédagogiques
+généraux
+110. Mise en œuvre et conduite de projets au sein de mon école
+1.Mettre en œuvre au sein de l'établissement une démarche et des outils
+méthodologiques de gestion de projets.
+2. Entrer dans une logique d'évaluation de la démarche et des outils mis en
+œuvre.
+3. Identifier les conditions optimales de mise en application d'une telle
+méthodologie au regard du contexte de son établissement.
+LOT G111
+Objectifs
+pédagogiques
+généraux
+LOT G112
+Objectifs
+pédagogiques
+généraux
+111. Moi, nouveau directeur au service du contrat d'objectifs de
+mon école
+1. Identifier comment mettre en oeuvre le sens, les enjeux, la philosophie et le
+cadre juridique du pilotage des écoles au regard du contexte de son école et
+du contexte organisationnel spécifique de l'enseignement catholique.
+2. Mettre en œuvre le processus d'élaboration d'un plan de pilotage à l'aide
+notamment de la "boîte à outils" du réseau.
+3. Entrer dans une logique de cohérence et d'un alignement des démarches de
+l'équipe dans une perspective de co-construction et d'une vision partagée.
+4. Mettre en œuvre une démarche de régulation et de mesure des dispositifs
+d'actions et des dynamiques de groupe (boucle d'amélioration collective) au
+sein de son établissement.
+5. Initier et expérimenter des modes de communication ajustés au sujet de la
+mise en œuvre du contrat d'objectifs.
+112. Mise en œuvre du contrat d'objectifs dans mon école
+1. Identifier comment mettre en oeuvre le sens, les enjeux, la philosophie et le
+cadre juridique du pilotage des écoles dans le contexte de son école et au
+regard du contexte organisationnel spécifique de l'enseignement catholique.
+2. Mettre en œuvre des démarches éducatives et pédagogiques pour
+rencontrer les objectifs, stratégies et plan d'action du contrat d'objectifs de
+son école.
+3. Identifier les compétences nécessaires à développer pour mener à bien ces
+démarches, au regard de sa fonction propre au sein de l'établissement.
+LOT G113
+Uniquement
+secondaire
+Objectifs
+pédagogiques
+généraux
+113. Formation référent développement professionnel (volet réseau)
+1.S'outiller pour se positionner dans sa fonction, ses missions, son rôle, sa
+posture et trouver sa légitimité dans l'équipe, dans le contexte spécifique de
+l'école
+2.Mettre en oeuvre des outils et des techniques de communication et de
+mobilisation en contexte
+3.Identifier les leviers communicationnels de l'entretien de développement
+4.S'outiller pour conduire un entretien constructif et efficace
+5.Identifier et mobiliser les ressources mises à disposition par l'enseignement
+catholique
+Retour
+Table des matières
+O17. PILOTAGE
+O12. RÉFÉRENT
+LOT G114
+Objectifs
+pédagogiques
+généraux
+LOT G115
+Objectifs
+pédagogiques
+généraux
+114. Mise en œuvre du plan de formation au sein de mon école
+1. Identifier comment participer et entretenir au sein de son école, au regard
+de ses missions spécifiques, une culture de développement professionnel
+mise en lien avec l’histoire, les missions et les valeurs de son établissement
+scolaire.
+2. Au regard des missions propres, mettre en oeuvre un pilotage du processus
+de développement professionnel en fonction du contexte de son école et
+des enjeux du contrat d'objectifs.
+3. En prenant appui sur le contexte spécifique, apprendre à définir
+collectivement des objectifs de développement professionnel et
+organisationnel mesurables et précis et à procéder à leur évaluation.
+4. Dans la perspective d'une articulation entre portfolio et plan de formation,
+identifier les conditions à mettre en place au sein de l'école pour une
+utilisation optimale du portfolio au service du développement professionnel
+des équipes.
+115. Mobilisation du portfolio comme outil de développement
+professionnel
+1. Remobiliser en contexte la philosophie générale du portfolio et ses plus-
+values.
+2. Développer sa capacité d'observation, de questionnement, d'analyse et de
+régulation de ses pratiques professionnelles en mobilisant le portfolio.
+3. Expérimenter la formalisation de ses pratiques.
+O17. PILOTAGE
+LOT G116
+Objectifs
+pédagogiques
+généraux
+LOT G117
+116. Leadership au sein de l'équipe éducative : un enjeu pour mon école
+1. Au regard du contexte spécifique de son école, entrer dans une logique de
+questionnement de sa propre posture de leader pédagogique.
+2. Expérimenter des démarches et des outils de leadership pédagogique au sein
+de l'équipe éducative, dans une perspective de soutien mutuel.
+3. Co-créer et mettre en œuvre diverses modalités de codécision au sein de
+l'école : fonctionnements participatifs, collaboratifs, délibérations collectives,
+approche sociocratique, ...
+117. Mise en œuvre d'une vision systémique et stratégique de mon
+établissement scolaire
+Objectifs
+pédagogiques
+généraux
+1. Mettre en application les grilles d'analyse des approches systémique et
+stratégique de son établissement scolaire.
+2. Utiliser des outils de décodage des situations scolaires dans une perspective
+interactionnelle (demande de changement, résolution de problème, ...) aux
+niveaux interpersonnel, collectif et organisationnel.
+3. Élaborer, mettre en oeuvre et évaluer des stratégies d’action prenant en
+compte les dimensions personnelles, collectives et organisationnelles
+inhérentes aux organisations.
+Retour
+Table des matières
+LOT G118
+Objectifs
+pédagogiques
+généraux
+LOT G119
+Objectifs
+pédagogiques
+généraux
+LOT G120
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+Orientation 18 : Développer un climat scolaire positif
+118. Mise en œuvre d'outils de connaissance de soi et des autres au sein
+de ma classe/mon école
+1.Utiliser en contexte des clés de lecture permettant de mieux comprendre les
+systèmes de représentation du monde, de soi dans le monde et des valeurs
+de référence des personnes et des groupes au sein de son école.
+2.Utiliser en contexte des techniques de gestion de soi (gestion corporelle,
+gestion des émotions, gestion du stress).
+3.Mettre en oeuvre en contexte des outils et techniques permettant le
+développement des compétences socio-émotionnelles des élèves
+4. Échanger avec des collègues sur le cadre organisationnel adéquat pour
+initier de telles démarches (en termes de confidentialité, de respect mutuel,
+...) et sur leurs impact et effets.
+119. Mise en œuvre d'outils de communication bienveillante et ajustée
+au sein de ma classe/mon école
+1. S'approprier des outils méthodologiques adéquats pour :
+mettre en œuvre au sein de sa classe/son école une communication
+bienveillante et ajustée à ses interlocuteurs (élèves, collègues, parents,
+partenaires externes, ...), en leur donnant des signes de reconnaissance.
+apprendre à maîtriser les pièges de la perception, à comprendre une
+situation selon différents points de vue.
+adapter ses comportements et attitudes en fonction des différentes
+situations de terrain.
+2.Mettre en oeuvre en contexte des outils et techniques permettant le
+développement des compétences socio-émotionnelles des élève
+3. Mettre en œuvre une démarche réflexive sur ses modes de communication
+au sein de la classe/l'établissement.
+120. Mise en place de stratégies d'équipe au service d'un climat scolaire
+positif au sein de mon école
+1. Identifier au sein de son école les facteurs du climat scolaire et analyser son propre
+fonctionnement au regard de ces facteurs.
+2. Identifier et mettre en œuvre des pistes concrètes d'action permettant d'améliorer
+le climat scolaire dans son école, à l'aide d'un outillage adéquat.
+3. Identifier et activer des stratégies au service de l'équipe (accueil, culture commune,
+cohérence d'action...) et de l'individu pour un climat scolaire positif.
+4. Entrer dans une démarche concrète d'attention à son bien-être professionnel et à
+celui de ses collègues pour permettre à chacun d'évoluer dans un environnement
+optimisé.
+5. Mettre en application des outils de décryptage des comportements qui engendrent
+les conflits et mettre en place des attitudes et des pratiques pour prévenir et réguler
+de telles situations.
+6. Partager avec des collègues sur les conditions de mise en oeuvre, l'impact et les
+effets des outils et pratiques mis en oeuvre.
+018. BIENÊTRE
+LOT G121
+Objectifs
+pédagogiques
+généraux
+LOT G122
+Objectifs
+pédagogiques
+généraux
+LOT G123
+Objectifs
+pédagogiques
+généraux
+LOT G124
+Objectifs
+pédagogiques
+généraux
+LOT G125
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+018. BIENÊTRE
+121. Harcèlement : identifier, prévenir et agir dans mon école
+1. Mettre en œuvre des outils de décodage des mécanismes de harcèlement au
+sein de son école.
+2. Expérimenter et évaluer des actions concrètes au sein de son école pour
+intervenir de manière optimale dans des situations de harcèlement.
+3. Construire et mettre en œuvre des stratégies de prévention ajustées à la
+réalité de son école dans une logique de responsabilisation des acteurs.
+122. Mise en œuvre de démarches et d'outils pour améliorer le
+cadre de vie dans mon école
+1. Mettre en œuvre une démarche d'analyse des différentes composantes du
+cadre de vie (cour de récréation, locaux, espace de la classe, horaires,
+environnement sonore, ...).
+2.Mettre en oeuvre en contexte des outils et techniques permettant le
+développement des compétences socio-émotionnelles des élèves.
+3. Utiliser des outils adéquats pour mesurer l'impact de ces composantes sur le
+bien-être des élèves au sein de son école.
+4. Construire, mettre en œuvre et évaluer un plan d'action permettant d'améliorer
+le cadre de vie au service du bien-être de tous.
+123. Mise en œuvre de stratégies et d'outils pour la gestion des
+comportements difficiles dans ma classe/mon école
+1.Mettre en oeuvre une approche systémique de la problématique des comportements
+difficiles au sein de sa classe/son école.
+2.Apprendre à utiliser les outils adéquats pour observer et décrypter ces
+comportements.
+3. Élaborer, mettre en œuvre et évaluer des pistes concrètes d'action et des outils
+d'intervention, à l'aide des gestes professionnels adéquats.
+4. Identifier et mettre en œuvre une posture d'autorité qui fasse sens dans ce contexte.
+124. Mise en œuvre de démarches et d'outils pour améliorer l'estime de
+soi de chaque élève de ma classe/mon école
+1.Relire la notion d'estime de soi et de sentiment d'efficacité personnelle à la lumière
+des visées du projet éducatif de l'enseignement catholique et du projet éducatif et
+pédagogique de son école.
+2.Identifier les compétences, savoirs et savoir-faire permettant de favoriser la
+construction de l'estime de soi et du sentiment d'efficacité personnelle.
+3.Mettre en oeuvre en contexte des outils et techniques permettant le
+développement des compétences socio-émotionnelles des élèves.
+4. Élaborer, mettre en œuvre et évaluer des pratiques éducatives/pédagogiques et
+des gestes professionnels qui favorisent l'estime de soi au sein de la classe/de
+l'école, en prenant appui notamment sur les orientations méthodologiques des
+programmes.
+125. Mise en œuvre de démarches et d'outils pour améliorer la gestion
+du bien-être dans ma classe
+1. Mettre en œuvre des outils et démarches de gestion du bien-être en classe pour
+construire avec les élèves un contexte relationnel propice aux apprentissages.
+2.Mettre en oeuvre en contexte des outils et techniques permettant le développement
+des compétences socio-émotionnelles des élèves.
+3.Partager avec des collègues sur les modalités de mise oeuvre de ces démarches et
+outils, leur impact et leurs effets, notamment en termes de posture de l'enseignant.
+LOT G126
+Objectifs
+pédagogiques
+généraux
+LOT G127
+Objectifs
+pédagogiques
+généraux
+LOT G128
+Objectifs
+pédagogiques
+généraux
+LOT G129
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+126. Mise en œuvre de démarches et d'outils pour assurer la justice
+scolaire au sein de ma classe/mon école
+1. Comprendre les composantes liées à la notion de justice scolaire (règles,
+droits, devoirs, sanctions...) au regard du projet éducatif de l'enseignement
+catholique et du projet éducatif et pédagogique de son école.
+2. Identifier et mettre en œuvre des pistes concrètes d'action permettant
+d'améliorer la justice scolaire au niveau de sa classe et de son école, en
+donnant une place privilégiée au sens et à la réparation.
+3. S'engager dans une démarche concrète pour faire du règlement de l'école un
+outil du vivre ensemble.
+4. Partager avec des collègues sur les modalités de mise oeuvre, l'impact et les
+effets des démarches et outils adoptés.
+018. BIENÊTRE
+127. Éducation à la vie relationnelle, affective et sexuelle (EVRAS)
+dans la discipline/le secteur XXX au regard des orientations
+méthodologiques des programmes
+1. Identifier et s'approprier les orientations méthodologiques des programmes de
+la discipline/ du secteur XXX intégrant la dimension de l'EVRAS.
+2. Concevoir et mettre en œuvre des séquences et des situation d'apprentissage
+en lien avec les programmes.
+3. Partager avec des collègues sur les modalités de mise en œuvre de la
+dimension Evras au travers des programmes du réseau.
+128. Élaboration et mise en œuvre de projets EVRAS au sein de mon
+école
+1. Comprendre comment, en matière d'Evras, le projet éducatif de l'enseignement
+catholique rencontre les orientations définies au sein de la Fédération Wallonie-
+Bruxelles.
+2. Découvrir et mettre en œuvre les outils éducatifs et pédagogiques mis à disposition
+par le réseau en matière d'Evras.
+3. Co-construire, mettre en œuvre et évaluer des projets Evras au regard du contexte
+spécifique de son école.
+4. Partager avec des collègues sur les modalités, conditions de mise en œuvre, impact
+et effets de projets Evras au sein de son établissement.
+129. Formation référent Evras (volet réseau)
+1. Comprendre comment, en matière d'Evras, le projet éducatif de l'enseignement
+catholique rencontre les orientations définies au sein de la Fédération Wallonie-
+Bruxelles.
+2. 3. Identifier les ressources mis à disposition par le réseau.
+Mettre en œuvre des stratégies et des outils (notamment de communication) pour
+mobiliser les acteurs de son école autour des enjeux de l'EVRAS et construire un
+plan d'actions.
+4. S'outiller pour identifier les compétences professionnelles à mobiliser en lien avec
+l'Evras et aider les enseignants à construire leur projet personnel de formation sur
+cet objet.
+Orientation l’enseignement
+19 : Contribuer au développement de la transition numérique dans
+LOT G130
+Objectifs
+pédagogiques
+généraux
+130. Mise en œuvre d'outils numériques pour la communication et la
+collaboration professionnelles au sein de mon école
+1. Au départ de situations concrètes vécues dans son établissement, mettre en
+œuvre les outils numériques de communication et de collaboration interne et
+externe (avec les parents, les collègues, les élèves, les partenaires externes, …),
+notamment les Espace Numérique de Travail et les outils qui y sont liés ou
+intégrés.
+2. Identifier, dans le contexte de l'établissement, les conditions optimales de
+mise en œuvre de ces outils.
+3. Evaluer l'impact et les effets de ces outils.
+O19. NUMÉRIQUE
+LOT G131
+Objectifs
+pédagogiques
+généraux
+LOT G132
+Objectifs
+pédagogiques
+généraux
+131. Choix des outils numériques et intégration dans les
+apprentissages dans la discipline/le secteur XXX au regard des
+orientations méthodologiques des programmes
+1. Au regard des orientations méthodologiques des programmes dans la
+discipline/secteur XXX, apprendre à intégrer les TICE, notamment les outils
+utilisant des fonctionnalités de l’IA, aux fins de préparation et de pilotage
+d'activités d'enseignement-apprentissage, de gestion de l'enseignement et
+de développement de la créativité.
+2. Identifier une priorisation dans les outils, en fonction des usages et des
+objectifs visés, dans un champ disciplinaire, au regard du programme XXX.
+3. Apprendre à argumenter le choix d'un outil pour ses cours en fonction de
+ses atouts tout en analysant ses limites (grille d'analyse des outils et
+applications).
+132. Mise en œuvre d'outils numériques au profit de l'évaluation dans
+ma classe
+1. Au regard de situations concrètes, mettre en œuvre des outils numériques
+pour l'évaluation diagnostique et formative et pour la construction d'une
+rétroaction au profit de l'apprentissage.
+2.Au regard de situations concrètes, mettre en œuvre des outils numériques
+issus de l'intelligence artificielle en lien avec les pratiques d'évaluation.
+3.Identifier des outils numériques pertinents (dont ceux afférents aux
+programmes), se les approprier et les expérimenter en fonction des objectifs
+et des publics visés.
+Retour
+Table des matières
+LOT G133
+Objectifs
+pédagogiques
+généraux
+133. Différenciation didactique et prise en compte des besoins
+spécifiques à l'aide d'outils numériques dans la discipline/le secteur
+XXX au regard des orientations méthodologiques des programmes
+1.Mettre en œuvre des outils numériques pour, dans la discipline/le secteur
+concerné, au regard des orientations méthodologiques des programmes du
+réseau :
+renforcer l’apprentissage de tous les élèves et répondre aux besoins
+d’apprentissage d’élèves aux profils différents.
+développer les stratégies d’apprentissage et de communication adéquates
+développer l'autonomie des élèves, notamment via le travail collectif, le
+feedback et l’auto-correction.
+2. Développer une attitude réflexive et critique par rapport à la mise en œuvre
+de ces outils en contexte.µ
+3.Identifier les plus-values d'outils liés à l'IA dans la mise en oeuvre d'outils
+permettant l'apprentissage de tous les élèves, en accordant une attention
+particulière aux possibilités de développement de l'inclusion.
+4. Partager avec des collègues sur les conditions de mise en oeuvre, l'impact et
+les effets des outils et pratiques mis en oeuvre.
+O19. NUMÉRIQUE
+LOT G134
+Objectifs
+pédagogiques
+généraux
+134. Mise en œuvre d'outils numériques au profit de la construction
+du projet personnel de l'élève
+1. Au profit de l'éducation au(x) choix au sein de son école, dont le choix lié au
+projet professionnel, concevoir, créer et mettre en oeuvre des démarches
+d'accompagnement au choix à travers des outils numériques.
+2. Concevoir, expérimenter et évaluer des dispositifs orientés vers l'appropriation
+de gestes professionnels spécifiques (tutoriels vidéos, dispositifs d'autoscopie, ...).
+LOT G135
+135. Utilisation des ressources pédagogiques d'un Espace Numérique
+de travail au sein de ma classe
+Objectifs
+pédagogiques
+généraux
+1. Identifier les utilisations pertinentes et les plus-values des espaces numériques
+de travail, en particulier ceux préconisés par le réseau (dont Its Learning) dans la
+gestion des apprentissages dans sa classe.
+2. Expérimenter et évaluer des scénarios d'utilisation d'un Espace Numérique de
+travail à des fins pédagogiques au sein de sa classe.
+LOT G136
+Objectifs
+pédagogiques
+généraux
+136. Découverte et utilisation d'outils numériques de gestion
+administrative, matérielle et financière dans mon école
+1.À partir de situations concrètes, découvrir les diverses fonctionnalités des outils
+utilisés dans la gestion administrative et financière, selon ses tâches missions
+(direction, éducateurs, secrétaires de direction): gestion des élèves, gestion des
+enseignants, gestion des absences, éditeur de documents, ... en prenant appui sur les
+modalités organisationnelles propres et les outils techniques mis à disposition des
+écoles de l'enseignement catholique.
+Retour
+Table des matières
+LOT G137
+Objectifs
+pédagogiques
+généraux
+137. Formation de référents numériques (volet réseau)
+S'outiller sur différentes dimensions techno-pédagogiques et apprendre à
+soutenir les collègues dans le cadre du plan d'action "Virage numérique" de
+l'enseignement catholique pour :
+1. Contribuer au développement d'une stratégie numérique dans son école, y
+compris concernant la présence et l'utilisation et la politique de gestion
+d'outils construits avec et au départ de l'intelligence artificielle
+2.Encourager l'exploration, la découverte et l'appropriation des outils construits
+au départ de l'IA
+3.Encourager et faciliter l'utilisation d'outils numériques pour soutenir
+l'évaluation au service de l'apprentissage , la mise en place du PIA, la
+démarche d'éducation au(x) choix, ...
+O19. NUMÉRIQUE
+LOT G138
+Objectifs
+pédagogiques
+généraux
+138. Mise en œuvre d'une stratégie numérique dans mon
+établissement
+1. Mettre en œuvre une démarche et des outils permettant de construire une
+stratégie numérique qui tienne compte du contexte, des ressources et des
+enjeux de son établissement.
+2. Identifier et mettre en œuvre les diverses dimensions du pilotage d'une telle
+stratégie.
+3. Partager avec d'autres directions sur les conditions, l'impact et les effets de
+la vise en œuvre de cette stratégie.
+Retour
+Table des matières
+Orientation P01 : Comprendre, s'approprier, questionner les enjeux de l’école
+inclusive et les missions des membres des pôles territoriaux, notamment la
+posture d'accompagnant, les aspects juridiques, éthiques et déontologiques, le
+cadre institutionnel, les compétences transversales, les enjeux et les attentes du
+système éducatif et leur traduction en termes de pratiques professionnelles.
+LOT P001
+Objectifs
+pédagogiques
+généraux
+O14. NOVICES
+LOT G050
+Objectifs
+pédagogiques
+généraux
+LOT P002
+Objectifs
+pédagogiques
+généraux
+LOT G080
+Objectifs
+pédagogiques
+généraux
+1. Exercice de ma mission de membre de l'équipe pluridisciplinaire de
+mon pôle territorial au regard du projet éducatif et du contexte
+organisationnel de l'enseignement catholique.
+1.Élucider les missions liées à ma fonction/mon métier au regard des dispositions
+statutaires et du mode d'organisation propres de l'enseignement catholique.
+2.Comprendre comment l'enseignement catholique traduit les enjeux des pôles
+territoriaux dans son contexte organisationnel spécifique et ses structures (au
+niveau des diocèses, des entités, des écoles ) afin d'implémenter le pôle dans son
+territoire d'une manière adaptée aux situations locales.
+3. Analyser le contexte, le mode de fonctionnement et les us et coutumes de mon
+pôle territorial afin de contextualiser mes missions.
+4. Découvrir les ressources et les différents outils du réseau (boite à outils,
+documents de balises pédagogiques, pyramide d'intervention, ...), en particulier
+dans les dimensions d'accompagnement de professionnels et d'andragogie.
+2. Vers l'école inclusive : un enjeu pour mon pôle et pour moi
+1. Mettre en oeuvre le sens, les enjeux, la philosophie de l'école inclusive dans le
+contexte propre de mon pôle.
+2. Adopter et développer une attitude réflexive sur le rôle de chacun des membres
+de l'équipe pluridisciplinaire au sein de mon pôle , en fonction de nos missions, au
+service de cette nouvelle dynamique.
+3. Vers l'école inclusive : un enjeu pour tous les acteurs de mon pôle
+1.Au regard du sens, des enjeux et de la philosophie de l'école inclusive, partager une
+démarche réflexive sur les rôles et missions respectives des membres de l'équipe
+pluridisciplinaire et des membres du personnel des équipes éducatives dans une
+perspective de collaboration et de co-intervention.
+2.Déterminer, mettre en oeuvre et évaluer les stratégies et procédures internes au
+pôle permettant de rencontrer ces enjeux.
+4. 1. Coordination et régulation du projet de mon pôle territorial
+1. Mettre en œuvre des démarches et outils pour soutenir et réguler le projet
+porté par l'équipe pluridisciplinaire du pôle notamment dans le cadre de
+l’annexe au contrat d’objectifs.
+2. Identifier et mettre en œuvre les modalités de coordination dans une
+démarche collective.
+3. Évaluer l'efficacité des procédures mises en place à l'aide des outils adéquats.
+Retour
+Table des matières
+LOT P003
+Objectifs
+pédagogiques
+généraux
+LOT G074
+Objectifs
+pédagogiques
+généraux
+LOT G075
+Objectifs
+pédagogiques
+généraux
+LOT G077
+Objectifs
+pédagogiques
+généraux
+LOT G078
+Objectifs
+pédagogiques
+généraux
+Retour
+Table des matières
+4.2. Coordination et régulation de mon pôle territorial : un défi partagé
+1. Mettre en œuvre des démarches et outils pour soutenir et réguler le projet du pôle
+porté par les équipes de direction des écoles ordinaires et spécialisées du pôle
+notamment au regard de leurs contrats d’objectifs.
+2. Identifier et mettre en œuvre les modalités de coordination avec tous les acteurs
+du pôle dans une démarche collective.
+3. Évaluer l'efficacité des procédures mises en place à l'aide des outils adéquats.
+4.3. Les aspects juridiques, administratifs et déontologiques de la
+fonction de coordonnateur de pôle (volet réseau)
+1. Au regard des dispositions statutaires propres à l'enseignement catholique,
+identifier la teneur de ses missions dans la fonction de coordonnateur.
+2. Mettre en œuvre le profil de fonction en fonction du contexte organisationnel de
+l'enseignement catholique.
+3. Apprendre à analyser le cadre organisationnel et institutionnel dans lequel
+s'inscrivent les missions du coordonnateur.
+4. Adopter une attitude réflexive et opérationnelle sur les principes déontologiques
+qui cadrent les missions.
+4.4. Communication interne et externe dans ma fonction de
+coordonnateur de pôle
+1.Construire, mettre en œuvre et évaluer des modes de communication appropriés
+dans un contexte de communication collective et individuelle au sein de son pôle,
+au regard des modalités d'organisation spécifiques de l'enseignement catholique.
+2.Dans le cadre de sa fonction, mettre en place des pratiques et des supports permettent une diffusion efficace de l'information au sein de son pôle et avec qui
+les
+partenaires externes.
+3.S'outiller pour déployer son assertivité dans le contexte de ses missions et en lien
+avec sa posture spécifique.
+4.5. Mise en œuvre de la gestion humaine et de l'optimalisation des
+compétences professionnelles dans la fonction de coordonnateur de
+pôle
+1.Mettre en œuvre des techniques et des outils de gestion des ressources humaines
+au sein du pôle.
+2. Mettre en œuvre les démarches et outils pour instaurer des pratiques de
+reconnaissance et de valorisation professionnelles.
+3.Mettre en œuvre des démarches et outils pour gérer son temps et organiser son
+travail.
+4.Partager avec des collègues sur les démarches mises en œuvre, leur évaluation et
+les perspectives d'amélioration.
+4.6. Gestion de situations de crise dans la fonction de coordonnateur
+de pôles
+1.Mettre en œuvre des outils et démarches pour analyser et gérer les diverses
+dimensions d'une situation de crise au sein de son pôle.
+2.Connaitre, identifier et activer des ressources internes et externes (en particulier
+celles du réseau) en adéquation avec la situation.
+3. Identifier et mettre en œuvre des pistes de développement professionnel
+individuel/collectif en lien avec cette thématique.
+O14. NOVICES
+LOT G079
+4.7. Exercice du leadership dans ma fonction de coordonnateur de pôle
+Objectifs
+pédagogiques
+généraux
+1.Mettre en œuvre une dynamique de leadership dans ses différentes dimensions
+(mobilisation et implication des acteurs, conduite du changement, exemplarité,
+relation de confiance, exercice de l'autorité), dans une dynamique de management
+transversal, au regard du contexte organisationnel spécifique de l'enseignement
+catholique.
+2.Développer une analyse réflexive sur les pratiques de leadership situationnel à partir
+de situations concrètes.
+3.Mettre en place des stratégies contextualisées pour entretenir un climat de travail
+qui stimule l'esprit d'équipe, la collaboration, le partage d'expérience et la
+responsabilisation.
+4.Mettre en œuvre des démarches pour surmonter les freins et résistances au
+changement et évaluer leur impact.
+5. Mettre en application des outils et démarches pour définir, superviser et faire
+évoluer les rôles, tâches, fonctions et responsabilités des différents acteurs de
+l'équipe (incluant les modalités de délégation).
+6.Mettre en œuvre des outils d'animation de réunions et de processus de négociation
+en tenant compte du contexte spécifique du pôle.
+7.Partager avec des collègues exerçant la même fonction sur l'impact et les effets de qui a été mis en oeuvre.
+O14. NOVICES
+ce
+LOT P004
+Objectifs
+pédagogiques
+généraux
+5. Vers l'école inclusive : accompagnement contextualisé des équipes
+de l'enseignement ordinaire dans la construction d'une école plus
+inclusive
+1. Développer une attitude réflexive sur les missions, le rôle et la place des
+intervenants en lien avec le contexte propre de son pôle territorial.
+2.Mettre en oeuvre, évaluer et ajuster les outils réseau et les outils du pôle pour
+accompagner les équipes pédagogiques des écoles ordinaires dans une perspective
+andragogique.
+3.Identifier et mettre en oeuvre des dispositifs variés pour soutenir une école plus
+inclusive et examiner et soutenir leurs conditions de mise en oeuvre.
+LOT P005
+Objectifs
+pédagogiques
+généraux
+6. Vers un pôle" zéro stress": développer un climat professionnel serein
+Au regard du contexte spécifique du pôle, apprendre à ...
+1.Identifier et mettre en œuvre les paramètres d'un climat organisationnel
+permettant un travail dans la sérénité.
+2.Partager sur les pratiques mises en œuvre, leurs effets et impacts.
+Retour
+Table des matières
+Orientation P02 : Saisir les enjeux, encourager et développer les pratiques
+collaboratives, l’intelligence collective et le travail d’équipe au niveau des pôles
+territoriaux, la collaboration avec les équipes éducatives, les CPMS et les
+partenaires externes.
+LOT P006
+Objectifs
+pédagogiques
+généraux
+7. De l'analyse de la demande à la mise en œuvre d'une réponse ajustée
+Au regard du contexte spécifique du pôle, apprendre à ...
+1. Effectuer une analyse optimale de la demande : identifier les besoins des écoles
+partenaires et coopérantes afin de mieux gérer l'agenda général du pôle.
+2. Favoriser l'équilibre entre préparation et intervention.
+LOT G056
+Objectifs
+pédagogiques
+généraux
+O14. NOVICES
+LOT G059
+Objectifs
+pédagogiques
+généraux
+LOT G064
+Objectifs
+pédagogiques
+généraux
+8. Vers l'école inclusive : mise en place et évaluation des protocoles
+dans mon pôle territorial
+1.En prenant appui sur le contexte spécifique du pôle, apprendre à construire
+un accompagnement dans l'utilisation du protocole qui fédère les acteurs du
+conseil de classe (enseignants, direction, CPMS).
+2. Mettre en oeuvre en contexte les démarches de coenseignement et de co-
+intervention dans une perspective de co-développement professionnel.
+9. Vers l'Ecole inclusive : mise en œuvre des aménagements
+raisonnables dans mon pôle
+1.Apprendre à établir un état des lieux des pratiques d'aménagements
+raisonnables mises en place dans les écoles du pôle.
+2. Construire et mettre en œuvre des pistes d'action pour améliorer
+l’encadrement des élèves à besoins spécifiques en tenant compte des besoins
+et des moyens de chaque enseignant et du contexte de son école.
+3.Partager avec des collègues sur les conditions, l'impact et les effets de la mise
+en œuvre des aménagements raisonnables dans l'école.
+4.Aménager, adapter, harmoniser les pratiques pédagogiques porteuses dans le
+cadre de la différenciation pédagogique.
+10. Vers l'école inclusive : développement de la collaboration et des
+partenariats au sein de mon pôle
+1.Construire une démarche d'échanges de pratiques pédagogiques porteuses de
+fruit dans une perspective de co-enseignement et de co-intervention.
+2. Apprendre à co-construire avec les partenaires du pôle, mettre en œuvre et
+évaluer des outils utilisés au sein du pôle.
+LOT P007
+Objectifs
+pédagogiques
+généraux
+11. La communication efficace pour responsabiliser les élèves : un
+enjeu collaboratif entre professionnels de mon pôle
+En prenant appui sur le contexte spécifique du pôle :
+1. Mettre en oeuvre, évaluer et ajuster les stratégies de communication conjointe
+entre professionnels pour responsabiliser les élèves dans leurs apprentissages.
+2.Développer des espaces partagés d'analyse réflexive sur ces pratiques de
+communication.
+Retour
+Table des matières
+Orientation P03 : Soutenir le développement des compétences
+professionnelles, faire évoluer ses connaissances et ses pratiques dans sa
+fonction de membre de l’équipe pluridisciplinaire des pôles territoriaux, de
+coordonnateur des pôles territoriaux.
+LOT G060
+Objectifs
+pédagogiques
+généraux
+LOT P008
+O14. NOVICES
+Objectifs
+pédagogiques
+généraux
+12. Troubles d'apprentissage et handicaps : mise en œuvre de
+stratégies, de démarches, de pratiques et d'outils en contexte de mon
+pôle
+1.Identifier les ressources internes au pôle et au réseau (notamment l'outillage
+pédagogique spécifique) soutenant la gestion éducative et pédagogique des
+troubles d'apprentissage et handicaps (complexes).
+2. Mettre en œuvre des démarches, des pratiques et des outils adéquats au contexte
+permettant de gérer les troubles d'apprentissage/handicaps (complexes).
+3.Partager avec des collègues sur les impacts et effets de ces démarches, pratiques et
+outils.
+13. Vers l'école inclusive : mise en œuvre de pratiques d'évaluation
+prenant en compte les besoins spécifiques
+1.En prenant appui sur les orientations méthodologiques des programmes de
+l'Enseignement catholique et les outils afférents, découvrir les pratiques
+d'évaluation différenciée pour soutenir les élèves à besoins spécifiques dans classe.
+2. Découvrir comment ces évaluations sont exploitées par les enseignants dans
+une perspective d'approche évolutive.
+la
+LOT P009
+Objectifs
+pédagogiques
+généraux
+14. Vers l'école inclusive : la mise en œuvre au sein de mon pôle de
+pratiques d'évaluation ,un enjeu partagé entre professionnels
+1. Identifier et mettre en œuvre les modalités d'une démarche d'évaluation à
+laquelle contribuent les membres des équipes éducatives et les membres de
+l'équipe pluridisciplinaire.
+2. Développer un espace d'analyse conjointe des pratiques.
+LOT P010
+Objectifs
+pédagogiques
+généraux
+15. Vers l'Ecole inclusive : appropriation et mise en œuvre de la
+pyramide d'intervention au sein de mon pôle
+1.S'approprier le champ conceptuel de la pyramide d'intervention de prise
+en charge des difficultés et troubles d'apprentissage et des besoins
+spécifiques.
+2. Mettre en oeuvre cet outil dans la perspective de l'approche évolutive.
+3. Identifier, mettre en place et évaluer ses stratégies éducatives,
+pédagogiques et didactiques en lien avec la pyramide d'intervention.
+Retour
+Table des matières
+LOT P011
+Objectifs
+pédagogiques
+généraux
+LOT P012
+Objectifs
+pédagogiques
+généraux
+16. Découverte des programmes du réseau au service d'une école
+inclusive dans la discipline/le secteur XXX
+1. Identifier comment les orientations méthodologiques des programmes de
+l'enseignement catholique dans le secteur/la discipline XXX permettent de
+s'inscrire dans une logique d'inclusion
+2.Découvrir les outils pédagogiques afférents et leurs modalités de mise en
+oeuvre
+17. Les programmes au service d'une école inclusive dans la
+discipline/le secteur XXX : un espace de co-intervention
+1.Entrer dans une démarche de co-intervention avec les enseignants sur le
+terrain de l'apprentissage intégrant une démarche d'inclusion.
+2.Partager avec des collègues sur les conditions, l'impact et les effets de
+cette mise en œuvre.
+Retour
+Table des matières

@@ -58,14 +58,16 @@ Copier-coller = mise en forme perdue. Limites de caractères **espaces compris**
 | Texte d'accroche (catalogue) | 250 car. |
 | Objectifs généraux | copiés du vademecum (annexe 1) |
 | Objectifs spécifiques | 700 car. |
-| Répartition des heures (min. 3 h ; 1 jour = 6 h) + flexibilité oui/non | 200 car. |
+| Nombre d'heures envisagées (obligatoire, min. 3 h) | — |
+| Répartition des heures (1 jour = 6 h) + flexibilité oui/non | 200 car. |
 | Modalité(s) : présentiel, distance, hybride, e-learning… + articulation | 250 car. |
-| Nombre max. de participants (24 par défaut) + justification | 300 car. |
-| Régions, local, matériel | cases à cocher |
+| Nombre **minimum** de participants (obligatoire) | — |
+| Nombre max. de participants (facultatif, 24 par défaut) + justification | 300 car. |
+| Régions, local, matériel (+ « Autre » 200 car.) ; matériel facturé (500 car.) | cases à cocher |
 | **Contenus** (cadre théorique, références, signature pédagogique IFEC, ancrage réseau) | **2000 car.** |
 | **Méthodologie** (activités, engagement, réflexivité, transfert) | **2000 car.** |
-| Public : niveau (secondaire), années S1-S7, fonctions, discipline (ex. Français) | cases + 300 car. |
-| Formateur(s), remplaçant éventuel | — |
+| Public : niveau (secondaire), type d'enseignement (+ spécificités 250 car. si spécialisé ou pôles), fonctions, années S1-S7, filières, type de formation, discipline (ex. Français) | cases + 300 car. |
+| Nombre de formateurs + mode d'intervention, formateur(s) et remplaçant éventuel avec mail et GSM | — |
 
 ## C. Ce qui est noté (sur 100)
 

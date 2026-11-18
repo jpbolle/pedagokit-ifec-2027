@@ -9,10 +9,10 @@
 | # | Pièce | Détail | Pourquoi |
 |---|---|---|---|
 | 1 | **CV** (PDF) | Nommé `PEDAGOKIT-CV-NOM.pdf` (ex. `PEDAGOKIT-CV-FIEVET.pdf`) — règle de nommage du vademecum p. 12 | Obligatoire (CSC § 2.6.2) ; vaut **14 points** |
-| 2 | **Coordonnées** | Nom, prénom, adresse mail, n° de GSM | Rubrique « Formateurs » du formulaire |
+| 2 | **Coordonnées** | Nom, prénom, adresse mail, n° de GSM — **pas d'adresse postale** (non demandée, elle n'a rien à faire dans la fiche) | Rubrique « Formateurs » du formulaire |
 | 3 | **Discipline(s)** du secondaire visée(s) | Une discipline de la liste du formulaire (Français, Langues modernes, Mathématiques, Sciences…) | Rubrique « Public » |
 | 4 | **Lot(s) visé(s)** | G131 et/ou G133 (G137 : uniquement Isabelle Fievet et J.-P. Bolle) | Arbitrage des 5 places par lot |
-| 5 | **Remplaçant éventuel** | Un autre formateur PedagokIT capable d'assurer la formation | Rubrique facultative, mais rassure l'IFEC |
+| 5 | **Remplaçant éventuel** | Un autre formateur PedagokIT capable d'assurer la formation — avec son **mail et son GSM** (demandés par le formulaire) | Rubrique facultative, mais rassure l'IFEC |
 | 6 | **Régions** où le formateur peut se déplacer | Bruxelles, Brabant wallon, Hainaut, Liège, Namur, Luxembourg | Rubrique obligatoire |
 | 7 | **La fiche de formation** (`.md`) | Rédigée avec Claude via `/fiche-ifec`, dans `fiches/<lot>/`, puis **envoyée par mail à J.-P. Bolle au plus tard le 25/11/2026** | Étape 2 |
 
@@ -32,6 +32,9 @@ Le CV doit donc montrer, de façon datée et chiffrée quand c'est possible :
 - l'**appartenance à PedagokIT** et le rôle dans l'ASBL.
 
 2 pages maximum. *(conseil, pas une exigence du CSC)*
+
+> **Cas de J.-P. Bolle** (coordinateur) : il remet ses pièces à lui-même ; sa fiche reste dans
+> `fiches/<lot>/` et son CV peut être déposé directement sur la plateforme.
 
 ## Ce que le formateur ne fournit PAS
 

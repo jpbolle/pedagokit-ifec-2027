@@ -18,6 +18,9 @@
 
 1. **Le rythme PedagokIT est nommé** : *Je montre* (modélisation courte, 15-20 min max.) → *On fait
    ensemble* → *Je fais* (défi sur **ses propres supports**) → *Je réfléchis* (retour réflexif).
+   Ce n'est pas un moule : demander au formateur **son** rythme réel, puis le rattacher à ces quatre
+   temps (ex. « intro à l'outil → défis différenciés → retour méta » = Je montre → On fait ensemble /
+   Je fais → Je réfléchis). Formule issue de l'offre IFPC 4 (sciences), cf. `analyse-offres-ifpc.md`.
 2. **Partir des participants** : recueil des représentations à l'ouverture, défis de niveaux
    différents, posture miroir (le prof vit l'activité comme un élève).
 3. **Un fil rouge et des livrables** annoncés au départ et récapitulés à la fin (bibliothèque de
@@ -25,7 +28,8 @@
 4. **Clôture de transfert** : partage entre pairs (galerie), engagement « dès lundi » (1 outil pivot +
    1 à 2 engagements datés), évaluation.
 5. **Une seule méthode de prompt PedagokIT : RoTaConFor** (**Ro**le, **Ta**che, **Con**texte,
-   **For**mat), écrite ainsi dans toutes les fiches — jamais « RoTaConFo », RCTF ou « 3 petits bons ».
+   **For**mat), écrite ainsi dans toutes les fiches — jamais « RoTaConFo », RCTF, RTC ou « 3 petits bons ».
+   (Le Genially FranIA enseigne encore le « modèle RTC » : ne pas le reprendre.)
    Le **Prompt Generator** (<https://edukids.pedagokit.be/promptGenerator/>) n'est pas une méthode :
    c'est le **générateur de prompts** de PedagokIT, présenté comme l'outil qui aide à appliquer
    RoTaConFor. *(décision J.-P. Bolle, 2026-11-10)*
@@ -71,3 +75,10 @@
 - Présenter un outil maison « en cours de développement » comme ressource acquise.
 - Laisser un objectif général sans trace dans les contenus ou la méthodologie.
 - Dépasser une limite de caractères : le texte serait **coupé** à l'import.
+
+## Vitrine et cœur de la fiche
+
+L'**accroche** et les **mots-clés** s'adressent aux enseignant·e·s du catalogue ; les **Contenus**
+et la **Méthodologie** s'adressent à l'évaluateur. Un élément exigé par le lot (ex. la grille
+d'analyse en G131) doit figurer dans le cœur de la fiche, pas forcément dans la vitrine : le
+formateur choisit ce qu'il met en avant. *(fiche Bolle G131, 2026-11-10)*

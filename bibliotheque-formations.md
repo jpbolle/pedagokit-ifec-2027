@@ -10,6 +10,17 @@
 | Jean-Philippe Bolle | edulab — Outils pour le français — 1j | Genially (HTML hors ligne) | [genially_6adfaedc2fb7e9c6c01db96c/genially.html](genially_6adfaedc2fb7e9c6c01db96c/genially.html) · Texte : [bibliotheque/jp-edulab-outils-francais-1j.genially.txt](bibliotheque/jp-edulab-outils-francais-1j.genially.txt) | à préciser |
 | Isabelle Fievet | Personnaliser l'apprentissage avec l'IA : tutorat, remédiation, différenciation (Parcours IA4EDU 2026-2027) — fichier Canva « NEW M2 2J », 138 diapos | Canva | Édition : <https://www.canva.com/design/DAHN80gZomk/Dvg8hFGPh1m8rAcfhOu2uQ/edit> · Public : <https://canva.link/1dss7p4f068ea1u> · Texte extrait : [bibliotheque/isabelle-personnaliser-apprentissage-ia.canva.txt](bibliotheque/isabelle-personnaliser-apprentissage-ia.canva.txt) | G133 (différenciation) — à valider |
 
+## Mises en garde (premier test du harnais, 2026-11-10)
+
+- **FranIA** (`jp-frania.genially.txt`, l. 200-210) enseigne le « modèle RTC » : dans une fiche,
+  écrire **RoTaConFor** (charte, règle 5).
+- **Aucune grille d'analyse des outils** dans les supports de J.-P. Bolle : une fiche G131 doit la
+  construire avec le formateur (critères appuyés sur des références).
+- **IFPC 3** cite Bertrand avec deux dates (2025, Vuibert, l. 209 ; 2024, l. 280) et présente
+  RectoVersIA et navigKid! comme « en cours de développement » : vérifier avant tout réemploi.
+- Les **titres des programmes** cités dans les offres IFPC sont ceux du Référentiel FWB, pas ceux
+  du programme du réseau : voir `harnais/attendus-ifec.md` § 5.
+
 ## Offres IFPC rédigées par PedagokIT (évaluées autour de 90 %)
 
 Originaux Word dans `projets IFPC/` ; texte dans `bibliotheque/`. Analyse : [analyse-offres-ifpc.md](analyse-offres-ifpc.md).

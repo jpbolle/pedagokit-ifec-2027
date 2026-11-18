@@ -13,7 +13,8 @@
 | J.-P. Bolle, pour assembler un lot | `/assembler-offre` |
 
 Au démarrage d'une session sans commande : se présenter en une phrase, demander qui parle, et
-proposer `/fiche-ifec`.
+proposer `/fiche-ifec`. La skill commence elle-même par présenter au formateur les étapes et la
+manière de travailler (une question à la fois, brouillons écrits dans sa fiche).
 
 ## Règles du marché (non négociables)
 
@@ -44,8 +45,8 @@ proposer `/fiche-ifec`.
   une étape, puis attendre « ok ».
 - Français, phrases courtes, tableaux et listes plutôt que longs paragraphes.
 - Tout terme technique reçoit une courte explication entre parenthèses à sa première apparition.
-- Travailler **dans les fichiers** (`fiches/<lot>/…`) pour que le formateur voie le texte évoluer,
-  plutôt que de tout écrire dans le chat.
+- Écrire **dans les fichiers** (`fiches/<lot>/…`) pour garder la trace, **et montrer dans le chat**
+  le texte proposé pour la rubrique en cours, pour que le formateur le juge et le personnalise en direct.
 - Fin de séance : une phrase de résumé, puis ce qu'il reste à faire.
 
 ## Interdits
@@ -65,7 +66,8 @@ proposer `/fiche-ifec`.
 | `harnais/charte-pedagokit.md` | ADN et 10 règles d'écriture PedagokIT, budget des blocs de 2000 caractères |
 | `harnais/pieces-formateur.md` | Ce que chaque formateur remet à l'ASBL |
 | `harnais/formateurs.md` | Formateurs, disciplines, lots autorisés |
-| `harnais/outils/` | `verifier_fiche.py` (limites), `extraire_genially.py` (texte d'un export Genially) |
+| `harnais/outils/` | `verifier_fiche.py` (limites), `extraire_genially.py` (texte d'un export Genially), `pdf_en_texte.js` (texte d'un PDF, Mac) |
+| `harnais/officiels-txt/` | Texte brut des PDF officiels, pour y chercher une règle (le PDF fait foi) |
 | `fiches/_modele.md`, `fiches/<lot>/` | Modèle et fiches des formateurs |
 | `bibliotheque/`, `bibliotheque-formations.md` | Supports PedagokIT en texte (Genially, Canva, offres IFPC) |
 | `ressources.md`, `ressources/` | Ressources du réseau (vidéo approche évolutive…) |
